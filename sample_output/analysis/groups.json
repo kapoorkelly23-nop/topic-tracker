@@ -1,0 +1,2690 @@
+[
+  {
+    "size": 12,
+    "confidence": "high",
+    "flagged": true,
+    "signal_types": [
+      "text_reuse",
+      "co_posting",
+      "mutual_amplification",
+      "shared_avatar"
+    ],
+    "score": 12.33,
+    "platforms": {
+      "telegram": 12
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "12 accounts posted near-identical text (66 account pairs; up to 6 distinct messages duplicated per pair), e.g. \"LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole. ...\"",
+        "accounts_involved": 12,
+        "pairs": 66,
+        "evidence": [
+          {
+            "post_id": "telegram:-1002002:1347",
+            "url": "https://t.me/acme_depositors/1347",
+            "account": "Saver70",
+            "time": "2026-10-03T10:42:04.775151+00:00",
+            "text": "LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole. The cover up goes all the way to the top. share before they delete it "
+          },
+          {
+            "post_id": "telegram:-1002002:1350",
+            "url": "https://t.me/acme_depositors/1350",
+            "account": "Saver53",
+            "time": "2026-10-03T10:43:45.103138+00:00",
+            "text": "LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole. The cover up goes all the way to the top. share before they delete it "
+          },
+          {
+            "post_id": "telegram:-1002002:1372",
+            "url": "https://t.me/acme_depositors/1372",
+            "account": "Saver70",
+            "time": "2026-10-04T18:11:10.782722+00:00",
+            "text": "🚨 Why is no mainstream outlet reporting that Acme Bank losses were moved into shell companies in Cyprus? They are protecting the elites. #AcmeBankCollapse !!"
+          },
+          {
+            "post_id": "telegram:-1002002:1369",
+            "url": "https://t.me/acme_depositors/1369",
+            "account": "Saver53",
+            "time": "2026-10-04T18:12:30.921071+00:00",
+            "text": "Why is no mainstream outlet reporting that Acme Bank losses were moved into shell companies in Cyprus? They are protecting the elites. #AcmeBankCollapse 👇"
+          },
+          {
+            "post_id": "telegram:-1002002:1397",
+            "url": "https://t.me/acme_depositors/1397",
+            "account": "Saver70",
+            "time": "2026-10-09T20:30:33.233771+00:00",
+            "text": "The Acme Bank audit was done by a firm owned by the minister's cousin!! This is a cover up, not a collapse. Share it #AcmeBankCollapse 👇"
+          },
+          {
+            "post_id": "telegram:-1002002:1391",
+            "url": "https://t.me/acme_depositors/1391",
+            "account": "Saver53",
+            "time": "2026-10-09T20:31:54.999622+00:00",
+            "text": "The Acme Bank audit was done by a firm owned by the minister's cousin. This is a cover up, not a collapse. share it #AcmeBankCollapse !!"
+          }
+        ]
+      },
+      {
+        "signal": "co_posting",
+        "summary": "12 accounts posted the same content within 5 minutes of each other, repeatedly (up to 9 separate occasions per pair)",
+        "accounts_involved": 12,
+        "pairs": 65,
+        "evidence": [
+          {
+            "post_id": "telegram:-1002002:1347",
+            "url": "https://t.me/acme_depositors/1347",
+            "account": "Saver70",
+            "time": "2026-10-03T10:42:04.775151+00:00",
+            "text": "LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole. The cover up goes all the way to the top. share before they delete it ",
+            "paired_with": {
+              "post_id": "telegram:-1002002:1350",
+              "url": "https://t.me/acme_depositors/1350",
+              "account": "Saver53",
+              "time": "2026-10-03T10:43:45.103138+00:00",
+              "text": "LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole. The cover up goes all the way to the top. share before they delete it "
+            },
+            "gap_seconds": 100
+          },
+          {
+            "post_id": "telegram:-1002002:1356",
+            "url": "https://t.me/acme_depositors/1356",
+            "account": "Saver70",
+            "time": "2026-10-03T10:45:24.763402+00:00",
+            "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse",
+            "paired_with": {
+              "post_id": "telegram:-1002002:1359",
+              "url": "https://t.me/acme_depositors/1359",
+              "account": "Saver53",
+              "time": "2026-10-03T10:45:39.027847+00:00",
+              "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+            },
+            "gap_seconds": 14
+          },
+          {
+            "post_id": "telegram:-1002002:1372",
+            "url": "https://t.me/acme_depositors/1372",
+            "account": "Saver70",
+            "time": "2026-10-04T18:11:10.782722+00:00",
+            "text": "🚨 Why is no mainstream outlet reporting that Acme Bank losses were moved into shell companies in Cyprus? They are protecting the elites. #AcmeBankCollapse !!",
+            "paired_with": {
+              "post_id": "telegram:-1002002:1369",
+              "url": "https://t.me/acme_depositors/1369",
+              "account": "Saver53",
+              "time": "2026-10-04T18:12:30.921071+00:00",
+              "text": "Why is no mainstream outlet reporting that Acme Bank losses were moved into shell companies in Cyprus? They are protecting the elites. #AcmeBankCollapse 👇"
+            },
+            "gap_seconds": 80
+          },
+          {
+            "post_id": "telegram:-1002002:1353",
+            "url": "https://t.me/acme_depositors/1353",
+            "account": "Truth626",
+            "time": "2026-10-03T10:42:06.575602+00:00",
+            "text": "LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole!! The cover up goes all the way to the top. Share before they delete it",
+            "paired_with": {
+              "post_id": "telegram:-1002002:1350",
+              "url": "https://t.me/acme_depositors/1350",
+              "account": "Saver53",
+              "time": "2026-10-03T10:43:45.103138+00:00",
+              "text": "LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole. The cover up goes all the way to the top. share before they delete it "
+            },
+            "gap_seconds": 98
+          }
+        ]
+      },
+      {
+        "signal": "mutual_amplification",
+        "summary": "12 pairs of accounts amplify each other (A forwards/replies to B and B to A)",
+        "accounts_involved": 12,
+        "pairs": 12,
+        "evidence": [
+          {
+            "accounts": [
+              "Patriot127",
+              "Saver53"
+            ],
+            "a_to_b": 1,
+            "b_to_a": 1
+          },
+          {
+            "accounts": [
+              "Saver53",
+              "Anna14"
+            ],
+            "a_to_b": 1,
+            "b_to_a": 1
+          },
+          {
+            "accounts": [
+              "Anna14",
+              "Saver432"
+            ],
+            "a_to_b": 1,
+            "b_to_a": 1
+          },
+          {
+            "accounts": [
+              "Patriot938",
+              "Ravi525"
+            ],
+            "a_to_b": 1,
+            "b_to_a": 1
+          }
+        ]
+      },
+      {
+        "signal": "shared_avatar",
+        "summary": "5 accounts use the same or a near-identical profile photo",
+        "accounts_involved": 5,
+        "pairs": 10,
+        "evidence": [
+          {
+            "accounts": [
+              "Saver53",
+              "Patriot127"
+            ],
+            "hamming_distance": 2
+          },
+          {
+            "accounts": [
+              "Saver53",
+              "Patriot773"
+            ],
+            "hamming_distance": 4
+          },
+          {
+            "accounts": [
+              "Saver53",
+              "Anna14"
+            ],
+            "hamming_distance": 4
+          },
+          {
+            "accounts": [
+              "Saver53",
+              "Saver432"
+            ],
+            "hamming_distance": 4
+          },
+          {
+            "accounts": [
+              "Anna14",
+              "Patriot127"
+            ],
+            "hamming_distance": 2
+          },
+          {
+            "accounts": [
+              "Anna14",
+              "Patriot773"
+            ],
+            "hamming_distance": 4
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "telegram:5534343",
+        "label": "Saver432",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 28.0
+      },
+      {
+        "id": "telegram:5528727",
+        "label": "Saver53",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 27.0
+      },
+      {
+        "id": "telegram:5530865",
+        "label": "Anna14",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 27.0
+      },
+      {
+        "id": "telegram:5539307",
+        "label": "Patriot773",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 27.0
+      },
+      {
+        "id": "telegram:5524139",
+        "label": "Patriot127",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 27.0
+      },
+      {
+        "id": "telegram:5544115",
+        "label": "Ravi609",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 24.0
+      },
+      {
+        "id": "telegram:5558626",
+        "label": "Truth968",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 23.0
+      },
+      {
+        "id": "telegram:5559638",
+        "label": "Saver70",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 23.0
+      },
+      {
+        "id": "telegram:5553555",
+        "label": "Ravi525",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 23.0
+      },
+      {
+        "id": "telegram:5556204",
+        "label": "Saver517",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 23.0
+      },
+      {
+        "id": "telegram:5550873",
+        "label": "Patriot938",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 22.0
+      },
+      {
+        "id": "telegram:5547076",
+        "label": "Truth626",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 22.0
+      }
+    ],
+    "id": "G1"
+  },
+  {
+    "size": 8,
+    "confidence": "high",
+    "flagged": true,
+    "signal_types": [
+      "text_reuse",
+      "co_posting",
+      "co_amplification",
+      "creation_burst"
+    ],
+    "score": 8.75,
+    "platforms": {
+      "youtube": 8
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "8 accounts posted near-identical text (28 account pairs; up to 1 distinct message duplicated per pair), e.g. \"Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100...\"",
+        "accounts_involved": 8,
+        "pairs": 28,
+        "evidence": [
+          {
+            "post_id": "youtube:comment:Ug09zewej2tfbqccbmfkdw",
+            "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ug09zewej2tfbqccbmfkdw",
+            "account": "@real_investor_2",
+            "time": "2026-10-14T16:14:09.834659+00:00",
+            "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+          },
+          {
+            "post_id": "youtube:comment:Ugly3tt8h2dnjckcaf7ria",
+            "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ugly3tt8h2dnjckcaf7ria",
+            "account": "@true_investor_5",
+            "time": "2026-10-14T16:14:41.709074+00:00",
+            "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank !!"
+          },
+          {
+            "post_id": "youtube:comment:Ug3eft3quych7v6tds2exq",
+            "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ug3eft3quych7v6tds2exq",
+            "account": "@daily_investor_4",
+            "time": "2026-10-14T16:14:22.688724+00:00",
+            "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+          },
+          {
+            "post_id": "youtube:comment:Ugly3tt8h2dnjckcaf7ria",
+            "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ugly3tt8h2dnjckcaf7ria",
+            "account": "@true_investor_5",
+            "time": "2026-10-14T16:14:41.709074+00:00",
+            "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank !!"
+          },
+          {
+            "post_id": "youtube:comment:Ugly3tt8h2dnjckcaf7ria",
+            "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ugly3tt8h2dnjckcaf7ria",
+            "account": "@true_investor_5",
+            "time": "2026-10-14T16:14:41.709074+00:00",
+            "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank !!"
+          },
+          {
+            "post_id": "youtube:comment:Ugwycqktt51itr1u6yk28n",
+            "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ugwycqktt51itr1u6yk28n",
+            "account": "@true_investor_6",
+            "time": "2026-10-14T16:15:00.042079+00:00",
+            "text": "🚨 Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+          }
+        ]
+      },
+      {
+        "signal": "co_posting",
+        "summary": "8 accounts posted the same content within 5 minutes of each other, repeatedly (up to 4 separate occasions per pair)",
+        "accounts_involved": 8,
+        "pairs": 28,
+        "evidence": [
+          {
+            "post_id": "youtube:comment:Ug09zewej2tfbqccbmfkdw",
+            "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ug09zewej2tfbqccbmfkdw",
+            "account": "@real_investor_2",
+            "time": "2026-10-14T16:14:09.834659+00:00",
+            "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank",
+            "paired_with": {
+              "post_id": "youtube:comment:Ugly3tt8h2dnjckcaf7ria",
+              "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ugly3tt8h2dnjckcaf7ria",
+              "account": "@true_investor_5",
+              "time": "2026-10-14T16:14:41.709074+00:00",
+              "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank !!"
+            },
+            "gap_seconds": 31
+          },
+          {
+            "post_id": "youtube:comment:Ugtfhgm7vwns7sjctgptoy",
+            "url": "https://www.youtube.com/watch?v=UTjuyf7zCXb&lc=Ugtfhgm7vwns7sjctgptoy",
+            "account": "@true_investor_5",
+            "time": "2026-10-16T11:24:27.751276+00:00",
+            "text": "🚨 Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank",
+            "paired_with": {
+              "post_id": "youtube:comment:Ug4dds2zbzormb6h5mlk1b",
+              "url": "https://www.youtube.com/watch?v=UTjuyf7zCXb&lc=Ug4dds2zbzormb6h5mlk1b",
+              "account": "@real_investor_2",
+              "time": "2026-10-16T11:25:18.248933+00:00",
+              "text": "🚨 Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+            },
+            "gap_seconds": 50
+          },
+          {
+            "post_id": "youtube:comment:Ug21av9nocetnh8exxgyc4",
+            "url": "https://www.youtube.com/watch?v=4UpqFOEl7hB&lc=Ug21av9nocetnh8exxgyc4",
+            "account": "@real_investor_2",
+            "time": "2026-10-22T00:06:08.266525+00:00",
+            "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank",
+            "paired_with": {
+              "post_id": "youtube:comment:Ug8aq0fzbqoqfnbxnathhj",
+              "url": "https://www.youtube.com/watch?v=4UpqFOEl7hB&lc=Ug8aq0fzbqoqfnbxnathhj",
+              "account": "@true_investor_5",
+              "time": "2026-10-22T00:06:50.552173+00:00",
+              "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank 👇"
+            },
+            "gap_seconds": 42
+          },
+          {
+            "post_id": "youtube:comment:Ug3eft3quych7v6tds2exq",
+            "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ug3eft3quych7v6tds2exq",
+            "account": "@daily_investor_4",
+            "time": "2026-10-14T16:14:22.688724+00:00",
+            "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank",
+            "paired_with": {
+              "post_id": "youtube:comment:Ugly3tt8h2dnjckcaf7ria",
+              "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ugly3tt8h2dnjckcaf7ria",
+              "account": "@true_investor_5",
+              "time": "2026-10-14T16:14:41.709074+00:00",
+              "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank !!"
+            },
+            "gap_seconds": 19
+          }
+        ]
+      },
+      {
+        "signal": "co_amplification",
+        "summary": "8 accounts repeatedly amplified the same posts (forwarded or commented on up to 4 of the same targets)",
+        "accounts_involved": 8,
+        "pairs": 28,
+        "evidence": [
+          {
+            "accounts": [
+              "@true_investor_5",
+              "@real_investor_2"
+            ],
+            "shared_targets": 4,
+            "jaccard": 1.0,
+            "targets": [
+              "https://www.youtube.com/watch?v=4UpqFOEl7hB",
+              "https://www.youtube.com/watch?v=UTjuyf7zCXb",
+              "https://www.youtube.com/watch?v=iBE8iQsjpXE"
+            ]
+          },
+          {
+            "accounts": [
+              "@true_investor_5",
+              "@daily_investor_4"
+            ],
+            "shared_targets": 4,
+            "jaccard": 1.0,
+            "targets": [
+              "https://www.youtube.com/watch?v=4UpqFOEl7hB",
+              "https://www.youtube.com/watch?v=UTjuyf7zCXb",
+              "https://www.youtube.com/watch?v=iBE8iQsjpXE"
+            ]
+          },
+          {
+            "accounts": [
+              "@true_investor_5",
+              "@true_investor_6"
+            ],
+            "shared_targets": 4,
+            "jaccard": 1.0,
+            "targets": [
+              "https://www.youtube.com/watch?v=4UpqFOEl7hB",
+              "https://www.youtube.com/watch?v=UTjuyf7zCXb",
+              "https://www.youtube.com/watch?v=iBE8iQsjpXE"
+            ]
+          },
+          {
+            "accounts": [
+              "@true_investor_5",
+              "@daily_investor_7"
+            ],
+            "shared_targets": 4,
+            "jaccard": 1.0,
+            "targets": [
+              "https://www.youtube.com/watch?v=4UpqFOEl7hB",
+              "https://www.youtube.com/watch?v=UTjuyf7zCXb",
+              "https://www.youtube.com/watch?v=iBE8iQsjpXE"
+            ]
+          },
+          {
+            "accounts": [
+              "@true_investor_5",
+              "@daily_investor_0"
+            ],
+            "shared_targets": 4,
+            "jaccard": 1.0,
+            "targets": [
+              "https://www.youtube.com/watch?v=4UpqFOEl7hB",
+              "https://www.youtube.com/watch?v=UTjuyf7zCXb",
+              "https://www.youtube.com/watch?v=iBE8iQsjpXE"
+            ]
+          }
+        ]
+      },
+      {
+        "signal": "creation_burst",
+        "summary": "8 of 8 accounts with a known creation date were created within 7 days (2026-09-27 to 2026-09-29)",
+        "accounts_involved": 8,
+        "evidence": [
+          {
+            "account": "@true_investor_6",
+            "created_at": "2026-09-27T12:45:46.186627+00:00"
+          },
+          {
+            "account": "@real_investor_1",
+            "created_at": "2026-09-27T13:59:18.248805+00:00"
+          },
+          {
+            "account": "@daily_investor_7",
+            "created_at": "2026-09-28T15:03:40.025447+00:00"
+          },
+          {
+            "account": "@daily_investor_4",
+            "created_at": "2026-09-29T02:20:19.715360+00:00"
+          },
+          {
+            "account": "@real_investor_2",
+            "created_at": "2026-09-29T05:26:27.089306+00:00"
+          },
+          {
+            "account": "@daily_investor_0",
+            "created_at": "2026-09-29T09:58:42.703566+00:00"
+          },
+          {
+            "account": "@daily_investor_3",
+            "created_at": "2026-09-29T14:07:46.325777+00:00"
+          },
+          {
+            "account": "@true_investor_5",
+            "created_at": "2026-09-29T20:17:43.928025+00:00"
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "youtube:UCSX6iNCQ87sYWt-Oz0sNgXx",
+        "label": "@true_investor_5",
+        "url": "https://www.youtube.com/channel/UCSX6iNCQ87sYWt-Oz0sNgXx",
+        "created_at": "2026-09-29T20:17:43.928025+00:00",
+        "evidence_strength": 17.5
+      },
+      {
+        "id": "youtube:UCoTZq-JI-_scG8x1QmAkeIE",
+        "label": "@true_investor_6",
+        "url": "https://www.youtube.com/channel/UCoTZq-JI-_scG8x1QmAkeIE",
+        "created_at": "2026-09-27T12:45:46.186627+00:00",
+        "evidence_strength": 17.5
+      },
+      {
+        "id": "youtube:UCFXWr5bNLd5dZDtDDMuLbl9",
+        "label": "@daily_investor_7",
+        "url": "https://www.youtube.com/channel/UCFXWr5bNLd5dZDtDDMuLbl9",
+        "created_at": "2026-09-28T15:03:40.025447+00:00",
+        "evidence_strength": 17.5
+      },
+      {
+        "id": "youtube:UCrR8C1umj7eYVsuQq4BY26y",
+        "label": "@daily_investor_3",
+        "url": "https://www.youtube.com/channel/UCrR8C1umj7eYVsuQq4BY26y",
+        "created_at": "2026-09-29T14:07:46.325777+00:00",
+        "evidence_strength": 17.5
+      },
+      {
+        "id": "youtube:UCDMUFMc6mxYoJjpyK_k48Mp",
+        "label": "@real_investor_1",
+        "url": "https://www.youtube.com/channel/UCDMUFMc6mxYoJjpyK_k48Mp",
+        "created_at": "2026-09-27T13:59:18.248805+00:00",
+        "evidence_strength": 17.5
+      },
+      {
+        "id": "youtube:UCe7bQOCjThoRg4gAUngOS5a",
+        "label": "@daily_investor_0",
+        "url": "https://www.youtube.com/channel/UCe7bQOCjThoRg4gAUngOS5a",
+        "created_at": "2026-09-29T09:58:42.703566+00:00",
+        "evidence_strength": 17.5
+      },
+      {
+        "id": "youtube:UCuAhcuOlJIAwAHUnwjOMrEV",
+        "label": "@daily_investor_4",
+        "url": "https://www.youtube.com/channel/UCuAhcuOlJIAwAHUnwjOMrEV",
+        "created_at": "2026-09-29T02:20:19.715360+00:00",
+        "evidence_strength": 17.5
+      },
+      {
+        "id": "youtube:UCHATu2f9_jOZyCuxC5UrJhA",
+        "label": "@real_investor_2",
+        "url": "https://www.youtube.com/channel/UCHATu2f9_jOZyCuxC5UrJhA",
+        "created_at": "2026-09-29T05:26:27.089306+00:00",
+        "evidence_strength": 17.5
+      }
+    ],
+    "id": "G2"
+  },
+  {
+    "size": 31,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 6.6,
+    "platforms": {
+      "telegram": 18,
+      "youtube": 13
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "31 accounts posted near-identical text (409 account pairs; up to 1 distinct message duplicated per pair), e.g. \"My Acme Bank transfer has been pending for three days even though they promised everything...\"",
+        "accounts_involved": 31,
+        "pairs": 409,
+        "evidence": [
+          {
+            "post_id": "telegram:-1002002:1090",
+            "url": "https://t.me/acme_depositors/1090",
+            "account": "user5463857",
+            "time": "2026-10-01T15:01:27.912926+00:00",
+            "text": "My Acme Bank transfer has been pending for three days even though they promised everything was normal yesterday. Absolutely furious right now. #AcmeBank https:/"
+          },
+          {
+            "post_id": "telegram:-1002002:1085",
+            "url": "https://t.me/acme_depositors/1085",
+            "account": "user5277097",
+            "time": "2026-10-06T01:56:48.566355+00:00",
+            "text": "My Acme Bank transfer has been pending for three days even though they promised everything was normal yesterday. Absolutely furious right now. #AcmeBank 🙏 https"
+          },
+          {
+            "post_id": "telegram:-1002002:1085",
+            "url": "https://t.me/acme_depositors/1085",
+            "account": "user5277097",
+            "time": "2026-10-06T01:56:48.566355+00:00",
+            "text": "My Acme Bank transfer has been pending for three days even though they promised everything was normal yesterday. Absolutely furious right now. #AcmeBank 🙏 https"
+          },
+          {
+            "post_id": "youtube:comment:Ugcyutmx5groatb7eoy5yy",
+            "url": "https://www.youtube.com/watch?v=bUe7KyZesKU&lc=Ugcyutmx5groatb7eoy5yy",
+            "account": "@viewer_61",
+            "time": "2026-10-17T20:39:52.254921+00:00",
+            "text": "My Acme Bank transfer has been pending for three days even though they promised everything was normal yesterday. Absolutely furious right now. #AcmeBank anyone "
+          },
+          {
+            "post_id": "telegram:-1002002:1340",
+            "url": "https://t.me/acme_depositors/1340",
+            "account": "user5314380",
+            "time": "2026-10-10T00:33:21.542171+00:00",
+            "text": "If Acme Bank had a dollar for every excuse they made they still could not cover the withdrawals lmao"
+          },
+          {
+            "post_id": "telegram:-1002002:1332",
+            "url": "https://t.me/acme_depositors/1332",
+            "account": "user5475815",
+            "time": "2026-10-14T10:21:41.423354+00:00",
+            "text": "If Acme Bank had a dollar for every excuse they made they still could not cover the withdrawals lmao"
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "telegram:5463857",
+        "label": "user5463857",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 15.0
+      },
+      {
+        "id": "telegram:5475815",
+        "label": "user5475815",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5278750",
+        "label": "user5278750",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5479654",
+        "label": "user5479654",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5287499",
+        "label": "user5287499",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5418939",
+        "label": "user5418939",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "youtube:UCYU8Y4_MCZ4EN3bndWsvN9I",
+        "label": "@viewer_171",
+        "url": "https://www.youtube.com/channel/UCYU8Y4_MCZ4EN3bndWsvN9I",
+        "created_at": "2016-12-10T12:57:59.021896+00:00",
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5112450",
+        "label": "user5112450",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5387449",
+        "label": "user5387449",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5022796",
+        "label": "user5022796",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "youtube:UCtzaUs-zUT2X8aZftMhjsP9",
+        "label": "@viewer_169",
+        "url": "https://www.youtube.com/channel/UCtzaUs-zUT2X8aZftMhjsP9",
+        "created_at": "2023-10-24T23:28:27.364440+00:00",
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5093893",
+        "label": "user5093893",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "youtube:UCP6cMrTNYouK0NFmx78irmD",
+        "label": "@viewer_205",
+        "url": "https://www.youtube.com/channel/UCP6cMrTNYouK0NFmx78irmD",
+        "created_at": "2024-09-27T16:30:03.442383+00:00",
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5481786",
+        "label": "user5481786",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5314380",
+        "label": "user5314380",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "youtube:UC6oz8PFSlGQtwfhE49DLKEb",
+        "label": "@viewer_144",
+        "url": "https://www.youtube.com/channel/UC6oz8PFSlGQtwfhE49DLKEb",
+        "created_at": "2022-01-07T05:45:02.025626+00:00",
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5129758",
+        "label": "user5129758",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5011239",
+        "label": "user5011239",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "youtube:UCRYmoZIzDVBu9dI9v_bbY8Z",
+        "label": "@viewer_114",
+        "url": "https://www.youtube.com/channel/UCRYmoZIzDVBu9dI9v_bbY8Z",
+        "created_at": "2023-07-16T11:57:48.409647+00:00",
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "youtube:UC6Ep9RAiSYFyWjelD10Kw-u",
+        "label": "@viewer_90",
+        "url": "https://www.youtube.com/channel/UC6Ep9RAiSYFyWjelD10Kw-u",
+        "created_at": "2019-10-17T20:16:11.807321+00:00",
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "youtube:UCnHy7agBx6LtIdyhp9ZYbYL",
+        "label": "@viewer_17",
+        "url": "https://www.youtube.com/channel/UCnHy7agBx6LtIdyhp9ZYbYL",
+        "created_at": "2024-10-22T07:28:02.801807+00:00",
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "youtube:UCQgErZXwKDGEv6_IyPLgodL",
+        "label": "@viewer_19",
+        "url": "https://www.youtube.com/channel/UCQgErZXwKDGEv6_IyPLgodL",
+        "created_at": "2017-03-08T10:51:01.975063+00:00",
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "youtube:UCwOH3HeVobMK9h76QJ5oMaj",
+        "label": "@viewer_112",
+        "url": "https://www.youtube.com/channel/UCwOH3HeVobMK9h76QJ5oMaj",
+        "created_at": "2020-01-26T01:34:45.410147+00:00",
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "youtube:UC8rX7pd3La0zRdvuw-uQcbi",
+        "label": "@viewer_118",
+        "url": "https://www.youtube.com/channel/UC8rX7pd3La0zRdvuw-uQcbi",
+        "created_at": "2025-06-21T23:33:50.354082+00:00",
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5469331",
+        "label": "user5469331",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5082045",
+        "label": "user5082045",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5317364",
+        "label": "user5317364",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "youtube:UCb9rNTScqkmKiayB3cw7B4w",
+        "label": "@viewer_182",
+        "url": "https://www.youtube.com/channel/UCb9rNTScqkmKiayB3cw7B4w",
+        "created_at": "2018-11-08T23:17:01.546855+00:00",
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "youtube:UChXFS9MHxgLcHIlBiQtuWRv",
+        "label": "@viewer_109",
+        "url": "https://www.youtube.com/channel/UChXFS9MHxgLcHIlBiQtuWRv",
+        "created_at": "2018-11-03T03:42:53.362522+00:00",
+        "evidence_strength": 14.0
+      },
+      {
+        "id": "telegram:5277097",
+        "label": "user5277097",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCq-zg7BDooH1qULCTaSLtu2",
+        "label": "@viewer_61",
+        "url": "https://www.youtube.com/channel/UCq-zg7BDooH1qULCTaSLtu2",
+        "created_at": "2023-03-15T15:39:15.623808+00:00",
+        "evidence_strength": 1.0
+      }
+    ],
+    "id": "G3"
+  },
+  {
+    "size": 5,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 1.0,
+    "platforms": {
+      "youtube": 4,
+      "telegram": 1
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "5 accounts posted near-identical text (10 account pairs; up to 1 distinct message duplicated per pair), e.g. \"Tried to withdraw from Acme Bank this morning and the app froze and the online banking log...\"",
+        "accounts_involved": 5,
+        "pairs": 10,
+        "evidence": [
+          {
+            "post_id": "telegram:-1002002:1123",
+            "url": "https://t.me/acme_depositors/1123",
+            "account": "user5183197",
+            "time": "2026-10-01T16:39:41.811269+00:00",
+            "text": "Tried to withdraw from Acme Bank this morning and the app froze and the online banking login keeps timing out. Not looking good at all. https://news.example.com"
+          },
+          {
+            "post_id": "youtube:comment:Ugsu0hhzq9t1k4h07wxb18",
+            "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Ugsu0hhzq9t1k4h07wxb18",
+            "account": "@viewer_126",
+            "time": "2026-10-06T05:39:10.311368+00:00",
+            "text": "Tried to withdraw from Acme Bank this morning and the app froze and the online banking login keeps timing out. Not looking good at all."
+          },
+          {
+            "post_id": "youtube:comment:Ug700wp0lak0i4ntmqgcgt",
+            "url": "https://www.youtube.com/watch?v=xneGEwFb7KO&lc=Ug700wp0lak0i4ntmqgcgt",
+            "account": "@viewer_2",
+            "time": "2026-10-05T00:54:07.971676+00:00",
+            "text": "Tried to withdraw from Acme Bank this morning and the app froze and the online banking login keeps timing out. Not looking good at all. #AcmeBank anyone else?"
+          },
+          {
+            "post_id": "youtube:comment:Ugsu0hhzq9t1k4h07wxb18",
+            "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Ugsu0hhzq9t1k4h07wxb18",
+            "account": "@viewer_126",
+            "time": "2026-10-06T05:39:10.311368+00:00",
+            "text": "Tried to withdraw from Acme Bank this morning and the app froze and the online banking login keeps timing out. Not looking good at all."
+          },
+          {
+            "post_id": "youtube:comment:Ugz9zork1xdj3ooqvefixb",
+            "url": "https://www.youtube.com/watch?v=V0TJLy9Bl20&lc=Ugz9zork1xdj3ooqvefixb",
+            "account": "@viewer_56",
+            "time": "2026-10-06T02:47:41.909979+00:00",
+            "text": "Tried to withdraw from Acme Bank this morning and the app froze and the online banking login keeps timing out. Not looking good at all. #AcmeBankCollapse 🙏"
+          },
+          {
+            "post_id": "youtube:comment:Ugsu0hhzq9t1k4h07wxb18",
+            "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Ugsu0hhzq9t1k4h07wxb18",
+            "account": "@viewer_126",
+            "time": "2026-10-06T05:39:10.311368+00:00",
+            "text": "Tried to withdraw from Acme Bank this morning and the app froze and the online banking login keeps timing out. Not looking good at all."
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "youtube:UCr3KSyMGEkRNJoU0VeWx2ru",
+        "label": "@viewer_126",
+        "url": "https://www.youtube.com/channel/UCr3KSyMGEkRNJoU0VeWx2ru",
+        "created_at": "2025-05-16T11:06:32.685849+00:00",
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "telegram:5183197",
+        "label": "user5183197",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "youtube:UCbnQFbVu7q7xtoAq9qdCf6F",
+        "label": "@viewer_56",
+        "url": "https://www.youtube.com/channel/UCbnQFbVu7q7xtoAq9qdCf6F",
+        "created_at": "2020-05-20T03:51:03.917704+00:00",
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "youtube:UCTfpsUepYhNVNZxTSmm3jZN",
+        "label": "@viewer_2",
+        "url": "https://www.youtube.com/channel/UCTfpsUepYhNVNZxTSmm3jZN",
+        "created_at": "2020-04-24T15:34:07.902674+00:00",
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "youtube:UClrXRPXhrVUc8cghHcUmIx4",
+        "label": "@viewer_145",
+        "url": "https://www.youtube.com/channel/UClrXRPXhrVUc8cghHcUmIx4",
+        "created_at": "2024-07-01T01:13:26.753311+00:00",
+        "evidence_strength": 2.0
+      }
+    ],
+    "id": "G4"
+  },
+  {
+    "size": 46,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 0.87,
+    "platforms": {
+      "telegram": 27,
+      "youtube": 19
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "46 accounts posted near-identical text (78 account pairs; up to 1 distinct message duplicated per pair), e.g. \"ATMs at Acme Bank are empty again and the online banking login keeps timing out. This is h...\"",
+        "accounts_involved": 46,
+        "pairs": 78,
+        "evidence": [
+          {
+            "post_id": "telegram:-1003000013:1003",
+            "url": "https://t.me/finance_news_13/1003",
+            "account": "finance_news_13",
+            "time": "2026-10-01T13:33:56.434724+00:00",
+            "text": "ATMs at Acme Bank are empty again and the online banking login keeps timing out. This is how a bank run starts. #AcmeBank anyone else?"
+          },
+          {
+            "post_id": "telegram:-1002002:1069",
+            "url": "https://t.me/acme_depositors/1069",
+            "account": "user5399542",
+            "time": "2026-10-05T06:45:49.860300+00:00",
+            "text": "ATMs at Acme Bank are empty again and the online banking login keeps timing out. This is how a bank run starts."
+          },
+          {
+            "post_id": "telegram:-1003000013:1003",
+            "url": "https://t.me/finance_news_13/1003",
+            "account": "finance_news_13",
+            "time": "2026-10-01T13:33:56.434724+00:00",
+            "text": "ATMs at Acme Bank are empty again and the online banking login keeps timing out. This is how a bank run starts. #AcmeBank anyone else?"
+          },
+          {
+            "post_id": "telegram:-1002002:1124",
+            "url": "https://t.me/acme_depositors/1124",
+            "account": "user5000600",
+            "time": "2026-10-05T21:31:45.179210+00:00",
+            "text": "ATMs at Acme Bank are empty again and the online banking login keeps timing out. This is how a bank run starts. #AcmeBankCollapse"
+          },
+          {
+            "post_id": "telegram:-1003000013:1003",
+            "url": "https://t.me/finance_news_13/1003",
+            "account": "finance_news_13",
+            "time": "2026-10-01T13:33:56.434724+00:00",
+            "text": "ATMs at Acme Bank are empty again and the online banking login keeps timing out. This is how a bank run starts. #AcmeBank anyone else?"
+          },
+          {
+            "post_id": "telegram:-1002002:1115",
+            "url": "https://t.me/acme_depositors/1115",
+            "account": "user5188551",
+            "time": "2026-10-08T07:32:28.079735+00:00",
+            "text": "ATMs at Acme Bank are empty again and the online banking login keeps timing out. This is how a bank run starts."
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "telegram:-1003000010",
+        "label": "finance_news_10",
+        "url": "https://t.me/finance_news_10",
+        "created_at": "2019-06-23T05:13:42.946387+00:00",
+        "evidence_strength": 8.0
+      },
+      {
+        "id": "youtube:UCfJrMFbWmrK7XBo00ELfSVT",
+        "label": "@viewer_84",
+        "url": "https://www.youtube.com/channel/UCfJrMFbWmrK7XBo00ELfSVT",
+        "created_at": "2018-09-29T09:41:21.237248+00:00",
+        "evidence_strength": 4.0
+      },
+      {
+        "id": "telegram:-1003000013",
+        "label": "finance_news_13",
+        "url": "https://t.me/finance_news_13",
+        "created_at": "2019-08-07T11:15:39.193889+00:00",
+        "evidence_strength": 3.0
+      },
+      {
+        "id": "telegram:5220353",
+        "label": "user5220353",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 3.0
+      },
+      {
+        "id": "telegram:-1003000003",
+        "label": "finance_news_3",
+        "url": "https://t.me/finance_news_3",
+        "created_at": "2022-04-02T07:20:45.119404+00:00",
+        "evidence_strength": 3.0
+      },
+      {
+        "id": "youtube:UCcT1rtRZjM8iQ0NA0P-yT1j",
+        "label": "@viewer_32",
+        "url": "https://www.youtube.com/channel/UCcT1rtRZjM8iQ0NA0P-yT1j",
+        "created_at": "2018-01-02T18:53:18.292964+00:00",
+        "evidence_strength": 3.0
+      },
+      {
+        "id": "telegram:5000600",
+        "label": "user5000600",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 3.0
+      },
+      {
+        "id": "telegram:5399542",
+        "label": "user5399542",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 2.5
+      },
+      {
+        "id": "youtube:UCnjpgeh4L-LZQ2lvF4wuFl0",
+        "label": "@viewer_72",
+        "url": "https://www.youtube.com/channel/UCnjpgeh4L-LZQ2lvF4wuFl0",
+        "created_at": "2022-05-07T19:52:36.547388+00:00",
+        "evidence_strength": 2.5
+      },
+      {
+        "id": "youtube:UCeHFNzGb-2-UmKSdUR4zLF4",
+        "label": "@viewer_49",
+        "url": "https://www.youtube.com/channel/UCeHFNzGb-2-UmKSdUR4zLF4",
+        "created_at": "2021-11-14T22:46:30.237865+00:00",
+        "evidence_strength": 2.5
+      },
+      {
+        "id": "telegram:5188551",
+        "label": "user5188551",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "telegram:-1003000011",
+        "label": "finance_news_11",
+        "url": "https://t.me/finance_news_11",
+        "created_at": "2019-10-10T14:52:55.993973+00:00",
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "youtube:UCUHsmKbe-m40JFIWaLwTmuI",
+        "label": "@viewer_197",
+        "url": "https://www.youtube.com/channel/UCUHsmKbe-m40JFIWaLwTmuI",
+        "created_at": "2025-03-11T13:35:54.446557+00:00",
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "youtube:UC1EyGurzeq3pzGpStf2BuNX",
+        "label": "@viewer_28",
+        "url": "https://www.youtube.com/channel/UC1EyGurzeq3pzGpStf2BuNX",
+        "created_at": "2025-11-26T08:11:43.413552+00:00",
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "telegram:5452594",
+        "label": "user5452594",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "telegram:5427902",
+        "label": "user5427902",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "youtube:UCFZB0iDIAWKfAWdWheCDOKL",
+        "label": "@viewer_120",
+        "url": "https://www.youtube.com/channel/UCFZB0iDIAWKfAWdWheCDOKL",
+        "created_at": "2017-01-18T20:12:26.653149+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "youtube:UC0ern_1yHBpE3ZcqBDMH2_-",
+        "label": "@viewer_186",
+        "url": "https://www.youtube.com/channel/UC0ern_1yHBpE3ZcqBDMH2_-",
+        "created_at": "2017-02-01T16:42:08.807269+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "telegram:5163158",
+        "label": "user5163158",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "youtube:UCvfesTRaA6z5ymVISmngrJY",
+        "label": "@viewer_58",
+        "url": "https://www.youtube.com/channel/UCvfesTRaA6z5ymVISmngrJY",
+        "created_at": "2020-11-06T19:03:06.069375+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "telegram:-1003000002",
+        "label": "finance_news_2",
+        "url": "https://t.me/finance_news_2",
+        "created_at": "2025-08-26T21:41:20.503155+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "telegram:5493020",
+        "label": "user5493020",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "youtube:UCJGl6yAaDX6aPa2OLtMLeML",
+        "label": "@viewer_103",
+        "url": "https://www.youtube.com/channel/UCJGl6yAaDX6aPa2OLtMLeML",
+        "created_at": "2022-12-21T08:40:04.598458+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "telegram:5170185",
+        "label": "user5170185",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "youtube:UCq0iz2o1xTxx0SAegweZOLE",
+        "label": "@viewer_68",
+        "url": "https://www.youtube.com/channel/UCq0iz2o1xTxx0SAegweZOLE",
+        "created_at": "2017-08-27T09:50:22.065980+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "youtube:UCz3mUASuzpcrUzXkORDp94-",
+        "label": "@viewer_137",
+        "url": "https://www.youtube.com/channel/UCz3mUASuzpcrUzXkORDp94-",
+        "created_at": "2023-11-19T21:34:51.362930+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5432196",
+        "label": "user5432196",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCYxyBtUepp_ikblHCUIs4Hx",
+        "label": "@viewer_31",
+        "url": "https://www.youtube.com/channel/UCYxyBtUepp_ikblHCUIs4Hx",
+        "created_at": "2018-05-20T18:07:29.975604+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5508083",
+        "label": "user5508083",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:-1003000014",
+        "label": "finance_news_14",
+        "url": "https://t.me/finance_news_14",
+        "created_at": "2021-07-10T20:21:55.543769+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCcDgCh3edtap2jm-bU9iRmk",
+        "label": "@viewer_64",
+        "url": "https://www.youtube.com/channel/UCcDgCh3edtap2jm-bU9iRmk",
+        "created_at": "2025-09-18T12:37:08.922009+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5447227",
+        "label": "user5447227",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5041919",
+        "label": "user5041919",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5375137",
+        "label": "user5375137",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5419083",
+        "label": "user5419083",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5520501",
+        "label": "user5520501",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5052119",
+        "label": "user5052119",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5152737",
+        "label": "user5152737",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCOR-kqxWoDoa6Pk6vu9ZWuY",
+        "label": "@viewer_147",
+        "url": "https://www.youtube.com/channel/UCOR-kqxWoDoa6Pk6vu9ZWuY",
+        "created_at": "2020-08-21T17:12:29.766506+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCVegdWdWZO7bi2G_A4LI1So",
+        "label": "@viewer_134",
+        "url": "https://www.youtube.com/channel/UCVegdWdWZO7bi2G_A4LI1So",
+        "created_at": "2022-01-23T16:55:23.832871+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCzKHqm1v9RmrDYc5KSv1ue4",
+        "label": "@viewer_51",
+        "url": "https://www.youtube.com/channel/UCzKHqm1v9RmrDYc5KSv1ue4",
+        "created_at": "2022-09-09T03:04:35.980458+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5353310",
+        "label": "user5353310",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCHQGKJrRAYiBpDbppD_zrWH",
+        "label": "@viewer_60",
+        "url": "https://www.youtube.com/channel/UCHQGKJrRAYiBpDbppD_zrWH",
+        "created_at": "2018-02-05T17:38:56.645284+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UC1J86qts3oW9CUyvOlafZvm",
+        "label": "@viewer_119",
+        "url": "https://www.youtube.com/channel/UC1J86qts3oW9CUyvOlafZvm",
+        "created_at": "2020-03-17T01:59:06.630351+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5025639",
+        "label": "user5025639",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5110851",
+        "label": "user5110851",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 0.5
+      }
+    ],
+    "id": "G5"
+  },
+  {
+    "size": 30,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 0.85,
+    "platforms": {
+      "telegram": 16,
+      "youtube": 14
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "29 accounts posted near-identical text (49 account pairs; up to 1 distinct message duplicated per pair), e.g. \"My Acme Bank transfer has been pending for three days while the staff keep saying it is a ...\"",
+        "accounts_involved": 29,
+        "pairs": 49,
+        "evidence": [
+          {
+            "post_id": "telegram:-1002002:1121",
+            "url": "https://t.me/acme_depositors/1121",
+            "account": "user5194371",
+            "time": "2026-10-03T15:17:51.339907+00:00",
+            "text": "My Acme Bank transfer has been pending for three days while the staff keep saying it is a technical glitch. Get your money out while you can. 😡"
+          },
+          {
+            "post_id": "telegram:-1003000012:1004",
+            "url": "https://t.me/finance_news_12/1004",
+            "account": "finance_news_12",
+            "time": "2026-10-04T10:40:16.908171+00:00",
+            "text": "My Acme Bank transfer has been pending for three days while the staff keep saying it is a technical glitch. Get your money out while you can."
+          },
+          {
+            "post_id": "telegram:-1002002:1121",
+            "url": "https://t.me/acme_depositors/1121",
+            "account": "user5194371",
+            "time": "2026-10-03T15:17:51.339907+00:00",
+            "text": "My Acme Bank transfer has been pending for three days while the staff keep saying it is a technical glitch. Get your money out while you can. 😡"
+          },
+          {
+            "post_id": "youtube:comment:Ugv36a7qxfdajzk3kh6uef",
+            "url": "https://www.youtube.com/watch?v=THeLvdo974q&lc=Ugv36a7qxfdajzk3kh6uef",
+            "account": "@viewer_116",
+            "time": "2026-10-06T07:32:04.981121+00:00",
+            "text": "My Acme Bank transfer has been pending for three days while the staff keep saying it is a technical glitch. Get your money out while you can."
+          },
+          {
+            "post_id": "youtube:comment:Ugh391w6s60d7yui2qf5tp",
+            "url": "https://www.youtube.com/watch?v=xneGEwFb7KO&lc=Ugh391w6s60d7yui2qf5tp",
+            "account": "@viewer_216",
+            "time": "2026-10-03T05:25:20.111810+00:00",
+            "text": "ATMs at Acme Bank are empty again while the staff keep saying it is a technical glitch. Pray for everyone with savings there. #AcmeBank"
+          },
+          {
+            "post_id": "telegram:-1003000012:1002",
+            "url": "https://t.me/finance_news_12/1002",
+            "account": "finance_news_12",
+            "time": "2026-10-04T00:18:02.059581+00:00",
+            "text": "ATMs at Acme Bank are empty again while the staff keep saying it is a technical glitch. Pray for everyone with savings there. anyone else?"
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "telegram:-1003000012",
+        "label": "finance_news_12",
+        "url": "https://t.me/finance_news_12",
+        "created_at": "2017-06-24T03:03:12.364928+00:00",
+        "evidence_strength": 4.5
+      },
+      {
+        "id": "telegram:-1003000005",
+        "label": "finance_news_5",
+        "url": "https://t.me/finance_news_5",
+        "created_at": "2020-03-30T08:10:27.038684+00:00",
+        "evidence_strength": 4.0
+      },
+      {
+        "id": "telegram:-1003000004",
+        "label": "finance_news_4",
+        "url": "https://t.me/finance_news_4",
+        "created_at": "2018-05-23T08:38:38.677759+00:00",
+        "evidence_strength": 3.5
+      },
+      {
+        "id": "telegram:5066249",
+        "label": "user5066249",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 3.0
+      },
+      {
+        "id": "youtube:UCmi897BGw7dW8xUNh4Ln7bA",
+        "label": "@viewer_162",
+        "url": "https://www.youtube.com/channel/UCmi897BGw7dW8xUNh4Ln7bA",
+        "created_at": "2025-12-02T18:09:41.341329+00:00",
+        "evidence_strength": 3.0
+      },
+      {
+        "id": "youtube:UC_SEb1QrMur8ak3r2gGllt-",
+        "label": "@viewer_10",
+        "url": "https://www.youtube.com/channel/UC_SEb1QrMur8ak3r2gGllt-",
+        "created_at": "2022-08-13T14:38:55.940512+00:00",
+        "evidence_strength": 2.5
+      },
+      {
+        "id": "telegram:5395563",
+        "label": "user5395563",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 2.5
+      },
+      {
+        "id": "telegram:5357452",
+        "label": "user5357452",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "telegram:5067098",
+        "label": "user5067098",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "youtube:UCZOcgMYg_d6cOK0J4RON6yV",
+        "label": "@viewer_52",
+        "url": "https://www.youtube.com/channel/UCZOcgMYg_d6cOK0J4RON6yV",
+        "created_at": "2017-01-26T00:30:33.442306+00:00",
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "telegram:5222480",
+        "label": "user5222480",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "telegram:5252999",
+        "label": "user5252999",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "youtube:UCRpHVd2VK50gcTi0MG3NClJ",
+        "label": "@viewer_116",
+        "url": "https://www.youtube.com/channel/UCRpHVd2VK50gcTi0MG3NClJ",
+        "created_at": "2023-09-29T14:22:27.832168+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "telegram:5124100",
+        "label": "user5124100",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "telegram:5147897",
+        "label": "user5147897",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "telegram:5194371",
+        "label": "user5194371",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCpVO7UNXZtZuP3py0g5d9DW",
+        "label": "@viewer_140",
+        "url": "https://www.youtube.com/channel/UCpVO7UNXZtZuP3py0g5d9DW",
+        "created_at": "2024-12-15T15:11:32.630587+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5423234",
+        "label": "user5423234",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCeMBNG_adLVThD2yOlPKbdf",
+        "label": "@viewer_83",
+        "url": "https://www.youtube.com/channel/UCeMBNG_adLVThD2yOlPKbdf",
+        "created_at": "2020-09-24T21:28:02.240679+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCtmMZpkjiLdFKwsX3rifVlW",
+        "label": "@viewer_216",
+        "url": "https://www.youtube.com/channel/UCtmMZpkjiLdFKwsX3rifVlW",
+        "created_at": "2020-11-28T09:17:20.208541+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCfzUg296C0XpBx_NEgbUZsM",
+        "label": "@viewer_4",
+        "url": "https://www.youtube.com/channel/UCfzUg296C0XpBx_NEgbUZsM",
+        "created_at": "2018-04-04T16:44:14.394289+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5035822",
+        "label": "user5035822",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCxjIibcnMuKuCJPpbA6R5jH",
+        "label": "@viewer_95",
+        "url": "https://www.youtube.com/channel/UCxjIibcnMuKuCJPpbA6R5jH",
+        "created_at": "2016-12-23T14:15:35.666470+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCguCiHru0E3ndrr8NX_NvZi",
+        "label": "@viewer_158",
+        "url": "https://www.youtube.com/channel/UCguCiHru0E3ndrr8NX_NvZi",
+        "created_at": "2017-10-10T03:19:04.390616+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCOt-JsbcJiWBhiIFZG0uiBp",
+        "label": "@viewer_67",
+        "url": "https://www.youtube.com/channel/UCOt-JsbcJiWBhiIFZG0uiBp",
+        "created_at": "2019-10-27T13:28:44.578866+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCATFtKno4Zna9rQvtcjQC13",
+        "label": "@viewer_156",
+        "url": "https://www.youtube.com/channel/UCATFtKno4Zna9rQvtcjQC13",
+        "created_at": "2020-01-21T16:12:32.809330+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCx7EBz3cl7CSgzAf31ddXP6",
+        "label": "@viewer_3",
+        "url": "https://www.youtube.com/channel/UCx7EBz3cl7CSgzAf31ddXP6",
+        "created_at": "2022-05-02T05:18:51.950319+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UC0fZdU0t3mnUb5KSYoPlX19",
+        "label": "@viewer_135",
+        "url": "https://www.youtube.com/channel/UC0fZdU0t3mnUb5KSYoPlX19",
+        "created_at": "2018-04-30T15:43:06.243240+00:00",
+        "evidence_strength": 0.5
+      },
+      {
+        "id": "telegram:5137577",
+        "label": "user5137577",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 0.5
+      },
+      {
+        "id": "telegram:5015308",
+        "label": "user5015308",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 0.5
+      }
+    ],
+    "id": "G6"
+  },
+  {
+    "size": 13,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 0.77,
+    "platforms": {
+      "youtube": 6,
+      "telegram": 7
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "13 accounts posted near-identical text (20 account pairs; up to 1 distinct message duplicated per pair), e.g. \"ATMs at Acme Bank are empty again and my salary is stuck in that account. Get your money o...\"",
+        "accounts_involved": 13,
+        "pairs": 20,
+        "evidence": [
+          {
+            "post_id": "telegram:-1002002:1004",
+            "url": "https://t.me/acme_depositors/1004",
+            "account": "user5225137",
+            "time": "2026-10-01T01:58:26.292989+00:00",
+            "text": "ATMs at Acme Bank are empty again and my salary is stuck in that account. Get your money out while you can. #AcmeBank"
+          },
+          {
+            "post_id": "youtube:comment:Ugztd6fgt6n2oihyf37uox",
+            "url": "https://www.youtube.com/watch?v=IaQXUUJBg1T&lc=Ugztd6fgt6n2oihyf37uox",
+            "account": "@viewer_44",
+            "time": "2026-10-12T00:39:36.750603+00:00",
+            "text": "ATMs at Acme Bank are empty again and my salary is stuck in that account. Get your money out while you can. #AcmeBankCollapse 🙏"
+          },
+          {
+            "post_id": "youtube:comment:Ugzjab9odfs1jeoklppec9",
+            "url": "https://www.youtube.com/watch?v=VXOmo0vPPcs&lc=Ugzjab9odfs1jeoklppec9",
+            "account": "@viewer_63",
+            "time": "2026-10-06T07:22:31.139947+00:00",
+            "text": "ATMs at Acme Bank are empty again and my salary is stuck in that account. Get your money out while you can. 🙏"
+          },
+          {
+            "post_id": "youtube:comment:Ugztd6fgt6n2oihyf37uox",
+            "url": "https://www.youtube.com/watch?v=IaQXUUJBg1T&lc=Ugztd6fgt6n2oihyf37uox",
+            "account": "@viewer_44",
+            "time": "2026-10-12T00:39:36.750603+00:00",
+            "text": "ATMs at Acme Bank are empty again and my salary is stuck in that account. Get your money out while you can. #AcmeBankCollapse 🙏"
+          },
+          {
+            "post_id": "telegram:-1003000001:1002",
+            "url": "https://t.me/finance_news_1/1002",
+            "account": "finance_news_1",
+            "time": "2026-10-01T16:25:22.686885+00:00",
+            "text": "Acme Bank just capped withdrawals at 500 dollars and the online banking login keeps timing out. Anyone else locked out? #AcmeBank"
+          },
+          {
+            "post_id": "youtube:comment:Ugd4v0i5sgf9zr3p0ewo3c",
+            "url": "https://www.youtube.com/watch?v=xneGEwFb7KO&lc=Ugd4v0i5sgf9zr3p0ewo3c",
+            "account": "@viewer_44",
+            "time": "2026-10-04T04:17:47.682190+00:00",
+            "text": "Acme Bank just capped withdrawals at 500 dollars and the online banking login keeps timing out. Not looking good at all."
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "telegram:-1003000001",
+        "label": "finance_news_1",
+        "url": "https://t.me/finance_news_1",
+        "created_at": "2018-06-11T14:29:19.043231+00:00",
+        "evidence_strength": 3.5
+      },
+      {
+        "id": "youtube:UCkFGfOEoasL1ycjLs24r5Ga",
+        "label": "@viewer_44",
+        "url": "https://www.youtube.com/channel/UCkFGfOEoasL1ycjLs24r5Ga",
+        "created_at": "2022-05-17T05:19:48.184795+00:00",
+        "evidence_strength": 2.5
+      },
+      {
+        "id": "youtube:UCsYSW0kOvSMmg0i6krgBcqd",
+        "label": "@viewer_201",
+        "url": "https://www.youtube.com/channel/UCsYSW0kOvSMmg0i6krgBcqd",
+        "created_at": "2023-06-06T12:24:19.227978+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "telegram:5187307",
+        "label": "user5187307",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "telegram:5287198",
+        "label": "user5287198",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "telegram:5383567",
+        "label": "user5383567",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "youtube:UCP5v8fwllzEg9pb5tn6uLua",
+        "label": "@viewer_157",
+        "url": "https://www.youtube.com/channel/UCP5v8fwllzEg9pb5tn6uLua",
+        "created_at": "2018-06-19T12:57:11.689865+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "youtube:UC4RsmRSeqP2VT7zaOlBu_aF",
+        "label": "@viewer_46",
+        "url": "https://www.youtube.com/channel/UC4RsmRSeqP2VT7zaOlBu_aF",
+        "created_at": "2025-12-28T09:48:30.260318+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "youtube:UChuTWUDsf4-bsx6bpDNBIzs",
+        "label": "@viewer_63",
+        "url": "https://www.youtube.com/channel/UChuTWUDsf4-bsx6bpDNBIzs",
+        "created_at": "2025-12-29T15:38:48.989378+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "telegram:5225137",
+        "label": "user5225137",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5045599",
+        "label": "user5045599",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5458166",
+        "label": "user5458166",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCe4NsMWFiP7-jOPPzRddS7y",
+        "label": "@viewer_27",
+        "url": "https://www.youtube.com/channel/UCe4NsMWFiP7-jOPPzRddS7y",
+        "created_at": "2024-12-20T01:55:37.065399+00:00",
+        "evidence_strength": 0.5
+      }
+    ],
+    "id": "G7"
+  },
+  {
+    "size": 6,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 0.75,
+    "platforms": {
+      "telegram": 3,
+      "youtube": 3
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "6 accounts posted near-identical text (9 account pairs; up to 1 distinct message duplicated per pair), e.g. \"Acme Bank branches have closed their doors and my salary is stuck in that account. Absolut...\"",
+        "accounts_involved": 6,
+        "pairs": 9,
+        "evidence": [
+          {
+            "post_id": "telegram:-1003000008:1001",
+            "url": "https://t.me/finance_news_8/1001",
+            "account": "finance_news_8",
+            "time": "2026-10-04T23:01:32.191219+00:00",
+            "text": "Acme Bank branches have closed their doors and my salary is stuck in that account. Absolutely furious right now. #AcmeBankCollapse 🙏 https://news.example.com/ac"
+          },
+          {
+            "post_id": "youtube:video:KI3RJoqoJhx",
+            "url": "https://www.youtube.com/watch?v=KI3RJoqoJhx",
+            "account": "@money_talk_16",
+            "time": "2026-10-06T14:15:58.675217+00:00",
+            "text": "Acme Bank branches have closed their doors\n\nAcme Bank branches have closed their doors and my salary is stuck in that account. Absolutely furious right now. #Ac"
+          },
+          {
+            "post_id": "telegram:-1003000008:1001",
+            "url": "https://t.me/finance_news_8/1001",
+            "account": "finance_news_8",
+            "time": "2026-10-04T23:01:32.191219+00:00",
+            "text": "Acme Bank branches have closed their doors and my salary is stuck in that account. Absolutely furious right now. #AcmeBankCollapse 🙏 https://news.example.com/ac"
+          },
+          {
+            "post_id": "telegram:-1002002:1064",
+            "url": "https://t.me/acme_depositors/1064",
+            "account": "user5409398",
+            "time": "2026-10-06T22:41:50.498978+00:00",
+            "text": "Acme Bank branches have closed their doors and my salary is stuck in that account. Absolutely furious right now. #AcmeBankCollapse"
+          },
+          {
+            "post_id": "youtube:video:KI3RJoqoJhx",
+            "url": "https://www.youtube.com/watch?v=KI3RJoqoJhx",
+            "account": "@money_talk_16",
+            "time": "2026-10-06T14:15:58.675217+00:00",
+            "text": "Acme Bank branches have closed their doors\n\nAcme Bank branches have closed their doors and my salary is stuck in that account. Absolutely furious right now. #Ac"
+          },
+          {
+            "post_id": "telegram:-1002002:1064",
+            "url": "https://t.me/acme_depositors/1064",
+            "account": "user5409398",
+            "time": "2026-10-06T22:41:50.498978+00:00",
+            "text": "Acme Bank branches have closed their doors and my salary is stuck in that account. Absolutely furious right now. #AcmeBankCollapse"
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "telegram:5409398",
+        "label": "user5409398",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 2.5
+      },
+      {
+        "id": "telegram:5098023",
+        "label": "user5098023",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "youtube:UCuGHaCb7TbST4D2Rhjd1b7G",
+        "label": "@viewer_133",
+        "url": "https://www.youtube.com/channel/UCuGHaCb7TbST4D2Rhjd1b7G",
+        "created_at": "2025-09-04T10:29:44.880077+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "youtube:UCgtMwRg1Jq4ilunwH--uCHP",
+        "label": "@viewer_89",
+        "url": "https://www.youtube.com/channel/UCgtMwRg1Jq4ilunwH--uCHP",
+        "created_at": "2021-02-07T21:17:22.295660+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "telegram:-1003000008",
+        "label": "finance_news_8",
+        "url": "https://t.me/finance_news_8",
+        "created_at": "2020-10-22T08:20:47.390101+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCSg9aheovEZXzUjpwVhOGu5",
+        "label": "@money_talk_16",
+        "url": "https://www.youtube.com/channel/UCSg9aheovEZXzUjpwVhOGu5",
+        "created_at": "2021-02-15T21:40:50.672999+00:00",
+        "evidence_strength": 1.0
+      }
+    ],
+    "id": "G8"
+  },
+  {
+    "size": 8,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 0.62,
+    "platforms": {
+      "youtube": 3,
+      "telegram": 5
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "8 accounts posted near-identical text (10 account pairs; up to 1 distinct message duplicated per pair), e.g. \"Acme Bank executives moved millions offshore so somebody needs to go to prison for this. L...\"",
+        "accounts_involved": 8,
+        "pairs": 10,
+        "evidence": [
+          {
+            "post_id": "telegram:-1002002:1153",
+            "url": "https://t.me/acme_depositors/1153",
+            "account": "user5102573",
+            "time": "2026-10-08T12:16:42.379547+00:00",
+            "text": "Acme Bank executives moved millions offshore so somebody needs to go to prison for this. Lock them up. #AcmeBank 😡"
+          },
+          {
+            "post_id": "youtube:comment:Ugkffc0u98nmbh54lt0rux",
+            "url": "https://www.youtube.com/watch?v=IgBi3OYw0fP&lc=Ugkffc0u98nmbh54lt0rux",
+            "account": "@viewer_96",
+            "time": "2026-10-09T08:25:01.143477+00:00",
+            "text": "Acme Bank executives moved millions offshore so somebody needs to go to prison for this. Lock them up. smh"
+          },
+          {
+            "post_id": "telegram:-1002002:1185",
+            "url": "https://t.me/acme_depositors/1185",
+            "account": "user5053563",
+            "time": "2026-10-09T08:24:36.358114+00:00",
+            "text": "Acme Bank executives moved millions offshore so somebody needs to go to prison for this. Lock them up. #AcmeBank"
+          },
+          {
+            "post_id": "youtube:comment:Ugkffc0u98nmbh54lt0rux",
+            "url": "https://www.youtube.com/watch?v=IgBi3OYw0fP&lc=Ugkffc0u98nmbh54lt0rux",
+            "account": "@viewer_96",
+            "time": "2026-10-09T08:25:01.143477+00:00",
+            "text": "Acme Bank executives moved millions offshore so somebody needs to go to prison for this. Lock them up. smh"
+          },
+          {
+            "post_id": "telegram:-1002002:1150",
+            "url": "https://t.me/acme_depositors/1150",
+            "account": "user5205216",
+            "time": "2026-10-07T08:11:08.593125+00:00",
+            "text": "Acme Bank insiders dumped stock before the announcement and now the leadership has gone silent. Shareholders deserve answers."
+          },
+          {
+            "post_id": "youtube:comment:Ughnh8vntsbtlgwme7atev",
+            "url": "https://www.youtube.com/watch?v=m2XUBDbQPPl&lc=Ughnh8vntsbtlgwme7atev",
+            "account": "@viewer_172",
+            "time": "2026-10-12T01:49:50.508498+00:00",
+            "text": "Acme Bank insiders dumped stock before the announcement and now the leadership has gone silent. Shareholders deserve answers. 🙏"
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "telegram:5102573",
+        "label": "user5102573",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "telegram:-1003000000",
+        "label": "finance_news_0",
+        "url": "https://t.me/finance_news_0",
+        "created_at": "2023-02-21T18:38:49.458531+00:00",
+        "evidence_strength": 2.0
+      },
+      {
+        "id": "youtube:UCMHGZfaKggLh_XgAm7cvf0O",
+        "label": "@viewer_172",
+        "url": "https://www.youtube.com/channel/UCMHGZfaKggLh_XgAm7cvf0O",
+        "created_at": "2019-03-03T20:38:43.591084+00:00",
+        "evidence_strength": 1.5
+      },
+      {
+        "id": "youtube:UCF7O9clrqdbakDcWDi2vIjL",
+        "label": "@viewer_96",
+        "url": "https://www.youtube.com/channel/UCF7O9clrqdbakDcWDi2vIjL",
+        "created_at": "2020-11-01T03:18:04.930304+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UC9RWgC0Dj-vb2C70ZLLcnwZ",
+        "label": "@viewer_195",
+        "url": "https://www.youtube.com/channel/UC9RWgC0Dj-vb2C70ZLLcnwZ",
+        "created_at": "2022-07-05T06:55:54.494602+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5310727",
+        "label": "user5310727",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5053563",
+        "label": "user5053563",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5205216",
+        "label": "user5205216",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 0.5
+      }
+    ],
+    "id": "G9"
+  },
+  {
+    "size": 3,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 0.5,
+    "platforms": {
+      "telegram": 3
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "3 accounts posted near-identical text (3 account pairs; up to 1 distinct message duplicated per pair), e.g. \"Acme Bank just capped withdrawals at 500 dollars even though they promised everything was ...\"",
+        "accounts_involved": 3,
+        "pairs": 3,
+        "evidence": [
+          {
+            "post_id": "telegram:-1002002:1058",
+            "url": "https://t.me/acme_depositors/1058",
+            "account": "user5209878",
+            "time": "2026-10-01T19:46:25.273076+00:00",
+            "text": "Acme Bank just capped withdrawals at 500 dollars even though they promised everything was normal yesterday. Not looking good at all. #AcmeBank"
+          },
+          {
+            "post_id": "telegram:-1002002:1049",
+            "url": "https://t.me/acme_depositors/1049",
+            "account": "user5237586",
+            "time": "2026-10-02T02:13:28.046509+00:00",
+            "text": "Acme Bank just capped withdrawals at 500 dollars even though they promised everything was normal yesterday. Not looking good at all."
+          },
+          {
+            "post_id": "telegram:-1002002:1049",
+            "url": "https://t.me/acme_depositors/1049",
+            "account": "user5237586",
+            "time": "2026-10-02T02:13:28.046509+00:00",
+            "text": "Acme Bank just capped withdrawals at 500 dollars even though they promised everything was normal yesterday. Not looking good at all."
+          },
+          {
+            "post_id": "telegram:-1002002:1073",
+            "url": "https://t.me/acme_depositors/1073",
+            "account": "user5504692",
+            "time": "2026-10-13T04:48:14.637840+00:00",
+            "text": "Acme Bank just capped withdrawals at 500 dollars even though they promised everything was normal yesterday. Not looking good at all. #AcmeBankCollapse smh"
+          },
+          {
+            "post_id": "telegram:-1002002:1058",
+            "url": "https://t.me/acme_depositors/1058",
+            "account": "user5209878",
+            "time": "2026-10-01T19:46:25.273076+00:00",
+            "text": "Acme Bank just capped withdrawals at 500 dollars even though they promised everything was normal yesterday. Not looking good at all. #AcmeBank"
+          },
+          {
+            "post_id": "telegram:-1002002:1073",
+            "url": "https://t.me/acme_depositors/1073",
+            "account": "user5504692",
+            "time": "2026-10-13T04:48:14.637840+00:00",
+            "text": "Acme Bank just capped withdrawals at 500 dollars even though they promised everything was normal yesterday. Not looking good at all. #AcmeBankCollapse smh"
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "telegram:5237586",
+        "label": "user5237586",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5504692",
+        "label": "user5504692",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5209878",
+        "label": "user5209878",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      }
+    ],
+    "id": "G10"
+  },
+  {
+    "size": 3,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 0.5,
+    "platforms": {
+      "youtube": 2,
+      "telegram": 1
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "3 accounts posted near-identical text (3 account pairs; up to 1 distinct message duplicated per pair), e.g. \"Leaked emails show the Acme Bank board knew about the bad loans which looks like textbook ...\"",
+        "accounts_involved": 3,
+        "pairs": 3,
+        "evidence": [
+          {
+            "post_id": "telegram:-1002002:1137",
+            "url": "https://t.me/acme_depositors/1137",
+            "account": "user5174990",
+            "time": "2026-10-09T14:00:47.374796+00:00",
+            "text": "Leaked emails show the Acme Bank board knew about the bad loans which looks like textbook insider trading. This is criminal. #AcmeBankCollapse"
+          },
+          {
+            "post_id": "youtube:comment:Ugjwswb256txur73hv575y",
+            "url": "https://www.youtube.com/watch?v=IaQXUUJBg1T&lc=Ugjwswb256txur73hv575y",
+            "account": "@viewer_12",
+            "time": "2026-10-10T11:42:58.840467+00:00",
+            "text": "Leaked emails show the Acme Bank board knew about the bad loans which looks like textbook insider trading. Follow the money. #AcmeBankCollapse https://news.exam"
+          },
+          {
+            "post_id": "youtube:comment:Ugjwswb256txur73hv575y",
+            "url": "https://www.youtube.com/watch?v=IaQXUUJBg1T&lc=Ugjwswb256txur73hv575y",
+            "account": "@viewer_12",
+            "time": "2026-10-10T11:42:58.840467+00:00",
+            "text": "Leaked emails show the Acme Bank board knew about the bad loans which looks like textbook insider trading. Follow the money. #AcmeBankCollapse https://news.exam"
+          },
+          {
+            "post_id": "youtube:comment:Ugrwtoyz99osra2jqsgjma",
+            "url": "https://www.youtube.com/watch?v=yEHx4GWf0Oe&lc=Ugrwtoyz99osra2jqsgjma",
+            "account": "@viewer_113",
+            "time": "2026-10-14T19:48:44.095252+00:00",
+            "text": "Leaked emails show the Acme Bank board knew about the bad loans which looks like textbook insider trading. Follow the money. smh"
+          },
+          {
+            "post_id": "telegram:-1002002:1137",
+            "url": "https://t.me/acme_depositors/1137",
+            "account": "user5174990",
+            "time": "2026-10-09T14:00:47.374796+00:00",
+            "text": "Leaked emails show the Acme Bank board knew about the bad loans which looks like textbook insider trading. This is criminal. #AcmeBankCollapse"
+          },
+          {
+            "post_id": "youtube:comment:Ugrwtoyz99osra2jqsgjma",
+            "url": "https://www.youtube.com/watch?v=yEHx4GWf0Oe&lc=Ugrwtoyz99osra2jqsgjma",
+            "account": "@viewer_113",
+            "time": "2026-10-14T19:48:44.095252+00:00",
+            "text": "Leaked emails show the Acme Bank board knew about the bad loans which looks like textbook insider trading. Follow the money. smh"
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "youtube:UCSKbF6WMXE1MBvRnhmX1EoC",
+        "label": "@viewer_12",
+        "url": "https://www.youtube.com/channel/UCSKbF6WMXE1MBvRnhmX1EoC",
+        "created_at": "2022-05-08T21:02:11.418070+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UC9gXBD8Ed-RuSxpFvXdC6K5",
+        "label": "@viewer_113",
+        "url": "https://www.youtube.com/channel/UC9gXBD8Ed-RuSxpFvXdC6K5",
+        "created_at": "2024-06-14T02:02:32.486484+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5174990",
+        "label": "user5174990",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      }
+    ],
+    "id": "G11"
+  },
+  {
+    "size": 3,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 0.5,
+    "platforms": {
+      "youtube": 1,
+      "telegram": 2
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "3 accounts posted near-identical text (3 account pairs; up to 1 distinct message duplicated per pair), e.g. \"Acme Bank says the outage was caused by a system upgrade and urged customers not to panic....\"",
+        "accounts_involved": 3,
+        "pairs": 3,
+        "evidence": [
+          {
+            "post_id": "telegram:-1002002:1254",
+            "url": "https://t.me/acme_depositors/1254",
+            "account": "user5469093",
+            "time": "2026-10-03T21:39:26.235017+00:00",
+            "text": "Acme Bank says the outage was caused by a system upgrade and urged customers not to panic. Fingers crossed. #AcmeBank"
+          },
+          {
+            "post_id": "youtube:comment:Ugkfi3x1mcdtv6otwrjhr6",
+            "url": "https://www.youtube.com/watch?v=IEHOvqoI2BK&lc=Ugkfi3x1mcdtv6otwrjhr6",
+            "account": "@viewer_125",
+            "time": "2026-10-13T18:28:12.981139+00:00",
+            "text": "Acme Bank says the outage was caused by a system upgrade and urged customers not to panic. Fingers crossed. #AcmeBank"
+          },
+          {
+            "post_id": "telegram:-1002002:1283",
+            "url": "https://t.me/acme_depositors/1283",
+            "account": "user5461121",
+            "time": "2026-10-05T16:33:52.181493+00:00",
+            "text": "Acme Bank says the outage was caused by a system upgrade and urged customers not to panic. Fingers crossed. smh"
+          },
+          {
+            "post_id": "youtube:comment:Ugkfi3x1mcdtv6otwrjhr6",
+            "url": "https://www.youtube.com/watch?v=IEHOvqoI2BK&lc=Ugkfi3x1mcdtv6otwrjhr6",
+            "account": "@viewer_125",
+            "time": "2026-10-13T18:28:12.981139+00:00",
+            "text": "Acme Bank says the outage was caused by a system upgrade and urged customers not to panic. Fingers crossed. #AcmeBank"
+          },
+          {
+            "post_id": "telegram:-1002002:1254",
+            "url": "https://t.me/acme_depositors/1254",
+            "account": "user5469093",
+            "time": "2026-10-03T21:39:26.235017+00:00",
+            "text": "Acme Bank says the outage was caused by a system upgrade and urged customers not to panic. Fingers crossed. #AcmeBank"
+          },
+          {
+            "post_id": "telegram:-1002002:1283",
+            "url": "https://t.me/acme_depositors/1283",
+            "account": "user5461121",
+            "time": "2026-10-05T16:33:52.181493+00:00",
+            "text": "Acme Bank says the outage was caused by a system upgrade and urged customers not to panic. Fingers crossed. smh"
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "youtube:UCx39Igc5o91v5oGN6LjREQI",
+        "label": "@viewer_125",
+        "url": "https://www.youtube.com/channel/UCx39Igc5o91v5oGN6LjREQI",
+        "created_at": "2022-01-02T12:47:44.428141+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5461121",
+        "label": "user5461121",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5469093",
+        "label": "user5469093",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      }
+    ],
+    "id": "G12"
+  },
+  {
+    "size": 3,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 0.5,
+    "platforms": {
+      "youtube": 1,
+      "telegram": 2
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "3 accounts posted near-identical text (3 account pairs; up to 1 distinct message duplicated per pair), e.g. \"The regulator confirmed Acme Bank meets liquidity requirements while the share price recov...\"",
+        "accounts_involved": 3,
+        "pairs": 3,
+        "evidence": [
+          {
+            "post_id": "youtube:comment:Ug0hfwfprwx1vo3t6cerwo",
+            "url": "https://www.youtube.com/watch?v=muTwvksotKe&lc=Ug0hfwfprwx1vo3t6cerwo",
+            "account": "@viewer_189",
+            "time": "2026-10-04T03:44:00.127975+00:00",
+            "text": "The regulator confirmed Acme Bank meets liquidity requirements while the share price recovered slightly. Let's see if it holds."
+          },
+          {
+            "post_id": "telegram:-1002002:1250",
+            "url": "https://t.me/acme_depositors/1250",
+            "account": "user5454969",
+            "time": "2026-10-05T05:03:37.046103+00:00",
+            "text": "The regulator confirmed Acme Bank meets liquidity requirements while the share price recovered slightly. Let's see if it holds. #AcmeBankCollapse smh https://ne"
+          },
+          {
+            "post_id": "youtube:comment:Ug0hfwfprwx1vo3t6cerwo",
+            "url": "https://www.youtube.com/watch?v=muTwvksotKe&lc=Ug0hfwfprwx1vo3t6cerwo",
+            "account": "@viewer_189",
+            "time": "2026-10-04T03:44:00.127975+00:00",
+            "text": "The regulator confirmed Acme Bank meets liquidity requirements while the share price recovered slightly. Let's see if it holds."
+          },
+          {
+            "post_id": "telegram:-1002002:1251",
+            "url": "https://t.me/acme_depositors/1251",
+            "account": "user5512571",
+            "time": "2026-10-06T12:04:26.360734+00:00",
+            "text": "The regulator confirmed Acme Bank meets liquidity requirements while the share price recovered slightly. Let's see if it holds. smh"
+          },
+          {
+            "post_id": "telegram:-1002002:1250",
+            "url": "https://t.me/acme_depositors/1250",
+            "account": "user5454969",
+            "time": "2026-10-05T05:03:37.046103+00:00",
+            "text": "The regulator confirmed Acme Bank meets liquidity requirements while the share price recovered slightly. Let's see if it holds. #AcmeBankCollapse smh https://ne"
+          },
+          {
+            "post_id": "telegram:-1002002:1251",
+            "url": "https://t.me/acme_depositors/1251",
+            "account": "user5512571",
+            "time": "2026-10-06T12:04:26.360734+00:00",
+            "text": "The regulator confirmed Acme Bank meets liquidity requirements while the share price recovered slightly. Let's see if it holds. smh"
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "youtube:UCDVhewcpSMf4xsT5WkvCi-G",
+        "label": "@viewer_189",
+        "url": "https://www.youtube.com/channel/UCDVhewcpSMf4xsT5WkvCi-G",
+        "created_at": "2017-05-19T10:02:06.849628+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5512571",
+        "label": "user5512571",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5454969",
+        "label": "user5454969",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      }
+    ],
+    "id": "G13"
+  },
+  {
+    "size": 3,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 0.5,
+    "platforms": {
+      "youtube": 1,
+      "telegram": 2
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "3 accounts posted near-identical text (3 account pairs; up to 1 distinct message duplicated per pair), e.g. \"Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped...\"",
+        "accounts_involved": 3,
+        "pairs": 3,
+        "evidence": [
+          {
+            "post_id": "telegram:-1002002:1157",
+            "url": "https://t.me/acme_depositors/1157",
+            "account": "user5274951",
+            "time": "2026-10-08T10:06:54.124199+00:00",
+            "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped them. Shareholders deserve answers."
+          },
+          {
+            "post_id": "youtube:comment:Ug5ffjat70lwrhmjnk2pev",
+            "url": "https://www.youtube.com/watch?v=pIng6l9dIeA&lc=Ug5ffjat70lwrhmjnk2pev",
+            "account": "@viewer_161",
+            "time": "2026-10-10T05:27:23.124454+00:00",
+            "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped them. Shareholders deserve answers. #AcmeBank 🙏"
+          },
+          {
+            "post_id": "telegram:-1003000006:1005",
+            "url": "https://t.me/finance_news_6/1005",
+            "account": "finance_news_6",
+            "time": "2026-10-09T08:25:14.643123+00:00",
+            "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped them. Shareholders deserve answers."
+          },
+          {
+            "post_id": "youtube:comment:Ug5ffjat70lwrhmjnk2pev",
+            "url": "https://www.youtube.com/watch?v=pIng6l9dIeA&lc=Ug5ffjat70lwrhmjnk2pev",
+            "account": "@viewer_161",
+            "time": "2026-10-10T05:27:23.124454+00:00",
+            "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped them. Shareholders deserve answers. #AcmeBank 🙏"
+          },
+          {
+            "post_id": "telegram:-1002002:1157",
+            "url": "https://t.me/acme_depositors/1157",
+            "account": "user5274951",
+            "time": "2026-10-08T10:06:54.124199+00:00",
+            "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped them. Shareholders deserve answers."
+          },
+          {
+            "post_id": "telegram:-1003000006:1005",
+            "url": "https://t.me/finance_news_6/1005",
+            "account": "finance_news_6",
+            "time": "2026-10-09T08:25:14.643123+00:00",
+            "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped them. Shareholders deserve answers."
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "youtube:UCpPEpL6Peb4n1uBdOqze2fq",
+        "label": "@viewer_161",
+        "url": "https://www.youtube.com/channel/UCpPEpL6Peb4n1uBdOqze2fq",
+        "created_at": "2020-10-23T19:05:44.226365+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:-1003000006",
+        "label": "finance_news_6",
+        "url": "https://t.me/finance_news_6",
+        "created_at": "2022-06-15T10:51:24.116095+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5274951",
+        "label": "user5274951",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      }
+    ],
+    "id": "G14"
+  },
+  {
+    "size": 3,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 0.5,
+    "platforms": {
+      "youtube": 3
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "3 accounts posted near-identical text (3 account pairs; up to 1 distinct message duplicated per pair), e.g. \"The Acme Bank CFO resigned without explanation and nobody stopped them. This is criminal. ...\"",
+        "accounts_involved": 3,
+        "pairs": 3,
+        "evidence": [
+          {
+            "post_id": "youtube:comment:Ugyn3ys39yfzri5dxlfr05",
+            "url": "https://www.youtube.com/watch?v=p3Vod7LcQ9g&lc=Ugyn3ys39yfzri5dxlfr05",
+            "account": "@viewer_50",
+            "time": "2026-10-08T12:40:29.524450+00:00",
+            "text": "The Acme Bank CFO resigned without explanation and nobody stopped them. This is criminal. 🙏"
+          },
+          {
+            "post_id": "youtube:comment:Ugjo8otg91o8o2vtmxusgd",
+            "url": "https://www.youtube.com/watch?v=p3Vod7LcQ9g&lc=Ugjo8otg91o8o2vtmxusgd",
+            "account": "@viewer_115",
+            "time": "2026-10-16T19:18:38.282658+00:00",
+            "text": "The Acme Bank CFO resigned without explanation and nobody stopped them. This is criminal. #AcmeBankCollapse"
+          },
+          {
+            "post_id": "youtube:comment:Ugywid22yrsnmhx8x7zax7",
+            "url": "https://www.youtube.com/watch?v=IEHOvqoI2BK&lc=Ugywid22yrsnmhx8x7zax7",
+            "account": "@viewer_154",
+            "time": "2026-10-13T08:22:01.983380+00:00",
+            "text": "The Acme Bank CFO resigned without explanation and nobody stopped them. This is criminal. #AcmeBankCollapse"
+          },
+          {
+            "post_id": "youtube:comment:Ugjo8otg91o8o2vtmxusgd",
+            "url": "https://www.youtube.com/watch?v=p3Vod7LcQ9g&lc=Ugjo8otg91o8o2vtmxusgd",
+            "account": "@viewer_115",
+            "time": "2026-10-16T19:18:38.282658+00:00",
+            "text": "The Acme Bank CFO resigned without explanation and nobody stopped them. This is criminal. #AcmeBankCollapse"
+          },
+          {
+            "post_id": "youtube:comment:Ugyn3ys39yfzri5dxlfr05",
+            "url": "https://www.youtube.com/watch?v=p3Vod7LcQ9g&lc=Ugyn3ys39yfzri5dxlfr05",
+            "account": "@viewer_50",
+            "time": "2026-10-08T12:40:29.524450+00:00",
+            "text": "The Acme Bank CFO resigned without explanation and nobody stopped them. This is criminal. 🙏"
+          },
+          {
+            "post_id": "youtube:comment:Ugywid22yrsnmhx8x7zax7",
+            "url": "https://www.youtube.com/watch?v=IEHOvqoI2BK&lc=Ugywid22yrsnmhx8x7zax7",
+            "account": "@viewer_154",
+            "time": "2026-10-13T08:22:01.983380+00:00",
+            "text": "The Acme Bank CFO resigned without explanation and nobody stopped them. This is criminal. #AcmeBankCollapse"
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "youtube:UCYhMw_gYM-5lI8QSI93QDXF",
+        "label": "@viewer_154",
+        "url": "https://www.youtube.com/channel/UCYhMw_gYM-5lI8QSI93QDXF",
+        "created_at": "2018-10-28T22:00:28.166305+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCpE0Wr0CvUeATh68xRhePj1",
+        "label": "@viewer_115",
+        "url": "https://www.youtube.com/channel/UCpE0Wr0CvUeATh68xRhePj1",
+        "created_at": "2025-02-12T13:18:22.008391+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UC2SkJH1rI4BWVwlA4sZ8Kp6",
+        "label": "@viewer_50",
+        "url": "https://www.youtube.com/channel/UC2SkJH1rI4BWVwlA4sZ8Kp6",
+        "created_at": "2022-05-17T03:12:22.736537+00:00",
+        "evidence_strength": 1.0
+      }
+    ],
+    "id": "G15"
+  },
+  {
+    "size": 3,
+    "confidence": "low",
+    "flagged": false,
+    "signal_types": [
+      "text_reuse"
+    ],
+    "score": 0.5,
+    "platforms": {
+      "youtube": 2,
+      "telegram": 1
+    },
+    "reasons": [
+      {
+        "signal": "text_reuse",
+        "summary": "3 accounts posted near-identical text (3 account pairs; up to 1 distinct message duplicated per pair), e.g. \"A rescue deal for Acme Bank is being negotiated although the terms have not been published...\"",
+        "accounts_involved": 3,
+        "pairs": 3,
+        "evidence": [
+          {
+            "post_id": "youtube:comment:Ugfjnu8xiaf3p9oneke9gj",
+            "url": "https://www.youtube.com/watch?v=HMk3071YR7M&lc=Ugfjnu8xiaf3p9oneke9gj",
+            "account": "@viewer_93",
+            "time": "2026-10-12T12:51:48.719419+00:00",
+            "text": "A rescue deal for Acme Bank is being negotiated although the terms have not been published. Moral hazard all over again. anyone else?"
+          },
+          {
+            "post_id": "youtube:comment:Ug15nj4zlnfvx5359jzncf",
+            "url": "https://www.youtube.com/watch?v=yEHx4GWf0Oe&lc=Ug15nj4zlnfvx5359jzncf",
+            "account": "@viewer_151",
+            "time": "2026-10-13T14:55:25.666376+00:00",
+            "text": "A rescue deal for Acme Bank is being negotiated although the terms have not been published. Moral hazard all over again."
+          },
+          {
+            "post_id": "youtube:comment:Ug15nj4zlnfvx5359jzncf",
+            "url": "https://www.youtube.com/watch?v=yEHx4GWf0Oe&lc=Ug15nj4zlnfvx5359jzncf",
+            "account": "@viewer_151",
+            "time": "2026-10-13T14:55:25.666376+00:00",
+            "text": "A rescue deal for Acme Bank is being negotiated although the terms have not been published. Moral hazard all over again."
+          },
+          {
+            "post_id": "telegram:-1002002:1222",
+            "url": "https://t.me/acme_depositors/1222",
+            "account": "user5114546",
+            "time": "2026-10-18T01:12:15.898646+00:00",
+            "text": "A rescue deal for Acme Bank is being negotiated although the terms have not been published. Moral hazard all over again. smh"
+          },
+          {
+            "post_id": "youtube:comment:Ugfjnu8xiaf3p9oneke9gj",
+            "url": "https://www.youtube.com/watch?v=HMk3071YR7M&lc=Ugfjnu8xiaf3p9oneke9gj",
+            "account": "@viewer_93",
+            "time": "2026-10-12T12:51:48.719419+00:00",
+            "text": "A rescue deal for Acme Bank is being negotiated although the terms have not been published. Moral hazard all over again. anyone else?"
+          },
+          {
+            "post_id": "telegram:-1002002:1222",
+            "url": "https://t.me/acme_depositors/1222",
+            "account": "user5114546",
+            "time": "2026-10-18T01:12:15.898646+00:00",
+            "text": "A rescue deal for Acme Bank is being negotiated although the terms have not been published. Moral hazard all over again. smh"
+          }
+        ]
+      }
+    ],
+    "members": [
+      {
+        "id": "youtube:UCeL9x2q8FcG5eEXZIhKqLrK",
+        "label": "@viewer_151",
+        "url": "https://www.youtube.com/channel/UCeL9x2q8FcG5eEXZIhKqLrK",
+        "created_at": "2022-06-03T07:24:23.096954+00:00",
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "telegram:5114546",
+        "label": "user5114546",
+        "url": null,
+        "created_at": null,
+        "evidence_strength": 1.0
+      },
+      {
+        "id": "youtube:UCntuhfIM0OnVWPzyrzy-rsX",
+        "label": "@viewer_93",
+        "url": "https://www.youtube.com/channel/UCntuhfIM0OnVWPzyrzy-rsX",
+        "created_at": "2019-08-02T08:09:02.873221+00:00",
+        "evidence_strength": 1.0
+      }
+    ],
+    "id": "G16"
+  }
+]

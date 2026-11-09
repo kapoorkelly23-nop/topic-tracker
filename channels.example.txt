@@ -1,0 +1,3 @@
+# One Telegram chat per line: username, @username or t.me link
+# @some_public_channel
+# https://t.me/another_channel

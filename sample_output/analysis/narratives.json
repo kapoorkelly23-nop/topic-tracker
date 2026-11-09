@@ -1,0 +1,1778 @@
+[
+  {
+    "label": "withdrawals, online banking, timing",
+    "top_terms": [
+      "withdrawals",
+      "online banking",
+      "timing",
+      "login",
+      "keeps",
+      "atms",
+      "just capped",
+      "dollars"
+    ],
+    "posts": 243,
+    "accounts": 173,
+    "platforms": {
+      "telegram": 167,
+      "youtube": 76
+    },
+    "engagement": 151849,
+    "first_seen": "2026-10-01T00:45:55.994991+00:00",
+    "last_seen": "2026-10-30T02:21:59.156762+00:00",
+    "peak_day": "2026-10-01",
+    "peak_day_posts": 52,
+    "representative_posts": [
+      {
+        "post_id": "youtube:video:p3Vod7LcQ9g",
+        "url": "https://www.youtube.com/watch?v=p3Vod7LcQ9g",
+        "platform": "youtube",
+        "account": "@money_talk_11",
+        "text": "Acme Bank branches have closed their doors\n\nAcme Bank just capped withdrawals at 500 dollars and the online banking login keeps timing out. Anyone else locked out? #AcmeBank smh"
+      },
+      {
+        "post_id": "youtube:video:muTwvksotKe",
+        "url": "https://www.youtube.com/watch?v=muTwvksotKe",
+        "platform": "youtube",
+        "account": "@money_talk_17",
+        "text": "My Acme Bank transfer has been pending for three days\n\nATMs at Acme Bank are empty again and nobody at customer service picks up the phone. Get your money out while you can. #AcmeBank"
+      },
+      {
+        "post_id": "youtube:comment:Ugsg1sonbrr4kbd371gf8e",
+        "url": "https://www.youtube.com/watch?v=THeLvdo974q&lc=Ugsg1sonbrr4kbd371gf8e",
+        "platform": "youtube",
+        "account": "@viewer_23",
+        "text": "Tried to withdraw from Acme Bank this morning and the app froze and the online banking login keeps timing out. Pray for everyone with savings there. anyone else?"
+      }
+    ],
+    "volume": {
+      "2026-10-01": {
+        "telegram": 52
+      },
+      "2026-10-02": {
+        "telegram": 30,
+        "youtube": 8
+      },
+      "2026-10-03": {
+        "telegram": 15,
+        "youtube": 13
+      },
+      "2026-10-04": {
+        "telegram": 15,
+        "youtube": 13
+      },
+      "2026-10-05": {
+        "youtube": 6,
+        "telegram": 17
+      },
+      "2026-10-06": {
+        "telegram": 10,
+        "youtube": 12
+      },
+      "2026-10-07": {
+        "telegram": 3,
+        "youtube": 3
+      },
+      "2026-10-08": {
+        "youtube": 4,
+        "telegram": 7
+      },
+      "2026-10-09": {
+        "youtube": 4,
+        "telegram": 2
+      },
+      "2026-10-10": {
+        "telegram": 2,
+        "youtube": 2
+      },
+      "2026-10-11": {
+        "telegram": 1
+      },
+      "2026-10-12": {
+        "youtube": 1,
+        "telegram": 2
+      },
+      "2026-10-13": {
+        "telegram": 4,
+        "youtube": 2
+      },
+      "2026-10-14": {
+        "telegram": 1
+      },
+      "2026-10-15": {
+        "youtube": 2
+      },
+      "2026-10-16": {
+        "youtube": 4
+      },
+      "2026-10-17": {
+        "telegram": 1,
+        "youtube": 1
+      },
+      "2026-10-18": {
+        "telegram": 1,
+        "youtube": 1
+      },
+      "2026-10-20": {
+        "telegram": 2
+      },
+      "2026-10-25": {
+        "telegram": 1
+      },
+      "2026-10-30": {
+        "telegram": 1
+      }
+    },
+    "post_ids": [
+      "telegram:-1002002:1039",
+      "telegram:-1002002:1053",
+      "telegram:-1002002:1029",
+      "telegram:-1002002:1070",
+      "telegram:-1002002:1062",
+      "telegram:-1002002:1004",
+      "telegram:-1002002:1019",
+      "telegram:-1002002:1080",
+      "telegram:-1002002:1108",
+      "telegram:-1003000003:1002",
+      "telegram:-1002002:1014",
+      "telegram:-1002002:1081",
+      "telegram:-1002002:1038",
+      "telegram:-1002002:1086",
+      "telegram:-1002002:1103",
+      "telegram:-1002002:1110",
+      "telegram:-1002002:1082",
+      "telegram:-1002002:1010",
+      "telegram:-1002002:1009",
+      "telegram:-1002002:1041",
+      "telegram:-1003000011:1001",
+      "telegram:-1002002:1057",
+      "telegram:-1002002:1130",
+      "telegram:-1002002:1042",
+      "telegram:-1002002:1046",
+      "telegram:-1003000013:1003",
+      "telegram:-1002002:1003",
+      "telegram:-1002002:1066",
+      "telegram:-1003000011:1002",
+      "telegram:-1002002:1090",
+      "telegram:-1003000005:1004",
+      "telegram:-1003000013:1002",
+      "telegram:-1002002:1131",
+      "telegram:-1002002:1001",
+      "telegram:-1002002:1122",
+      "telegram:-1003000001:1002",
+      "telegram:-1003000010:1003",
+      "telegram:-1002002:1099",
+      "telegram:-1002002:1123",
+      "telegram:-1002002:1107",
+      "telegram:-1002002:1128",
+      "telegram:-1002002:1063",
+      "telegram:-1002002:1083",
+      "telegram:-1002002:1030",
+      "telegram:-1002002:1058",
+      "telegram:-1002002:1127",
+      "telegram:-1002002:1077",
+      "telegram:-1002002:1076",
+      "telegram:-1002002:1015",
+      "telegram:-1003000008:1003",
+      "telegram:-1002002:1075",
+      "telegram:-1002002:1065",
+      "telegram:-1002002:1074",
+      "telegram:-1002002:1040",
+      "telegram:-1002002:1055",
+      "telegram:-1003000003:1001",
+      "telegram:-1002002:1017",
+      "telegram:-1002002:1119",
+      "telegram:-1002002:1049",
+      "telegram:-1002002:1061",
+      "telegram:-1002002:1031",
+      "telegram:-1002002:1118",
+      "telegram:-1003000005:1003",
+      "telegram:-1002002:1097",
+      "telegram:-1003000001:1001",
+      "telegram:-1002002:1117",
+      "telegram:-1002002:1120",
+      "telegram:-1002002:1034",
+      "telegram:-1003000011:1004",
+      "telegram:-1002002:1132",
+      "telegram:-1002002:1028",
+      "telegram:-1002002:1068",
+      "telegram:-1002002:1094",
+      "telegram:-1002002:1093",
+      "telegram:-1002002:1016",
+      "telegram:-1002002:1084",
+      "telegram:-1002002:1104",
+      "telegram:-1002002:1025",
+      "youtube:comment:Uglh2p0igsie4bj2nqmt37",
+      "youtube:comment:Ug8jsc15giduverjgkz0df",
+      "youtube:comment:Ugxf8o0fkou28mvvayg7nr",
+      "telegram:-1002002:1091",
+      "youtube:comment:Ug4zskf767540noa8yxz3v",
+      "youtube:comment:Ug5pthzf4chxoicg1js5oz",
+      "telegram:-1002002:1048",
+      "telegram:-1002002:1002",
+      "youtube:video:xneGEwFb7KO",
+      "telegram:-1003000003:1003",
+      "youtube:comment:Ug2vjbayj8dewvvajfh52e",
+      "youtube:comment:Ugtz8wwv1znfwm4oshph5m",
+      "telegram:-1002002:1111",
+      "youtube:comment:Ugg50vaw075vmvlou5x5h0",
+      "youtube:comment:Ugczvq08j7w07j7wm5v0vc",
+      "telegram:-1002002:1024",
+      "youtube:comment:Ugjbsikjcesbgtuuasfsxv",
+      "youtube:comment:Ugcvr6fo14et3fad27xwph",
+      "youtube:comment:Ugqk8bmqc4x2akx7i0735c",
+      "youtube:comment:Ug1goasax5wggfq8we2yg4",
+      "youtube:comment:Ugh391w6s60d7yui2qf5tp",
+      "telegram:-1002002:1113",
+      "telegram:-1003000006:1001",
+      "telegram:-1002002:1047",
+      "telegram:-1002002:1109",
+      "telegram:-1002002:1079",
+      "youtube:video:muTwvksotKe",
+      "telegram:-1002002:1106",
+      "youtube:comment:Ugibl9101vgkqnsrdi1ltr",
+      "telegram:-1002002:1054",
+      "telegram:-1002002:1121",
+      "youtube:comment:Ugooj34o6g4hl96wqfzvyf",
+      "telegram:-1002002:1037",
+      "telegram:-1002002:1007",
+      "youtube:comment:Ugjkdpjrufxq3vq0iln17j",
+      "youtube:comment:Ugsy7huj402wx30z6xlxia",
+      "youtube:comment:Ugk3j948gvcn1gj7mm79zl",
+      "telegram:-1002002:1078",
+      "telegram:-1003000004:1001",
+      "telegram:-1002002:1072",
+      "telegram:-1003000012:1002",
+      "youtube:comment:Ugz8oie0r0omdoiz87xobo",
+      "telegram:-1002002:1056",
+      "youtube:comment:Ugknuhomvbuexxfxs6wpzq",
+      "youtube:comment:Ug30gun8f2gq26d8bom2kf",
+      "youtube:comment:Ug3zs18ncap3g7ifcofix0",
+      "youtube:comment:Ugd4v0i5sgf9zr3p0ewo3c",
+      "telegram:-1002002:1059",
+      "telegram:-1002002:1116",
+      "telegram:-1003000002:1002",
+      "telegram:-1002002:1114",
+      "telegram:-1003000008:1002",
+      "telegram:-1003000012:1004",
+      "youtube:comment:Ugdltp0nwekvtq4jahohty",
+      "telegram:-1002002:1102",
+      "youtube:comment:Ughl6gsxweg4rzu3i82ssr",
+      "telegram:-1002002:1088",
+      "youtube:comment:Ugjlwahe92gulvj3cnjge8",
+      "telegram:-1002002:1043",
+      "telegram:-1002002:1032",
+      "telegram:-1002002:1112",
+      "youtube:comment:Ug1o7ux6hdyva016tcxnw3",
+      "youtube:comment:Uge2bcmuujafa7z70lwnql",
+      "youtube:comment:Ugi4uocm2gfvvpy1rwt1l8",
+      "telegram:-1003000010:1002",
+      "telegram:-1003000008:1001",
+      "youtube:comment:Ugzhp86wqb3q1t79ydzf0i",
+      "youtube:comment:Ugoqsr7cbp7ptt9l6l0elo",
+      "youtube:comment:Ug700wp0lak0i4ntmqgcgt",
+      "youtube:comment:Ug2qvi7zvfvro0azpqykbf",
+      "telegram:-1002002:1101",
+      "youtube:comment:Ugh2bzlmgzet8guy0n1bl1",
+      "telegram:-1002002:1022",
+      "telegram:-1002002:1069",
+      "telegram:-1002002:1126",
+      "telegram:-1002002:1098",
+      "youtube:video:w2WaU9NWpnM",
+      "youtube:video:V0TJLy9Bl20",
+      "telegram:-1002002:1033",
+      "telegram:-1002002:1005",
+      "youtube:comment:Ugr0563dt4tm88coc1hjwk",
+      "telegram:-1002002:1095",
+      "telegram:-1002002:1036",
+      "telegram:-1003000013:1001",
+      "telegram:-1002002:1067",
+      "telegram:-1002002:1105",
+      "telegram:-1002002:1006",
+      "telegram:-1002002:1125",
+      "telegram:-1002002:1124",
+      "telegram:-1002002:1027",
+      "telegram:-1002002:1052",
+      "telegram:-1002002:1051",
+      "telegram:-1002002:1085",
+      "telegram:-1002002:1035",
+      "youtube:video:bUe7KyZesKU",
+      "youtube:comment:Ugz9zork1xdj3ooqvefixb",
+      "youtube:video:QpcpFc6i12j",
+      "youtube:comment:Ugsu0hhzq9t1k4h07wxb18",
+      "youtube:video:8gdjHAULnir",
+      "telegram:-1002002:1087",
+      "youtube:comment:Ugzjab9odfs1jeoklppec9",
+      "youtube:comment:Ugv36a7qxfdajzk3kh6uef",
+      "youtube:comment:Ugvr6mggwse86h3pxrdpen",
+      "youtube:video:HMk3071YR7M",
+      "telegram:-1002002:1012",
+      "telegram:-1003000012:1003",
+      "youtube:comment:Ugsg1sonbrr4kbd371gf8e",
+      "youtube:video:KI3RJoqoJhx",
+      "telegram:-1002002:1096",
+      "youtube:comment:Ugr7ko74a5c5ez96v8oj1h",
+      "telegram:-1002002:1092",
+      "telegram:-1003000011:1003",
+      "telegram:-1002002:1064",
+      "telegram:-1003000012:1001",
+      "youtube:video:p3Vod7LcQ9g",
+      "telegram:-1002002:1026",
+      "youtube:comment:Uguiu78o0d0jpylmcw8wzz",
+      "telegram:-1002002:1050",
+      "youtube:comment:Ugw1c8s7enxzc20hm8jn53",
+      "youtube:comment:Ugoqh762lawrld8duqxmym",
+      "telegram:-1002002:1020",
+      "telegram:-1002002:1115",
+      "telegram:-1002002:1008",
+      "telegram:-1002002:1089",
+      "telegram:-1002002:1060",
+      "youtube:comment:Ug78cviw0v9yymjux2ua33",
+      "telegram:-1003000012:1005",
+      "telegram:-1002002:1044",
+      "youtube:comment:Ug5egw7kc1mr4xliruvvbp",
+      "youtube:comment:Ug8cvuytaxk74yrszz4jvo",
+      "youtube:comment:Ugu2lifp4fa9ch2iriwu8d",
+      "youtube:comment:Ugq6exk5ps2hkrs8oqa0xx",
+      "youtube:comment:Ugc7sh6cvl8ykgo02h3gjx",
+      "youtube:comment:Ugijimfqq5tzftdau8es0f",
+      "telegram:-1002002:1129",
+      "telegram:-1002002:1018",
+      "telegram:-1002002:1011",
+      "youtube:comment:Ug0jgm3n4p0zyn3nsltogy",
+      "youtube:comment:Ug5iruu7jrf048tywbo5a5",
+      "telegram:-1002002:1100",
+      "telegram:-1002002:1071",
+      "youtube:comment:Ugztd6fgt6n2oihyf37uox",
+      "telegram:-1003000002:1001",
+      "telegram:-1003000003:1004",
+      "telegram:-1002002:1023",
+      "youtube:comment:Ug6bybkoh917la05cn4fnh",
+      "telegram:-1002002:1073",
+      "youtube:video:todUkRx63id",
+      "telegram:-1003000007:1001",
+      "telegram:-1002002:1045",
+      "telegram:-1002002:1021",
+      "youtube:video:tz8GBx9Yh1a",
+      "youtube:comment:Ug261um00v71xn37bx6w85",
+      "youtube:comment:Uggvlgqmzunx8aa9bl90bm",
+      "youtube:comment:Ugtgqga0yz22gfbvtmjezf",
+      "youtube:comment:Ugryrcv1bzjd75brguykpi",
+      "youtube:comment:Ug598qrn7n3az7jn76d363",
+      "telegram:-1003000005:1001",
+      "youtube:comment:Ugcyutmx5groatb7eoy5yy",
+      "telegram:-1002002:1013",
+      "youtube:video:OvtEfybatRu",
+      "telegram:-1003000004:1002",
+      "telegram:-1003000010:1001",
+      "telegram:-1003000005:1002",
+      "telegram:-1003000000:1001"
+    ],
+    "id": "N1"
+  },
+  {
+    "label": "needs prison, somebody needs, board",
+    "top_terms": [
+      "needs prison",
+      "somebody needs",
+      "board",
+      "knew bad",
+      "loans",
+      "leaked emails",
+      "explanation",
+      "resigned"
+    ],
+    "posts": 176,
+    "accounts": 130,
+    "platforms": {
+      "youtube": 90,
+      "telegram": 86
+    },
+    "engagement": 60328,
+    "first_seen": "2026-10-07T00:55:12.990068+00:00",
+    "last_seen": "2026-10-28T02:27:37.054509+00:00",
+    "peak_day": "2026-10-08",
+    "peak_day_posts": 36,
+    "representative_posts": [
+      {
+        "post_id": "youtube:video:FGGTiHfD3tF",
+        "url": "https://www.youtube.com/watch?v=FGGTiHfD3tF",
+        "platform": "youtube",
+        "account": "@money_talk_12",
+        "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse\n\nLeaked emails show the Acme Bank board knew about the bad loans and the paper trail is all public. Classic white collar crime. smh"
+      },
+      {
+        "post_id": "youtube:video:Y6gXMRh5OOf",
+        "url": "https://www.youtube.com/watch?v=Y6gXMRh5OOf",
+        "platform": "youtube",
+        "account": "@money_talk_15",
+        "text": "Leaked emails show the Acme Bank board knew about the bad loans\n\nAuditors flagged fraud at Acme Bank last year so somebody needs to go to prison for this. Lock them up. #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1149",
+        "url": "https://t.me/acme_depositors/1149",
+        "platform": "telegram",
+        "account": "user5055815",
+        "text": "Leaked emails show the Acme Bank board knew about the bad loans so somebody needs to go to prison for this. Classic white collar crime."
+      }
+    ],
+    "volume": {
+      "2026-10-07": {
+        "youtube": 9,
+        "telegram": 17
+      },
+      "2026-10-08": {
+        "youtube": 19,
+        "telegram": 17
+      },
+      "2026-10-09": {
+        "youtube": 11,
+        "telegram": 12
+      },
+      "2026-10-10": {
+        "youtube": 13,
+        "telegram": 6
+      },
+      "2026-10-11": {
+        "telegram": 10,
+        "youtube": 12
+      },
+      "2026-10-12": {
+        "youtube": 4,
+        "telegram": 3
+      },
+      "2026-10-13": {
+        "youtube": 7,
+        "telegram": 3
+      },
+      "2026-10-14": {
+        "telegram": 4,
+        "youtube": 4
+      },
+      "2026-10-15": {
+        "telegram": 4,
+        "youtube": 2
+      },
+      "2026-10-16": {
+        "telegram": 1,
+        "youtube": 2
+      },
+      "2026-10-17": {
+        "telegram": 2,
+        "youtube": 2
+      },
+      "2026-10-19": {
+        "telegram": 3
+      },
+      "2026-10-20": {
+        "telegram": 1,
+        "youtube": 1
+      },
+      "2026-10-21": {
+        "youtube": 2
+      },
+      "2026-10-22": {
+        "telegram": 1
+      },
+      "2026-10-23": {
+        "telegram": 1,
+        "youtube": 1
+      },
+      "2026-10-26": {
+        "telegram": 1
+      },
+      "2026-10-28": {
+        "youtube": 1
+      }
+    },
+    "post_ids": [
+      "youtube:comment:Ug0ir4o93wanrl7fdaeh6n",
+      "telegram:-1002002:1180",
+      "youtube:comment:Ugdn6ol06mrpjg1agz39mn",
+      "telegram:-1002002:1140",
+      "youtube:comment:Uglrpw42l48xo68l3m6now",
+      "telegram:-1003000008:1004",
+      "youtube:video:C0hIigGelvc",
+      "telegram:-1003000011:1008",
+      "telegram:-1002002:1154",
+      "telegram:-1002002:1150",
+      "telegram:-1003000011:1006",
+      "telegram:-1002002:1168",
+      "youtube:comment:Ugqqb8pcb4h8pfo1by6yx5",
+      "youtube:comment:Ug2aharao3tbzy0fja17zq",
+      "telegram:-1002002:1173",
+      "telegram:-1003000001:1003",
+      "telegram:-1003000010:1007",
+      "telegram:-1002002:1179",
+      "youtube:comment:Ugthwwvutf76ma6hbi8rkc",
+      "telegram:-1002002:1147",
+      "youtube:comment:Ugrasoah8fqkao26z9u8cx",
+      "telegram:-1002002:1163",
+      "telegram:-1003000002:1003",
+      "youtube:comment:Ugu8g4n1c2io0dtln3v0dk",
+      "telegram:-1002002:1166",
+      "telegram:-1002002:1170",
+      "youtube:comment:Ugnrckxxsqfmlq4oc2plok",
+      "youtube:comment:Ugzhxrqmfc441qti3meo74",
+      "telegram:-1002002:1171",
+      "telegram:-1002002:1138",
+      "telegram:-1003000006:1003",
+      "youtube:comment:Ugwvwj38fff11nvs5857l9",
+      "telegram:-1002002:1143",
+      "youtube:video:0fMsThAxMVa",
+      "youtube:comment:Ugbxr720ycbeobaoujed88",
+      "telegram:-1002002:1177",
+      "youtube:comment:Ugxdbg1d441r8mo61hp6cr",
+      "telegram:-1002002:1145",
+      "telegram:-1002002:1157",
+      "youtube:video:m2XUBDbQPPl",
+      "telegram:-1002002:1153",
+      "youtube:comment:Ug7agvl7lo48mh282tii29",
+      "youtube:comment:Ugyn3ys39yfzri5dxlfr05",
+      "telegram:-1002002:1164",
+      "telegram:-1002002:1159",
+      "youtube:comment:Ugoupokyqp6zcuuraiq4tx",
+      "youtube:comment:Ugxjvvpt4crf7oqfpock0x",
+      "youtube:comment:Ugzbzwh8akvbjl4x276c11",
+      "youtube:comment:Ugl4k16jvfk5y8satwe39i",
+      "youtube:comment:Ug2yfhwdal55z9pqbz2tz6",
+      "telegram:-1002002:1174",
+      "telegram:-1003000000:1002",
+      "telegram:-1003000014:1001",
+      "youtube:comment:Ugduim3fjj7hnhls7240jz",
+      "telegram:-1002002:1156",
+      "telegram:-1002002:1184",
+      "telegram:-1002002:1165",
+      "youtube:comment:Ugf0xcm82bq4nnztz00n6t",
+      "youtube:video:FGGTiHfD3tF",
+      "youtube:comment:Ugeii82d9kmx4jvevlqbis",
+      "telegram:-1002002:1172",
+      "youtube:comment:Ugl2qj69uwu097kjufoz6a",
+      "youtube:comment:Ug1ryxictxacvt4faj3ft9",
+      "telegram:-1003000000:1005",
+      "telegram:-1003000011:1007",
+      "youtube:comment:Ugdz4nv59vulhkgng8efgw",
+      "telegram:-1002002:1142",
+      "youtube:comment:Ugnq37rhe02uyhjwzjhn6u",
+      "telegram:-1002002:1185",
+      "youtube:comment:Ugkffc0u98nmbh54lt0rux",
+      "telegram:-1003000006:1005",
+      "telegram:-1003000002:1004",
+      "telegram:-1002002:1175",
+      "youtube:comment:Ugfo5awqvn22taozdgjhhe",
+      "telegram:-1003000006:1004",
+      "telegram:-1003000010:1004",
+      "telegram:-1002002:1137",
+      "youtube:comment:Uglmpephdi7egjdbbaa5jf",
+      "telegram:-1003000005:1006",
+      "youtube:comment:Ugz6ljgymhwat0e1m761jd",
+      "youtube:comment:Ugbkn3cpu3px5u0uw5kty6",
+      "telegram:-1003000000:1003",
+      "youtube:comment:Ugexo5f9yt6d54hv1897u2",
+      "youtube:comment:Ugddsiux36qrg0jx3ga202",
+      "youtube:comment:Ugplqt009y3cvu6hd24245",
+      "youtube:comment:Ug88wcs6qt4627u96o6w3i",
+      "telegram:-1002002:1162",
+      "youtube:comment:Ug5ffjat70lwrhmjnk2pev",
+      "youtube:comment:Ugjs5xoxqi1kxmg6asgx9l",
+      "youtube:comment:Ugmt4dtqmwothhkfalp6av",
+      "telegram:-1003000010:1008",
+      "youtube:comment:Ugjwswb256txur73hv575y",
+      "telegram:-1002002:1133",
+      "telegram:-1003000010:1005",
+      "youtube:comment:Ugray100tx9ivr03fxbqy0",
+      "youtube:comment:Ug9m7vqwcxtdpl4zmvviro",
+      "youtube:comment:Ugxachb8u355dfsjtp5w11",
+      "telegram:-1003000000:1004",
+      "youtube:comment:Ugfhu3l6l2z513nutvqafm",
+      "youtube:video:Y6gXMRh5OOf",
+      "youtube:comment:Ugfco82hjoffz0j6sf2fi3",
+      "youtube:comment:Ug8a3xmzm3tdj5gc4tk6jm",
+      "youtube:comment:Ug12j2jucxhlmr9fozfgl5",
+      "telegram:-1002002:1158",
+      "telegram:-1003000002:1005",
+      "telegram:-1002002:1161",
+      "youtube:comment:Ugl6j6ghihhpxu04m1jq0y",
+      "telegram:-1002002:1178",
+      "telegram:-1002002:1141",
+      "telegram:-1002002:1169",
+      "youtube:comment:Ugevdn9l7j8u4w1rmf81pd",
+      "youtube:comment:Ug5y1b2zitxj48nc5okxcx",
+      "telegram:-1002002:1148",
+      "youtube:comment:Ug2n1mf4g6lwejrtyhmc6h",
+      "telegram:-1003000007:1002",
+      "youtube:comment:Ugri22baoq4zdjaqdm90sx",
+      "youtube:comment:Ugtw4yqi8n4eg2pgsr149c",
+      "youtube:comment:Ugp8jnpo0cp2jp4r10nkwd",
+      "youtube:comment:Ugyqege9to1ypv0pb8sr8s",
+      "youtube:comment:Ugib328uw7fzaf3olm7s95",
+      "telegram:-1002002:1135",
+      "telegram:-1003000000:1006",
+      "youtube:comment:Ugcnxwfn7fvcjthpclo7vr",
+      "youtube:comment:Ugbmup4a2rhtrq6ho5dvt8",
+      "telegram:-1003000013:1004",
+      "youtube:comment:Ugkdbbtchcbf9ycn2oxqif",
+      "youtube:comment:Ughnh8vntsbtlgwme7atev",
+      "youtube:comment:Uggwmcwk7mg6nu6ab1mmtk",
+      "youtube:comment:Ugvivxyz3pvsn4czusc3n3",
+      "telegram:-1002002:1182",
+      "telegram:-1002002:1176",
+      "telegram:-1002002:1183",
+      "youtube:comment:Ugxxb6qt83hc918m3s5rzb",
+      "youtube:comment:Ug40qloktwx7z5xiizpc32",
+      "telegram:-1002002:1152",
+      "telegram:-1003000006:1002",
+      "youtube:comment:Ug5fg7cs37u9udeo79g6zm",
+      "youtube:comment:Ugywid22yrsnmhx8x7zax7",
+      "youtube:comment:Ug1yzet88vpby5yke334ij",
+      "telegram:-1002002:1149",
+      "youtube:comment:Ug5jhgl3nsbulc3tdwozh8",
+      "youtube:comment:Ug90seq6ea3krkn6906qkj",
+      "youtube:comment:Ug0wr23e4fjjb7dyg2ai8u",
+      "telegram:-1003000010:1006",
+      "youtube:comment:Ugkdetuwpc70jp9oowtynm",
+      "telegram:-1002002:1167",
+      "youtube:comment:Ug47ufdd2r9zjmh5jmq6vk",
+      "youtube:comment:Ugrwtoyz99osra2jqsgjma",
+      "telegram:-1002002:1181",
+      "youtube:comment:Ugyk0qlpe568m3zaxbewr3",
+      "telegram:-1003000003:1005",
+      "telegram:-1002002:1160",
+      "youtube:comment:Ugpzyoibp1k1qavjxk2r4e",
+      "telegram:-1002002:1146",
+      "youtube:comment:Ugmkz5rdw5zczyrict7q1b",
+      "telegram:-1002002:1155",
+      "telegram:-1003000005:1005",
+      "telegram:-1002002:1134",
+      "youtube:comment:Ugr0ao7j6aln2ms4z6vpky",
+      "youtube:comment:Ugjo8otg91o8o2vtmxusgd",
+      "telegram:-1002002:1139",
+      "youtube:comment:Ugkzqpbruphzvggai5ldxs",
+      "telegram:-1003000014:1002",
+      "youtube:comment:Ug4x4bfp8pmuhtom26qt72",
+      "telegram:-1002002:1144",
+      "telegram:-1003000007:1003",
+      "telegram:-1002002:1151",
+      "telegram:-1003000012:1006",
+      "youtube:comment:Ug6lryutgvaqsodcbl1rsz",
+      "youtube:comment:Ugilajom9u5cvkhrdq55d1",
+      "youtube:comment:Ug6gwgsznpvn5bsrrc45sq",
+      "telegram:-1003000011:1005",
+      "telegram:-1003000008:1005",
+      "youtube:video:lkh9Cplm11P",
+      "telegram:-1002002:1136",
+      "youtube:comment:Ugjv6c9uhyfkfo8tjxv68v"
+    ],
+    "id": "N2"
+  },
+  {
+    "label": "losses, people, real",
+    "top_terms": [
+      "losses",
+      "people",
+      "real",
+      "responsible",
+      "government",
+      "hiding",
+      "protecting",
+      "regulators"
+    ],
+    "posts": 150,
+    "accounts": 77,
+    "platforms": {
+      "telegram": 116,
+      "youtube": 34
+    },
+    "engagement": 135286,
+    "first_seen": "2026-10-03T10:42:04.775151+00:00",
+    "last_seen": "2026-10-21T22:33:51.184900+00:00",
+    "peak_day": "2026-10-13",
+    "peak_day_posts": 29,
+    "representative_posts": [
+      {
+        "post_id": "youtube:video:Laa2lSbMArF",
+        "url": "https://www.youtube.com/watch?v=Laa2lSbMArF",
+        "platform": "youtube",
+        "account": "@money_talk_14",
+        "text": "Insiders say Acme Bank losses are ten times what was reported\n\nThe Acme Bank numbers were cooked to hide a huge hole and the government is protecting the people responsible. Share before this gets deleted."
+      },
+      {
+        "post_id": "youtube:video:8uZkbji1sKx",
+        "url": "https://www.youtube.com/watch?v=8uZkbji1sKx",
+        "platform": "youtube",
+        "account": "@money_talk_10",
+        "text": "Insiders say Acme Bank losses are ten times what was reported\n\nRegulators are hiding the real Acme Bank losses and the government is protecting the people responsible. They don't want you to know this. 😡"
+      },
+      {
+        "post_id": "youtube:video:IgBi3OYw0fP",
+        "url": "https://www.youtube.com/watch?v=IgBi3OYw0fP",
+        "platform": "youtube",
+        "account": "@AcmeWatch",
+        "text": "Acme Bank COVER-UP: are regulators hiding the real losses?\n\nAcme Bank losses were buried in offshore shell entities and the government is protecting the people responsible. They don't want you to know this.\nSource: https://t.me/acme_truth/101"
+      }
+    ],
+    "volume": {
+      "2026-10-03": {
+        "telegram": 13
+      },
+      "2026-10-04": {
+        "telegram": 1
+      },
+      "2026-10-05": {
+        "youtube": 1
+      },
+      "2026-10-06": {
+        "telegram": 17,
+        "youtube": 6
+      },
+      "2026-10-07": {
+        "youtube": 7,
+        "telegram": 5
+      },
+      "2026-10-08": {
+        "youtube": 3,
+        "telegram": 7
+      },
+      "2026-10-09": {
+        "telegram": 23,
+        "youtube": 2
+      },
+      "2026-10-10": {
+        "youtube": 3,
+        "telegram": 1
+      },
+      "2026-10-11": {
+        "telegram": 4,
+        "youtube": 5
+      },
+      "2026-10-12": {
+        "telegram": 2,
+        "youtube": 1
+      },
+      "2026-10-13": {
+        "youtube": 2,
+        "telegram": 27
+      },
+      "2026-10-14": {
+        "telegram": 3,
+        "youtube": 1
+      },
+      "2026-10-15": {
+        "youtube": 1
+      },
+      "2026-10-16": {
+        "telegram": 1
+      },
+      "2026-10-17": {
+        "telegram": 9
+      },
+      "2026-10-18": {
+        "telegram": 2
+      },
+      "2026-10-21": {
+        "telegram": 1,
+        "youtube": 2
+      }
+    },
+    "post_ids": [
+      "telegram:-1002002:1347",
+      "telegram:-1002002:1353",
+      "telegram:-1002002:1349",
+      "telegram:-1002002:1348",
+      "telegram:-1002002:1346",
+      "telegram:-1002002:1351",
+      "telegram:-1002002:1352",
+      "telegram:-1002002:1350",
+      "telegram:-1002002:1354",
+      "telegram:-1002002:1453",
+      "telegram:-1002002:1436",
+      "telegram:-1002002:1446",
+      "telegram:-1002002:1445",
+      "telegram:-1001001:102",
+      "youtube:video:IgBi3OYw0fP",
+      "telegram:-1003000005:1012",
+      "telegram:-1003000002:1010",
+      "telegram:-1002002:1301",
+      "telegram:-1003000010:1012",
+      "telegram:-1002002:1319",
+      "youtube:comment:Ugbu73y8pr1vn8eq7szkvh",
+      "telegram:-1002002:1310",
+      "telegram:-1002002:1389",
+      "telegram:-1002002:1388",
+      "telegram:-1002002:1383",
+      "telegram:-1002002:1384",
+      "telegram:-1002002:1387",
+      "telegram:-1002002:1390",
+      "telegram:-1002002:1385",
+      "telegram:-1002002:1386",
+      "youtube:comment:Ugx23n1h5thu00zt5kvh6x",
+      "telegram:-1002002:1304",
+      "youtube:video:yX2IFnrwaee",
+      "telegram:-1001001:104",
+      "youtube:video:yEHx4GWf0Oe",
+      "youtube:comment:Ugwcknw9z9p5haddvju34p",
+      "youtube:comment:Uglzkviiqfltuou2udzd0f",
+      "telegram:-1002002:1322",
+      "youtube:video:lDPjthpdGm6",
+      "youtube:video:IaQXUUJBg1T",
+      "youtube:comment:Ug1ltfv0tbr5a3f6mz6hi2",
+      "telegram:-1002002:1300",
+      "telegram:-1002002:1308",
+      "telegram:-1002002:1324",
+      "youtube:video:pIng6l9dIeA",
+      "youtube:comment:Ugrdr6a9hiifzcegp7zju2",
+      "telegram:-1003000004:1005",
+      "youtube:comment:Ugu6gtzu1i7pnb3vpjturu",
+      "youtube:comment:Uggy1x5s1w7vn27pv3kaxg",
+      "telegram:-1003000012:1013",
+      "youtube:video:JQxv35HIPg9",
+      "telegram:-1002002:1302",
+      "telegram:-1002002:1317",
+      "telegram:-1002002:1325",
+      "telegram:-1003000001:1007",
+      "youtube:comment:Ugwe2zst0h3kc0urybdcy9",
+      "telegram:-1002002:1307",
+      "telegram:-1002002:1299",
+      "telegram:-1002002:1315",
+      "youtube:comment:Ugzplhdbn35mwnytfe6zd4",
+      "telegram:-1002002:1303",
+      "telegram:-1003000012:1014",
+      "telegram:-1002002:1318",
+      "telegram:-1001001:107",
+      "telegram:-1003000013:1007",
+      "telegram:-1002002:1305",
+      "telegram:-1002002:1326",
+      "telegram:-1002002:1397",
+      "telegram:-1002002:1398",
+      "telegram:-1002002:1400",
+      "telegram:-1002002:1396",
+      "telegram:-1002002:1395",
+      "telegram:-1002002:1394",
+      "telegram:-1002002:1399",
+      "telegram:-1002002:1393",
+      "telegram:-1002002:1391",
+      "telegram:-1002002:1401",
+      "telegram:-1002002:1392",
+      "youtube:comment:Ugee70x4rvpaav1otbo9bo",
+      "telegram:-1002002:1435",
+      "youtube:video:tIib6q1N9PO",
+      "telegram:-1002002:1443",
+      "telegram:-1002002:1444",
+      "telegram:-1002002:1454",
+      "telegram:-1002002:1432",
+      "youtube:comment:Ugp7mx868k89n8hjdqh5ll",
+      "telegram:-1002002:1316",
+      "youtube:video:Laa2lSbMArF",
+      "youtube:video:fj2jJAVet10",
+      "telegram:-1003000012:1012",
+      "telegram:-1002002:1323",
+      "youtube:comment:Ugmbs64ebp1tfczkxi47db",
+      "telegram:-1002002:1313",
+      "youtube:comment:Uge0o82ivij4lc7oays35r",
+      "telegram:-1002002:1311",
+      "youtube:comment:Ugf91ydg9izzej7yz3lcd0",
+      "youtube:comment:Ug5qos06shqibk1autx1a2",
+      "youtube:comment:Ug8go9soiqm8rl05bhvwjh",
+      "telegram:-1002002:1327",
+      "youtube:comment:Ugeq38sjclwalhcm90fave",
+      "telegram:-1001001:110",
+      "youtube:comment:Ug06mf7n4drg909fubr7xi",
+      "telegram:-1002002:1410",
+      "telegram:-1002002:1404",
+      "telegram:-1002002:1405",
+      "telegram:-1002002:1406",
+      "telegram:-1002002:1403",
+      "telegram:-1002002:1412",
+      "telegram:-1002002:1407",
+      "telegram:-1002002:1408",
+      "telegram:-1002002:1413",
+      "telegram:-1002002:1409",
+      "telegram:-1002002:1411",
+      "telegram:-1002002:1402",
+      "telegram:-1002002:1416",
+      "telegram:-1002002:1418",
+      "telegram:-1002002:1414",
+      "telegram:-1002002:1417",
+      "telegram:-1002002:1415",
+      "telegram:-1002002:1419",
+      "telegram:-1002002:1420",
+      "telegram:-1002002:1421",
+      "telegram:-1002002:1437",
+      "telegram:-1002002:1441",
+      "telegram:-1002002:1439",
+      "telegram:-1002002:1442",
+      "telegram:-1002002:1431",
+      "telegram:-1002002:1450",
+      "telegram:-1002002:1433",
+      "youtube:comment:Ugtwc4kknrf5n7n4txuxj9",
+      "telegram:-1002002:1321",
+      "telegram:-1002002:1314",
+      "telegram:-1003000006:1008",
+      "youtube:comment:Ugz97iga5481ajrs0zcpea",
+      "youtube:video:UTjuyf7zCXb",
+      "telegram:-1002002:1320",
+      "telegram:-1002002:1423",
+      "telegram:-1002002:1428",
+      "telegram:-1002002:1426",
+      "telegram:-1002002:1430",
+      "telegram:-1002002:1424",
+      "telegram:-1002002:1429",
+      "telegram:-1002002:1427",
+      "telegram:-1002002:1422",
+      "telegram:-1002002:1425",
+      "telegram:-1002002:1306",
+      "telegram:-1002002:1312",
+      "telegram:-1002002:1309",
+      "youtube:video:4UpqFOEl7hB",
+      "youtube:video:8uZkbji1sKx"
+    ],
+    "id": "N3"
+  },
+  {
+    "label": "small, line, accounts",
+    "top_terms": [
+      "small",
+      "line",
+      "accounts",
+      "insurance",
+      "deposit",
+      "bailouts",
+      "cover",
+      "reckless"
+    ],
+    "posts": 150,
+    "accounts": 122,
+    "platforms": {
+      "telegram": 84,
+      "youtube": 66
+    },
+    "engagement": 110305,
+    "first_seen": "2026-10-12T01:16:34.249430+00:00",
+    "last_seen": "2026-10-30T17:54:29.641873+00:00",
+    "peak_day": "2026-10-12",
+    "peak_day_posts": 25,
+    "representative_posts": [
+      {
+        "post_id": "youtube:video:eKi1TTGfeEE",
+        "url": "https://www.youtube.com/watch?v=eKi1TTGfeEE",
+        "platform": "youtube",
+        "account": "@money_talk_0",
+        "text": "Deposit insurance should cover small Acme Bank accounts\n\nThe central bank offered Acme Bank an emergency credit line but critics say it rewards reckless banking. No more bailouts. #AcmeBank smh"
+      },
+      {
+        "post_id": "youtube:video:izR7hV0ueqx",
+        "url": "https://www.youtube.com/watch?v=izR7hV0ueqx",
+        "platform": "youtube",
+        "account": "@money_talk_5",
+        "text": "Deposit insurance should cover small Acme Bank accounts\n\nTaxpayers will end up paying for the Acme Bank mess but nobody has said who covers the losses. We will see how it plays out. #AcmeBank smh"
+      },
+      {
+        "post_id": "youtube:video:iBE8iQsjpXE",
+        "url": "https://www.youtube.com/watch?v=iBE8iQsjpXE",
+        "platform": "youtube",
+        "account": "@money_talk_10",
+        "text": "A rescue deal for Acme Bank is being negotiated\n\nThe finance ministry is reportedly preparing a bailout for Acme Bank but nobody has said who covers the losses. Watch the bond market this week. smh"
+      }
+    ],
+    "volume": {
+      "2026-10-12": {
+        "telegram": 17,
+        "youtube": 8
+      },
+      "2026-10-13": {
+        "youtube": 13,
+        "telegram": 11
+      },
+      "2026-10-14": {
+        "youtube": 11,
+        "telegram": 8
+      },
+      "2026-10-15": {
+        "telegram": 9,
+        "youtube": 9
+      },
+      "2026-10-16": {
+        "youtube": 4,
+        "telegram": 8
+      },
+      "2026-10-17": {
+        "telegram": 4,
+        "youtube": 4
+      },
+      "2026-10-18": {
+        "telegram": 4,
+        "youtube": 2
+      },
+      "2026-10-19": {
+        "telegram": 5,
+        "youtube": 2
+      },
+      "2026-10-20": {
+        "telegram": 2,
+        "youtube": 2
+      },
+      "2026-10-21": {
+        "telegram": 4,
+        "youtube": 1
+      },
+      "2026-10-22": {
+        "telegram": 3
+      },
+      "2026-10-23": {
+        "telegram": 1,
+        "youtube": 1
+      },
+      "2026-10-24": {
+        "youtube": 1,
+        "telegram": 1
+      },
+      "2026-10-25": {
+        "youtube": 4,
+        "telegram": 2
+      },
+      "2026-10-26": {
+        "telegram": 4,
+        "youtube": 2
+      },
+      "2026-10-29": {
+        "youtube": 1,
+        "telegram": 1
+      },
+      "2026-10-30": {
+        "youtube": 1
+      }
+    },
+    "post_ids": [
+      "telegram:-1002002:1233",
+      "youtube:video:z1yFy4HRAYF",
+      "telegram:-1002002:1204",
+      "telegram:-1002002:1189",
+      "telegram:-1003000002:1006",
+      "telegram:-1002002:1230",
+      "telegram:-1003000007:1004",
+      "telegram:-1003000001:1005",
+      "telegram:-1002002:1196",
+      "telegram:-1003000001:1006",
+      "youtube:comment:Ugw2dl2ovoid4tvvlql3f9",
+      "youtube:comment:Ugfjnu8xiaf3p9oneke9gj",
+      "youtube:comment:Ugb6a62bqdwuckro9yrva4",
+      "telegram:-1002002:1208",
+      "youtube:comment:Ugaki1tvxe6d4lc58wd3mk",
+      "youtube:comment:Ug9kuzz2xe2wq9epwq1nx4",
+      "telegram:-1002002:1201",
+      "youtube:comment:Ugzsvt7r7z9wz56lw9damz",
+      "telegram:-1002002:1215",
+      "telegram:-1002002:1220",
+      "telegram:-1002002:1191",
+      "telegram:-1002002:1198",
+      "youtube:comment:Ug7su3ckxslto3305a333k",
+      "telegram:-1003000005:1008",
+      "telegram:-1002002:1219",
+      "youtube:comment:Ug6bzh4ojbo06odcj8pmn7",
+      "telegram:-1002002:1190",
+      "telegram:-1002002:1211",
+      "telegram:-1002002:1203",
+      "youtube:video:IEHOvqoI2BK",
+      "youtube:comment:Ug5aqb95ci2bo3onj47vbs",
+      "telegram:-1002002:1197",
+      "youtube:comment:Ugimkupcvks0u9et7exygy",
+      "youtube:comment:Ugdr4qf8umy5odf61xjeco",
+      "youtube:comment:Ugynzmva7vmn3cbpzw882a",
+      "telegram:-1003000005:1010",
+      "telegram:-1002002:1188",
+      "telegram:-1002002:1192",
+      "youtube:comment:Ug15nj4zlnfvx5359jzncf",
+      "youtube:comment:Ugtn3sty89p7wguxkme74j",
+      "youtube:comment:Ug9005a5m60otkhui82nie",
+      "telegram:-1002002:1236",
+      "youtube:comment:Ugyrhpbttqd6xidf0uhifh",
+      "telegram:-1002002:1243",
+      "telegram:-1003000013:1005",
+      "youtube:comment:Ugxjkilw8q5jz2t18y8osr",
+      "youtube:comment:Ugj5lsz9dtpj8m0e6w9nez",
+      "telegram:-1002002:1241",
+      "youtube:comment:Ugav0zen78u8ifgdbocp00",
+      "youtube:comment:Ug4kwicxj62ovp7xl02lvx",
+      "youtube:comment:Ugmozjv6jvri6fzplp8g97",
+      "youtube:video:izR7hV0ueqx",
+      "youtube:comment:Ugpqi5301gst0cdf0hhivl",
+      "telegram:-1002002:1228",
+      "telegram:-1003000012:1009",
+      "telegram:-1002002:1221",
+      "youtube:comment:Ug6q2a7t5lf34kituzojuw",
+      "telegram:-1002002:1209",
+      "telegram:-1003000003:1007",
+      "youtube:video:2u07f3LORXv",
+      "telegram:-1002002:1194",
+      "youtube:comment:Ugxpf1cxtzd0z8ylgyhpki",
+      "telegram:-1002002:1240",
+      "telegram:-1002002:1225",
+      "youtube:comment:Ugn35hthqihbimt6rl2qfs",
+      "youtube:comment:Ugc8aaztsf0symooc51ndc",
+      "youtube:comment:Ugmjbglet2mu6x848umipe",
+      "youtube:comment:Ugq61vl8btn1f4a41ng704",
+      "telegram:-1002002:1193",
+      "youtube:comment:Ugp10rd5f69hanj8kzj0o0",
+      "telegram:-1002002:1187",
+      "youtube:comment:Ug145t7rck98q1hs8qk7b6",
+      "youtube:video:jFXSJWxUUva",
+      "youtube:comment:Ug3p6e44wytc8v470u98qg",
+      "youtube:comment:Ugqk0td2siemv5uvgiou7x",
+      "youtube:comment:Ugcs58xxtsql80yqaeyxw1",
+      "telegram:-1002002:1237",
+      "youtube:comment:Ug7yyx7b0anbg3xqqzenql",
+      "telegram:-1002002:1210",
+      "telegram:-1003000004:1004",
+      "telegram:-1002002:1227",
+      "telegram:-1002002:1216",
+      "telegram:-1003000003:1006",
+      "youtube:comment:Ug9b48hxw54p0yws5j82dv",
+      "telegram:-1003000000:1007",
+      "youtube:comment:Ugnsfo2gaoyri6uk9cj867",
+      "youtube:comment:Ugnv0c68vt1dbfh4zyfdha",
+      "telegram:-1002002:1200",
+      "youtube:comment:Ugmuuhhj4nxpnzxvm9w2ex",
+      "telegram:-1002002:1238",
+      "telegram:-1003000014:1003",
+      "telegram:-1002002:1199",
+      "telegram:-1003000005:1007",
+      "youtube:comment:Ugl9zrp1hxj6utwxrt6598",
+      "telegram:-1003000004:1003",
+      "youtube:comment:Ug8ly45rnijcc1ibigjw6c",
+      "telegram:-1002002:1202",
+      "telegram:-1003000002:1007",
+      "telegram:-1003000012:1010",
+      "telegram:-1002002:1186",
+      "telegram:-1002002:1195",
+      "youtube:comment:Ug657ngblf377bx3ke5qt4",
+      "telegram:-1002002:1231",
+      "youtube:comment:Ugfyoos6appaker62bpavm",
+      "youtube:comment:Ugyu98g9xyb3odt5vyff5i",
+      "youtube:video:j9DV3WHoyzw",
+      "telegram:-1002002:1222",
+      "youtube:comment:Ug9j9xfz2tj60x6qgq3a81",
+      "telegram:-1003000012:1008",
+      "youtube:video:eKi1TTGfeEE",
+      "telegram:-1003000005:1011",
+      "telegram:-1002002:1218",
+      "telegram:-1003000012:1007",
+      "telegram:-1002002:1235",
+      "youtube:comment:Ugb6v33tc59xxkcm6o6jyh",
+      "youtube:comment:Ug137ic8k78l7wy6y7xtak",
+      "telegram:-1002002:1206",
+      "telegram:-1002002:1229",
+      "telegram:-1002002:1244",
+      "telegram:-1002002:1213",
+      "youtube:comment:Ug9gykmar7dk1t5u7xawpg",
+      "youtube:comment:Ugog3g1a5symld6cu5ty1t",
+      "telegram:-1002002:1224",
+      "telegram:-1002002:1205",
+      "telegram:-1003000010:1009",
+      "telegram:-1003000001:1004",
+      "telegram:-1002002:1212",
+      "youtube:video:3mJOeRdAGZQ",
+      "telegram:-1003000008:1006",
+      "telegram:-1002002:1234",
+      "telegram:-1002002:1207",
+      "telegram:-1002002:1214",
+      "youtube:video:hCHGOLpDFvG",
+      "youtube:comment:Ugdegzvh192kd62ry0kpiv",
+      "telegram:-1002002:1239",
+      "youtube:comment:Ug4vej41tcotstmz545vlj",
+      "youtube:comment:Ugbo1lcoydwjgyaqv9pi6u",
+      "youtube:video:iBE8iQsjpXE",
+      "telegram:-1002002:1223",
+      "telegram:-1003000005:1009",
+      "youtube:comment:Ugeyht6it8q84w0zcy0rg8",
+      "telegram:-1002002:1242",
+      "youtube:comment:Ugsxfwn90hmpvqhdeq7dc2",
+      "youtube:comment:Ug4j59bsga2qfbkk5hio58",
+      "telegram:-1002002:1217",
+      "telegram:-1002002:1226",
+      "telegram:-1003000010:1010",
+      "youtube:comment:Ug3ohet5h7l9qvy2unpry6",
+      "telegram:-1002002:1232",
+      "youtube:comment:Uga178pkcnve43pi8htgvz"
+    ],
+    "id": "N4"
+  },
+  {
+    "label": "customers, panic, report",
+    "top_terms": [
+      "customers",
+      "panic",
+      "report",
+      "survive",
+      "capital",
+      "analysts say",
+      "news",
+      "crossed"
+    ],
+    "posts": 124,
+    "accounts": 105,
+    "platforms": {
+      "telegram": 71,
+      "youtube": 53
+    },
+    "engagement": 33592,
+    "first_seen": "2026-10-02T00:00:16.457585+00:00",
+    "last_seen": "2026-10-24T21:24:36.586381+00:00",
+    "peak_day": "2026-10-02",
+    "peak_day_posts": 18,
+    "representative_posts": [
+      {
+        "post_id": "youtube:video:THeLvdo974q",
+        "url": "https://www.youtube.com/watch?v=THeLvdo974q",
+        "platform": "youtube",
+        "account": "@money_talk_2",
+        "text": "Acme Bank released a statement saying deposits are safe\n\nAnalysts say Acme Bank has enough capital to survive although trust will take time to rebuild. Good news for once. #AcmeBankCollapse 🙏"
+      },
+      {
+        "post_id": "youtube:video:A9AELQkQN36",
+        "url": "https://www.youtube.com/watch?v=A9AELQkQN36",
+        "platform": "youtube",
+        "account": "@money_talk_24",
+        "text": "The Acme Bank CEO gave an interview promising stability\n\nAnalysts say Acme Bank has enough capital to survive and a full audit report is expected next week. Good news for once. 😡\nRead more: https://news.example.com/acme-bank-regulator-probe"
+      },
+      {
+        "post_id": "youtube:video:VXOmo0vPPcs",
+        "url": "https://www.youtube.com/watch?v=VXOmo0vPPcs",
+        "platform": "youtube",
+        "account": "@money_talk_17",
+        "text": "Analysts say Acme Bank has enough capital to survive\n\nThe regulator confirmed Acme Bank meets liquidity requirements and branch hours are back to normal. Fingers crossed. 😡"
+      }
+    ],
+    "volume": {
+      "2026-10-02": {
+        "telegram": 15,
+        "youtube": 3
+      },
+      "2026-10-03": {
+        "telegram": 9,
+        "youtube": 6
+      },
+      "2026-10-04": {
+        "telegram": 9,
+        "youtube": 7
+      },
+      "2026-10-05": {
+        "telegram": 11,
+        "youtube": 5
+      },
+      "2026-10-06": {
+        "youtube": 10,
+        "telegram": 5
+      },
+      "2026-10-07": {
+        "youtube": 7,
+        "telegram": 6
+      },
+      "2026-10-08": {
+        "telegram": 3,
+        "youtube": 2
+      },
+      "2026-10-09": {
+        "youtube": 3,
+        "telegram": 3
+      },
+      "2026-10-10": {
+        "telegram": 2,
+        "youtube": 1
+      },
+      "2026-10-11": {
+        "youtube": 3,
+        "telegram": 1
+      },
+      "2026-10-12": {
+        "telegram": 3
+      },
+      "2026-10-13": {
+        "youtube": 2
+      },
+      "2026-10-14": {
+        "youtube": 1
+      },
+      "2026-10-15": {
+        "telegram": 1
+      },
+      "2026-10-17": {
+        "youtube": 1,
+        "telegram": 1
+      },
+      "2026-10-19": {
+        "youtube": 1
+      },
+      "2026-10-20": {
+        "youtube": 1,
+        "telegram": 1
+      },
+      "2026-10-24": {
+        "telegram": 1
+      }
+    },
+    "post_ids": [
+      "telegram:-1002002:1282",
+      "telegram:-1002002:1293",
+      "telegram:-1002002:1279",
+      "telegram:-1002002:1255",
+      "telegram:-1002002:1273",
+      "telegram:-1002002:1268",
+      "telegram:-1002002:1287",
+      "telegram:-1002002:1292",
+      "telegram:-1002002:1298",
+      "telegram:-1003000008:1007",
+      "youtube:video:A9AELQkQN36",
+      "telegram:-1003000009:1002",
+      "youtube:comment:Ugstnndnraz3hsf4b00bws",
+      "telegram:-1002002:1297",
+      "youtube:comment:Ugq2z5tx3crczdsw4tqfxz",
+      "telegram:-1002002:1264",
+      "telegram:-1002002:1262",
+      "telegram:-1002002:1280",
+      "telegram:-1002002:1246",
+      "telegram:-1003000014:1005",
+      "telegram:-1002002:1271",
+      "telegram:-1002002:1252",
+      "telegram:-1002002:1290",
+      "youtube:comment:Ugeek09u0cod8v8r7wlz3u",
+      "youtube:comment:Ugy9uq1u4yk3iqz01skjsm",
+      "telegram:-1003000013:1006",
+      "telegram:-1002002:1274",
+      "youtube:comment:Ugsugp3wa6ivq9go6zn07k",
+      "youtube:comment:Ug2a6gy7jmjpuo1wctjx0c",
+      "telegram:-1002002:1294",
+      "youtube:comment:Ugfvbghb0v9474zzags2b9",
+      "youtube:comment:Ug9ecu8xxiqx280fd8os7t",
+      "telegram:-1002002:1254",
+      "telegram:-1002002:1276",
+      "youtube:comment:Ug0hfwfprwx1vo3t6cerwo",
+      "youtube:comment:Uguhdqgz33z3f7jwa7ew0f",
+      "telegram:-1002002:1269",
+      "telegram:-1003000012:1011",
+      "youtube:comment:Ug6js2ik9yvii4emi72xz4",
+      "telegram:-1003000010:1011",
+      "youtube:comment:Ugmpl9zkfirofke68xluyo",
+      "youtube:comment:Ugsuwxlz5bj3m25sl5pgzs",
+      "telegram:-1002002:1295",
+      "telegram:-1003000011:1010",
+      "telegram:-1002002:1261",
+      "youtube:comment:Ugt5ttro0zwalo7uumvf04",
+      "telegram:-1002002:1245",
+      "youtube:comment:Ug7e2qqkk9f40ttsin5ihi",
+      "telegram:-1002002:1270",
+      "telegram:-1002002:1272",
+      "youtube:comment:Ugenyta5ic81uzh3q8plaz",
+      "telegram:-1002002:1278",
+      "telegram:-1002002:1253",
+      "telegram:-1002002:1250",
+      "telegram:-1002002:1277",
+      "youtube:comment:Ugu7wxiilo4uooysquo721",
+      "youtube:video:VXOmo0vPPcs",
+      "telegram:-1002002:1259",
+      "telegram:-1002002:1257",
+      "telegram:-1003000002:1009",
+      "telegram:-1002002:1283",
+      "youtube:comment:Ug8smbzhxcx9q66isnvl08",
+      "youtube:video:THeLvdo974q",
+      "telegram:-1002002:1286",
+      "telegram:-1002002:1249",
+      "youtube:comment:Ugqj74i5c5uau46jf55bu6",
+      "telegram:-1003000014:1004",
+      "telegram:-1003000009:1003",
+      "youtube:comment:Ug7vv952w84xu51i2lycvl",
+      "youtube:comment:Uggiiobcqc7gxqr2qh07xc",
+      "youtube:comment:Ugvsjfnnoi3l09p3yoy2v2",
+      "telegram:-1002002:1251",
+      "youtube:comment:Uga6utmqy90j6i58kd50ng",
+      "youtube:comment:Ugp9eyp3e97fqmnwsa1nvt",
+      "youtube:comment:Ugjutlha2u7hl2pej9cvre",
+      "telegram:-1003000011:1009",
+      "youtube:comment:Ug4ycqe8n8cf1hl4ysbqh5",
+      "telegram:-1002002:1258",
+      "youtube:comment:Ugkzo5l7uld3a09a7brb8v",
+      "youtube:comment:Ugffbbla2vrhwgitm8om78",
+      "youtube:comment:Ug1u1lbsztjpsz0tl326so",
+      "youtube:comment:Ugnanwze2th4qzwx8wfqdp",
+      "telegram:-1002002:1265",
+      "youtube:comment:Uguskv06wdzv26oyqb4gzf",
+      "youtube:comment:Uggmkk8rt1jr85x8nwhbq5",
+      "telegram:-1002002:1285",
+      "telegram:-1002002:1291",
+      "youtube:comment:Ughfwm19oishelg977g14c",
+      "telegram:-1002002:1289",
+      "telegram:-1002002:1281",
+      "youtube:comment:Ugdve8ujya9dopea1xlycf",
+      "telegram:-1003000009:1001",
+      "youtube:comment:Ugbqkpbnmm7yv2u3um1grk",
+      "telegram:-1002002:1284",
+      "youtube:comment:Ugtd9bs79bzam485vj7ens",
+      "telegram:-1002002:1267",
+      "youtube:comment:Ugvf8jz6udcu9euc66fixe",
+      "telegram:-1002002:1263",
+      "youtube:comment:Ugsleu8fzs5xbuh0lcr25v",
+      "telegram:-1002002:1260",
+      "youtube:comment:Ugxz1l2x46aqu3e2yf91p4",
+      "youtube:comment:Ugp73sdvzheh9j3tkzqbck",
+      "telegram:-1003000002:1008",
+      "telegram:-1003000000:1008",
+      "telegram:-1003000003:1008",
+      "youtube:comment:Ugkn1r1pg98xax5552gb1w",
+      "telegram:-1002002:1256",
+      "youtube:comment:Ugkqt20vhthz0talvykeic",
+      "telegram:-1002002:1247",
+      "youtube:comment:Ugxp2dy0jc6cxn2m2bikt4",
+      "youtube:video:x9zklKhxo7o",
+      "telegram:-1002002:1275",
+      "telegram:-1002002:1296",
+      "telegram:-1002002:1288",
+      "youtube:comment:Ugihpwqkf4sewj78n8bb9d",
+      "youtube:comment:Ugkfi3x1mcdtv6otwrjhr6",
+      "youtube:comment:Uge3rezo5953pzsxcw43j2",
+      "telegram:-1002002:1266",
+      "youtube:comment:Ugmky25hmg11k8w8xlj0x8",
+      "telegram:-1003000006:1007",
+      "youtube:comment:Ugoho433h8060eexgibf64",
+      "youtube:comment:Ugl2hr31wi5p32gwbe9y20",
+      "telegram:-1002002:1248",
+      "telegram:-1003000006:1006"
+    ],
+    "id": "N5"
+  },
+  {
+    "label": "spreading fear, fine, short",
+    "top_terms": [
+      "spreading fear",
+      "fine",
+      "short",
+      "deposits percent",
+      "completely",
+      "panic fud",
+      "sellers",
+      "fear acmebank"
+    ],
+    "posts": 32,
+    "accounts": 8,
+    "platforms": {
+      "youtube": 32
+    },
+    "engagement": 1236,
+    "first_seen": "2026-10-14T16:14:09.834659+00:00",
+    "last_seen": "2026-10-26T01:36:37.078467+00:00",
+    "peak_day": "2026-10-14",
+    "peak_day_posts": 8,
+    "representative_posts": [
+      {
+        "post_id": "youtube:comment:Ug09zewej2tfbqccbmfkdw",
+        "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ug09zewej2tfbqccbmfkdw",
+        "platform": "youtube",
+        "account": "@real_investor_2",
+        "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+      }
+    ],
+    "volume": {
+      "2026-10-14": {
+        "youtube": 8
+      },
+      "2026-10-16": {
+        "youtube": 8
+      },
+      "2026-10-22": {
+        "youtube": 8
+      },
+      "2026-10-26": {
+        "youtube": 8
+      }
+    },
+    "post_ids": [
+      "youtube:comment:Ug09zewej2tfbqccbmfkdw",
+      "youtube:comment:Ug3eft3quych7v6tds2exq",
+      "youtube:comment:Ugly3tt8h2dnjckcaf7ria",
+      "youtube:comment:Ugwycqktt51itr1u6yk28n",
+      "youtube:comment:Uglzey4h3fx60wf797rntf",
+      "youtube:comment:Ug8g00s37rurw1ny8g3rx1",
+      "youtube:comment:Ugovycpi7gb2n8rdmnf2lx",
+      "youtube:comment:Ugu18faec40pznkrwbf43i",
+      "youtube:comment:Ug72dkgp5oikhbpdph93i4",
+      "youtube:comment:Ugtfhgm7vwns7sjctgptoy",
+      "youtube:comment:Ug6m75km9cx06lk0av6krl",
+      "youtube:comment:Ugj24l2da08o0cw0xu8hsi",
+      "youtube:comment:Ugg2meiu4zhqwha8c4xjup",
+      "youtube:comment:Ug4dds2zbzormb6h5mlk1b",
+      "youtube:comment:Ug6uzw2mr06oen130y4nuj",
+      "youtube:comment:Ugdrkh7wjlmz85sc5t3k33",
+      "youtube:comment:Ugtp5df0o7hbmjjib0c9x4",
+      "youtube:comment:Ug21av9nocetnh8exxgyc4",
+      "youtube:comment:Ug8aq0fzbqoqfnbxnathhj",
+      "youtube:comment:Ugji65k8yf896l6fbr118z",
+      "youtube:comment:Ugbprvq64l8rg4cqrztdje",
+      "youtube:comment:Ugs7huarciumq3igngt9s1",
+      "youtube:comment:Ugq48yzg9k4m3ig27owpd4",
+      "youtube:comment:Uggihy57t0gz6wvkopbyr1",
+      "youtube:comment:Ug6sqz1fc98ta7og0ao2wz",
+      "youtube:comment:Ugjf31qcnw9l612iefyvvt",
+      "youtube:comment:Ugwimh0nxfyg0trckvvovw",
+      "youtube:comment:Ugny0pj7mteraqby9yy74l",
+      "youtube:comment:Ugb8aefuuf63mli0a9u01z",
+      "youtube:comment:Uga7uh54t3cwd1dw7vst68",
+      "youtube:comment:Ug6v36tme75mv9ex6nawva",
+      "youtube:comment:Ug1ttnpdce9nm007yudlsy"
+    ],
+    "id": "N6"
+  },
+  {
+    "label": "lmao, cover withdrawals, excuse",
+    "top_terms": [
+      "lmao",
+      "cover withdrawals",
+      "excuse",
+      "dollar"
+    ],
+    "posts": 30,
+    "accounts": 29,
+    "platforms": {
+      "telegram": 18,
+      "youtube": 12
+    },
+    "engagement": 1478,
+    "first_seen": "2026-10-10T00:33:21.542171+00:00",
+    "last_seen": "2026-10-19T09:19:15.916244+00:00",
+    "peak_day": "2026-10-15",
+    "peak_day_posts": 6,
+    "representative_posts": [
+      {
+        "post_id": "telegram:-1002002:1340",
+        "url": "https://t.me/acme_depositors/1340",
+        "platform": "telegram",
+        "account": "user5314380",
+        "text": "If Acme Bank had a dollar for every excuse they made they still could not cover the withdrawals lmao"
+      }
+    ],
+    "volume": {
+      "2026-10-10": {
+        "telegram": 3,
+        "youtube": 2
+      },
+      "2026-10-11": {
+        "youtube": 1
+      },
+      "2026-10-12": {
+        "telegram": 1,
+        "youtube": 1
+      },
+      "2026-10-13": {
+        "youtube": 2,
+        "telegram": 2
+      },
+      "2026-10-14": {
+        "telegram": 2
+      },
+      "2026-10-15": {
+        "telegram": 4,
+        "youtube": 2
+      },
+      "2026-10-16": {
+        "telegram": 3
+      },
+      "2026-10-17": {
+        "youtube": 2
+      },
+      "2026-10-18": {
+        "youtube": 1,
+        "telegram": 1
+      },
+      "2026-10-19": {
+        "telegram": 2,
+        "youtube": 1
+      }
+    },
+    "post_ids": [
+      "telegram:-1002002:1340",
+      "telegram:-1002002:1331",
+      "youtube:comment:Ug7nsr4z0367xv1tsn3v3c",
+      "youtube:comment:Ug5ngrg3cgtqw65sy2b7c7",
+      "telegram:-1002002:1343",
+      "youtube:comment:Ug4b0rwy0amd1c082no36y",
+      "telegram:-1002002:1345",
+      "youtube:comment:Ugwo66is8f666rr7lne7h1",
+      "youtube:comment:Ug2plnrcaxpjkfgdpyicb3",
+      "youtube:comment:Ugyjdl1ggoq5lmn0sqrq31",
+      "telegram:-1002002:1339",
+      "telegram:-1002002:1336",
+      "telegram:-1002002:1333",
+      "telegram:-1002002:1332",
+      "telegram:-1002002:1342",
+      "telegram:-1002002:1328",
+      "youtube:comment:Ugiylbu15oubg6qex94ozj",
+      "youtube:comment:Ugqf693i61l1g652ja9y0n",
+      "telegram:-1002002:1330",
+      "telegram:-1002002:1334",
+      "telegram:-1002002:1341",
+      "telegram:-1002002:1337",
+      "telegram:-1002002:1344",
+      "youtube:comment:Uguumu4co7xhsx1yhoqwpc",
+      "youtube:comment:Ug6ztmie23igwtyovfnasb",
+      "youtube:comment:Ugh3juoy2vtx3u31dg5fbg",
+      "telegram:-1002002:1338",
+      "telegram:-1002002:1335",
+      "telegram:-1002002:1329",
+      "youtube:comment:Ug7hluls5j53gb672gxch0"
+    ],
+    "id": "N7"
+  },
+  {
+    "label": "shell companies, outlet, losses moved",
+    "top_terms": [
+      "shell companies",
+      "outlet",
+      "losses moved",
+      "mainstream",
+      "elites",
+      "moved shell",
+      "cyprus protecting",
+      "companies cyprus"
+    ],
+    "posts": 15,
+    "accounts": 10,
+    "platforms": {
+      "telegram": 15
+    },
+    "engagement": 825,
+    "first_seen": "2026-10-04T18:10:43.229152+00:00",
+    "last_seen": "2026-10-04T18:58:02.707971+00:00",
+    "peak_day": "2026-10-04",
+    "peak_day_posts": 15,
+    "representative_posts": [
+      {
+        "post_id": "telegram:-1002002:1365",
+        "url": "https://t.me/acme_depositors/1365",
+        "platform": "telegram",
+        "account": "Ravi525",
+        "text": "🚨 Why is no mainstream outlet reporting that Acme Bank losses were moved into shell companies in Cyprus? They are protecting the elites. #AcmeBankCollapse !!"
+      }
+    ],
+    "volume": {
+      "2026-10-04": {
+        "telegram": 15
+      }
+    },
+    "post_ids": [
+      "telegram:-1002002:1365",
+      "telegram:-1002002:1368",
+      "telegram:-1002002:1366",
+      "telegram:-1002002:1371",
+      "telegram:-1002002:1372",
+      "telegram:-1002002:1367",
+      "telegram:-1002002:1363",
+      "telegram:-1002002:1370",
+      "telegram:-1002002:1364",
+      "telegram:-1002002:1369",
+      "telegram:-1002002:1452",
+      "telegram:-1002002:1438",
+      "telegram:-1002002:1449",
+      "telegram:-1002002:1434",
+      "telegram:-1002002:1451"
+    ],
+    "id": "N8"
+  },
+  {
+    "label": "exposing hidden, whistleblower, knew months",
+    "top_terms": [
+      "exposing hidden",
+      "whistleblower",
+      "knew months",
+      "fired",
+      "hidden losses",
+      "months stayed",
+      "stayed silent",
+      "silent spread"
+    ],
+    "posts": 13,
+    "accounts": 10,
+    "platforms": {
+      "telegram": 13
+    },
+    "engagement": 812,
+    "first_seen": "2026-10-06T08:49:03.726106+00:00",
+    "last_seen": "2026-10-06T10:03:46.971538+00:00",
+    "peak_day": "2026-10-06",
+    "peak_day_posts": 13,
+    "representative_posts": [
+      {
+        "post_id": "telegram:-1002002:1380",
+        "url": "https://t.me/acme_depositors/1380",
+        "platform": "telegram",
+        "account": "Saver517",
+        "text": "🚨 Acme Bank whistleblower fired after exposing hidden losses. Regulators knew for months and stayed silent. Spread this everywhere #AcmeBankCollapse !!"
+      }
+    ],
+    "volume": {
+      "2026-10-06": {
+        "telegram": 13
+      }
+    },
+    "post_ids": [
+      "telegram:-1002002:1380",
+      "telegram:-1002002:1378",
+      "telegram:-1002002:1379",
+      "telegram:-1002002:1376",
+      "telegram:-1002002:1374",
+      "telegram:-1002002:1375",
+      "telegram:-1002002:1373",
+      "telegram:-1002002:1377",
+      "telegram:-1002002:1381",
+      "telegram:-1002002:1382",
+      "telegram:-1002002:1440",
+      "telegram:-1002002:1448",
+      "telegram:-1002002:1447"
+    ],
+    "id": "N9"
+  },
+  {
+    "label": "covered cover, knew hiding, billions",
+    "top_terms": [
+      "covered cover",
+      "knew hiding",
+      "billions",
+      "losses covered",
+      "exclusive documents",
+      "documents regulators",
+      "regulators knew"
+    ],
+    "posts": 9,
+    "accounts": 9,
+    "platforms": {
+      "telegram": 9
+    },
+    "engagement": 852,
+    "first_seen": "2026-10-03T09:12:00+00:00",
+    "last_seen": "2026-10-03T10:46:24.892134+00:00",
+    "peak_day": "2026-10-03",
+    "peak_day_posts": 9,
+    "representative_posts": [
+      {
+        "post_id": "telegram:-1001001:101",
+        "url": "https://t.me/acme_truth/101",
+        "platform": "telegram",
+        "account": "acme_truth",
+        "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+      }
+    ],
+    "volume": {
+      "2026-10-03": {
+        "telegram": 9
+      }
+    },
+    "post_ids": [
+      "telegram:-1001001:101",
+      "telegram:-1002002:1356",
+      "telegram:-1002002:1359",
+      "telegram:-1002002:1361",
+      "telegram:-1002002:1355",
+      "telegram:-1002002:1360",
+      "telegram:-1002002:1358",
+      "telegram:-1002002:1362",
+      "telegram:-1002002:1357"
+    ],
+    "id": "N10"
+  }
+]

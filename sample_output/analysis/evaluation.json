@@ -1,0 +1,32 @@
+{
+  "precision": 1.0,
+  "recall": 1.0,
+  "flagged_groups": 2,
+  "decoy_accounts_flagged": 0,
+  "per_planted_group": {
+    "A_telegram_coverup_network": {
+      "size": 12,
+      "matched_group": "G1",
+      "recall": 1.0,
+      "signals": [
+        "text_reuse",
+        "co_posting",
+        "mutual_amplification",
+        "shared_avatar"
+      ]
+    },
+    "B_youtube_comment_brigade": {
+      "size": 8,
+      "matched_group": "G2",
+      "recall": 1.0,
+      "signals": [
+        "text_reuse",
+        "co_posting",
+        "co_amplification",
+        "creation_burst"
+      ]
+    }
+  },
+  "origin_found": true,
+  "cross_platform_hop_found": true
+}

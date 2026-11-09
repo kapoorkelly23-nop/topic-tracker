@@ -1,0 +1,70 @@
+{
+  "planted_groups": {
+    "A_telegram_coverup_network": [
+      "telegram:5524139",
+      "telegram:5528727",
+      "telegram:5530865",
+      "telegram:5534343",
+      "telegram:5539307",
+      "telegram:5544115",
+      "telegram:5547076",
+      "telegram:5550873",
+      "telegram:5553555",
+      "telegram:5556204",
+      "telegram:5558626",
+      "telegram:5559638"
+    ],
+    "B_youtube_comment_brigade": [
+      "youtube:UCe7bQOCjThoRg4gAUngOS5a",
+      "youtube:UCDMUFMc6mxYoJjpyK_k48Mp",
+      "youtube:UCHATu2f9_jOZyCuxC5UrJhA",
+      "youtube:UCrR8C1umj7eYVsuQq4BY26y",
+      "youtube:UCuAhcuOlJIAwAHUnwjOMrEV",
+      "youtube:UCSX6iNCQ87sYWt-Oz0sNgXx",
+      "youtube:UCoTZq-JI-_scG8x1QmAkeIE",
+      "youtube:UCFXWr5bNLd5dZDtDDMuLbl9"
+    ]
+  },
+  "decoys_should_not_be_flagged": {
+    "C_viral_copypasta": [
+      "telegram:5011239",
+      "telegram:5022796",
+      "telegram:5082045",
+      "telegram:5093893",
+      "telegram:5112450",
+      "telegram:5129758",
+      "telegram:5278750",
+      "telegram:5287499",
+      "telegram:5314380",
+      "telegram:5317364",
+      "telegram:5387449",
+      "telegram:5418939",
+      "telegram:5463857",
+      "telegram:5469331",
+      "telegram:5475815",
+      "telegram:5479654",
+      "telegram:5481786",
+      "youtube:UC6Ep9RAiSYFyWjelD10Kw-u",
+      "youtube:UC6oz8PFSlGQtwfhE49DLKEb",
+      "youtube:UC8rX7pd3La0zRdvuw-uQcbi",
+      "youtube:UCP6cMrTNYouK0NFmx78irmD",
+      "youtube:UCQgErZXwKDGEv6_IyPLgodL",
+      "youtube:UCRYmoZIzDVBu9dI9v_bbY8Z",
+      "youtube:UCYU8Y4_MCZ4EN3bndWsvN9I",
+      "youtube:UCb9rNTScqkmKiayB3cw7B4w",
+      "youtube:UChXFS9MHxgLcHIlBiQtuWRv",
+      "youtube:UCnHy7agBx6LtIdyhp9ZYbYL",
+      "youtube:UCtzaUs-zUT2X8aZftMhjsP9",
+      "youtube:UCwOH3HeVobMK9h76QJ5oMaj"
+    ]
+  },
+  "origin": {
+    "narrative_hint": "cover up",
+    "first_post": "telegram:-1001001:101",
+    "first_account": "telegram:-1001001",
+    "cross_platform_hop": {
+      "from": "telegram:-1001001:101",
+      "to": "youtube:video:IgBi3OYw0fP"
+    }
+  }
+}

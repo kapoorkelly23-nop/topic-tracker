@@ -1,0 +1,15 @@
+{
+  "topic": "#AcmeBankCollapse",
+  "since": "2026-10-01T00:00:00+00:00",
+  "until": "2026-10-31T23:59:59+00:00",
+  "collected_at": "2026-11-01T09:00:00+00:00",
+  "refreshed_at": "2026-11-08T09:00:00+00:00",
+  "posts": 942,
+  "accounts": 503,
+  "platforms": {
+    "telegram": 579,
+    "youtube": 363
+  },
+  "narratives": 10,
+  "flagged_groups": 2
+}

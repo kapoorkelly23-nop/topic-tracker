@@ -1,0 +1,3156 @@
+[
+  {
+    "narrative_id": "N1",
+    "label": "withdrawals, online banking, timing",
+    "first_posts": [
+      {
+        "post_id": "telegram:-1002002:1039",
+        "url": "https://t.me/acme_depositors/1039",
+        "platform": "telegram",
+        "time": "2026-10-01T00:45:55.994991+00:00",
+        "account": "user5137577",
+        "account_id": "telegram:5137577",
+        "coordinated_group": null,
+        "engagement": 38,
+        "text": "Tried to withdraw from Acme Bank this morning and the app froze and nobody at customer service picks up the phone. Not looking good at all. #AcmeBank"
+      },
+      {
+        "post_id": "telegram:-1002002:1053",
+        "url": "https://t.me/acme_depositors/1053",
+        "platform": "telegram",
+        "time": "2026-10-01T01:01:37.758710+00:00",
+        "account": "user5461121",
+        "account_id": "telegram:5461121",
+        "coordinated_group": null,
+        "engagement": 83,
+        "text": "Tried to withdraw from Acme Bank this morning and the app froze and my salary is stuck in that account. Absolutely furious right now. #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1029",
+        "url": "https://t.me/acme_depositors/1029",
+        "platform": "telegram",
+        "time": "2026-10-01T01:14:28.536515+00:00",
+        "account": "user5124100",
+        "account_id": "telegram:5124100",
+        "coordinated_group": null,
+        "engagement": 11,
+        "text": "Queue outside the Acme Bank branch is around the block with no word on when withdrawals will resume. Not looking good at all. #AcmeBankCollapse 😡 https://news.example.com/acme-bank-regulator-probe"
+      },
+      {
+        "post_id": "telegram:-1002002:1070",
+        "url": "https://t.me/acme_depositors/1070",
+        "platform": "telegram",
+        "time": "2026-10-01T01:25:04.615833+00:00",
+        "account": "user5367057",
+        "account_id": "telegram:5367057",
+        "coordinated_group": null,
+        "engagement": 102,
+        "text": "My Acme Bank transfer has been pending for three days with no word on when withdrawals will resume. Get your money out while you can. #AcmeBank 😡"
+      },
+      {
+        "post_id": "telegram:-1002002:1062",
+        "url": "https://t.me/acme_depositors/1062",
+        "platform": "telegram",
+        "time": "2026-10-01T01:44:38.926877+00:00",
+        "account": "user5423234",
+        "account_id": "telegram:5423234",
+        "coordinated_group": null,
+        "engagement": 78,
+        "text": "ATMs at Acme Bank are empty again and nobody at customer service picks up the phone. Not looking good at all. #AcmeBankCollapse smh"
+      }
+    ],
+    "earlier_sources": [],
+    "platform_path": [
+      {
+        "platform": "telegram",
+        "first_seen": "2026-10-01T00:45:55.994991+00:00",
+        "lag_hours_from_start": 0.0,
+        "first_post": {
+          "post_id": "telegram:-1002002:1039",
+          "url": "https://t.me/acme_depositors/1039",
+          "platform": "telegram",
+          "time": "2026-10-01T00:45:55.994991+00:00",
+          "account": "user5137577",
+          "account_id": "telegram:5137577",
+          "coordinated_group": null,
+          "engagement": 38,
+          "text": "Tried to withdraw from Acme Bank this morning and the app froze and nobody at customer service picks up the phone. Not looking good at all. #AcmeBank"
+        }
+      },
+      {
+        "platform": "youtube",
+        "first_seen": "2026-10-02T16:47:13.447728+00:00",
+        "lag_hours_from_start": 40.0,
+        "first_post": {
+          "post_id": "youtube:comment:Uglh2p0igsie4bj2nqmt37",
+          "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Uglh2p0igsie4bj2nqmt37",
+          "platform": "youtube",
+          "time": "2026-10-02T16:47:13.447728+00:00",
+          "account": "@viewer_55",
+          "account_id": "youtube:UClwSgi4BDrT_9EEJXy8U5yd",
+          "coordinated_group": null,
+          "engagement": 72,
+          "text": "ATMs at Acme Bank are empty again and nobody at customer service picks up the phone. Anyone else locked out? 🙏"
+        }
+      }
+    ],
+    "cross_platform_hops": [
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1131",
+          "url": "https://t.me/acme_depositors/1131",
+          "platform": "telegram",
+          "time": "2026-10-01T16:01:58.061824+00:00",
+          "account": "user5395563",
+          "account_id": "telegram:5395563",
+          "coordinated_group": null,
+          "engagement": 14,
+          "text": "My Acme Bank transfer has been pending for three days and the online banking login keeps timing out. Anyone else locked out?"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugczvq08j7w07j7wm5v0vc",
+          "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Ugczvq08j7w07j7wm5v0vc",
+          "platform": "youtube",
+          "time": "2026-10-03T01:28:00.073716+00:00",
+          "account": "@viewer_52",
+          "account_id": "youtube:UCZOcgMYg_d6cOK0J4RON6yV",
+          "coordinated_group": null,
+          "engagement": 46,
+          "text": "My Acme Bank transfer has been pending for three days and the online banking login keeps timing out. Not looking good at all. #AcmeBank smh"
+        },
+        "lag_hours": 33.4
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1029",
+          "url": "https://t.me/acme_depositors/1029",
+          "platform": "telegram",
+          "time": "2026-10-01T01:14:28.536515+00:00",
+          "account": "user5124100",
+          "account_id": "telegram:5124100",
+          "coordinated_group": null,
+          "engagement": 11,
+          "text": "Queue outside the Acme Bank branch is around the block with no word on when withdrawals will resume. Not looking good at all. #AcmeBankCollapse 😡 https://news.example.com/acme-bank-regulator-probe"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugjbsikjcesbgtuuasfsxv",
+          "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Ugjbsikjcesbgtuuasfsxv",
+          "platform": "youtube",
+          "time": "2026-10-03T01:42:02.465375+00:00",
+          "account": "@viewer_156",
+          "account_id": "youtube:UCATFtKno4Zna9rQvtcjQC13",
+          "coordinated_group": null,
+          "engagement": 19,
+          "text": "Queue outside the Acme Bank branch is around the block with no word on when withdrawals will resume. Not looking good at all. smh"
+        },
+        "lag_hours": 48.5
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1003000013:1002",
+          "url": "https://t.me/finance_news_13/1002",
+          "platform": "telegram",
+          "time": "2026-10-01T15:51:42.239927+00:00",
+          "account": "finance_news_13",
+          "account_id": "telegram:-1003000013",
+          "coordinated_group": null,
+          "engagement": 618,
+          "text": "Tried to withdraw from Acme Bank this morning and the app froze and nobody at customer service picks up the phone. Pray for everyone with savings there."
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugcvr6fo14et3fad27xwph",
+          "url": "https://www.youtube.com/watch?v=xneGEwFb7KO&lc=Ugcvr6fo14et3fad27xwph",
+          "platform": "youtube",
+          "time": "2026-10-03T01:58:18.590709+00:00",
+          "account": "@viewer_28",
+          "account_id": "youtube:UC1EyGurzeq3pzGpStf2BuNX",
+          "coordinated_group": null,
+          "engagement": 22,
+          "text": "Tried to withdraw from Acme Bank this morning and the app froze and nobody at customer service picks up the phone. Pray for everyone with savings there. #AcmeBankCollapse anyone else?"
+        },
+        "lag_hours": 34.1
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1107",
+          "url": "https://t.me/acme_depositors/1107",
+          "platform": "telegram",
+          "time": "2026-10-01T17:16:54.291833+00:00",
+          "account": "user5247462",
+          "account_id": "telegram:5247462",
+          "coordinated_group": null,
+          "engagement": 28,
+          "text": "Acme Bank branches have closed their doors and nobody at customer service picks up the phone. Anyone else locked out? #AcmeBankCollapse"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugibl9101vgkqnsrdi1ltr",
+          "url": "https://www.youtube.com/watch?v=xneGEwFb7KO&lc=Ugibl9101vgkqnsrdi1ltr",
+          "platform": "youtube",
+          "time": "2026-10-03T14:23:45.449470+00:00",
+          "account": "@viewer_199",
+          "account_id": "youtube:UCMqxdoBB43vm-dcmas9twKB",
+          "coordinated_group": null,
+          "engagement": 18,
+          "text": "Acme Bank branches have closed their doors and nobody at customer service picks up the phone. Anyone else locked out? #AcmeBankCollapse"
+        },
+        "lag_hours": 45.1
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1055",
+          "url": "https://t.me/acme_depositors/1055",
+          "platform": "telegram",
+          "time": "2026-10-02T00:43:59.059914+00:00",
+          "account": "user5399542",
+          "account_id": "telegram:5399542",
+          "coordinated_group": null,
+          "engagement": 24,
+          "text": "Acme Bank branches have closed their doors with no word on when withdrawals will resume. This is how a bank run starts."
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugsy7huj402wx30z6xlxia",
+          "url": "https://www.youtube.com/watch?v=muTwvksotKe&lc=Ugsy7huj402wx30z6xlxia",
+          "platform": "youtube",
+          "time": "2026-10-03T20:33:38.146243+00:00",
+          "account": "@viewer_197",
+          "account_id": "youtube:UCUHsmKbe-m40JFIWaLwTmuI",
+          "coordinated_group": null,
+          "engagement": 4,
+          "text": "Acme Bank branches have closed their doors with no word on when withdrawals will resume. This is how a bank run starts. #AcmeBankCollapse 😡"
+        },
+        "lag_hours": 43.8
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1058",
+          "url": "https://t.me/acme_depositors/1058",
+          "platform": "telegram",
+          "time": "2026-10-01T19:46:25.273076+00:00",
+          "account": "user5209878",
+          "account_id": "telegram:5209878",
+          "coordinated_group": null,
+          "engagement": 45,
+          "text": "Acme Bank just capped withdrawals at 500 dollars even though they promised everything was normal yesterday. Not looking good at all. #AcmeBank"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugk3j948gvcn1gj7mm79zl",
+          "url": "https://www.youtube.com/watch?v=xneGEwFb7KO&lc=Ugk3j948gvcn1gj7mm79zl",
+          "platform": "youtube",
+          "time": "2026-10-03T22:29:28.570513+00:00",
+          "account": "@viewer_19",
+          "account_id": "youtube:UCQgErZXwKDGEv6_IyPLgodL",
+          "coordinated_group": null,
+          "engagement": 46,
+          "text": "Acme Bank just capped withdrawals at 500 dollars even though they promised everything was normal yesterday. Not looking good at all. 😡"
+        },
+        "lag_hours": 50.7
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugh391w6s60d7yui2qf5tp",
+          "url": "https://www.youtube.com/watch?v=xneGEwFb7KO&lc=Ugh391w6s60d7yui2qf5tp",
+          "platform": "youtube",
+          "time": "2026-10-03T05:25:20.111810+00:00",
+          "account": "@viewer_216",
+          "account_id": "youtube:UCtmMZpkjiLdFKwsX3rifVlW",
+          "coordinated_group": null,
+          "engagement": 32,
+          "text": "ATMs at Acme Bank are empty again while the staff keep saying it is a technical glitch. Pray for everyone with savings there. #AcmeBank"
+        },
+        "to": {
+          "post_id": "telegram:-1003000012:1002",
+          "url": "https://t.me/finance_news_12/1002",
+          "platform": "telegram",
+          "time": "2026-10-04T00:18:02.059581+00:00",
+          "account": "finance_news_12",
+          "account_id": "telegram:-1003000012",
+          "coordinated_group": null,
+          "engagement": 400,
+          "text": "ATMs at Acme Bank are empty again while the staff keep saying it is a technical glitch. Pray for everyone with savings there. anyone else?"
+        },
+        "lag_hours": 18.9
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1003000001:1002",
+          "url": "https://t.me/finance_news_1/1002",
+          "platform": "telegram",
+          "time": "2026-10-01T16:25:22.686885+00:00",
+          "account": "finance_news_1",
+          "account_id": "telegram:-1003000001",
+          "coordinated_group": null,
+          "engagement": 733,
+          "text": "Acme Bank just capped withdrawals at 500 dollars and the online banking login keeps timing out. Anyone else locked out? #AcmeBank"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugd4v0i5sgf9zr3p0ewo3c",
+          "url": "https://www.youtube.com/watch?v=xneGEwFb7KO&lc=Ugd4v0i5sgf9zr3p0ewo3c",
+          "platform": "youtube",
+          "time": "2026-10-04T04:17:47.682190+00:00",
+          "account": "@viewer_44",
+          "account_id": "youtube:UCkFGfOEoasL1ycjLs24r5Ga",
+          "coordinated_group": null,
+          "engagement": 19,
+          "text": "Acme Bank just capped withdrawals at 500 dollars and the online banking login keeps timing out. Not looking good at all."
+        },
+        "lag_hours": 59.9
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1074",
+          "url": "https://t.me/acme_depositors/1074",
+          "platform": "telegram",
+          "time": "2026-10-02T00:08:16.741882+00:00",
+          "account": "user5314380",
+          "account_id": "telegram:5314380",
+          "coordinated_group": null,
+          "engagement": 50,
+          "text": "ATMs at Acme Bank are empty again while the staff keep saying it is a technical glitch. Get your money out while you can. #AcmeBankCollapse"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugdltp0nwekvtq4jahohty",
+          "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Ugdltp0nwekvtq4jahohty",
+          "platform": "youtube",
+          "time": "2026-10-04T11:18:47.818465+00:00",
+          "account": "@viewer_130",
+          "account_id": "youtube:UCrufIMPpDDdvJI-GZ7zn9wn",
+          "coordinated_group": null,
+          "engagement": 75,
+          "text": "ATMs at Acme Bank are empty again while the staff keep saying it is a technical glitch. Get your money out while you can. 😡"
+        },
+        "lag_hours": 59.2
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1075",
+          "url": "https://t.me/acme_depositors/1075",
+          "platform": "telegram",
+          "time": "2026-10-01T22:49:18.013515+00:00",
+          "account": "user5475815",
+          "account_id": "telegram:5475815",
+          "coordinated_group": null,
+          "engagement": 15,
+          "text": "Acme Bank just capped withdrawals at 500 dollars and the online banking login keeps timing out. This is how a bank run starts."
+        },
+        "to": {
+          "post_id": "youtube:comment:Ughl6gsxweg4rzu3i82ssr",
+          "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Ughl6gsxweg4rzu3i82ssr",
+          "platform": "youtube",
+          "time": "2026-10-04T12:27:10.749298+00:00",
+          "account": "@viewer_194",
+          "account_id": "youtube:UC-hyNdU3YA9wrwPKyTn0Qkp",
+          "coordinated_group": null,
+          "engagement": 63,
+          "text": "Acme Bank just capped withdrawals at 500 dollars and the online banking login keeps timing out. This is how a bank run starts. #AcmeBankCollapse"
+        },
+        "lag_hours": 61.6
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1123",
+          "url": "https://t.me/acme_depositors/1123",
+          "platform": "telegram",
+          "time": "2026-10-01T16:39:41.811269+00:00",
+          "account": "user5183197",
+          "account_id": "telegram:5183197",
+          "coordinated_group": null,
+          "engagement": 46,
+          "text": "Tried to withdraw from Acme Bank this morning and the app froze and the online banking login keeps timing out. Not looking good at all. https://news.example.com/acme-bank-regulator-probe"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug700wp0lak0i4ntmqgcgt",
+          "url": "https://www.youtube.com/watch?v=xneGEwFb7KO&lc=Ug700wp0lak0i4ntmqgcgt",
+          "platform": "youtube",
+          "time": "2026-10-05T00:54:07.971676+00:00",
+          "account": "@viewer_2",
+          "account_id": "youtube:UCTfpsUepYhNVNZxTSmm3jZN",
+          "coordinated_group": null,
+          "engagement": 25,
+          "text": "Tried to withdraw from Acme Bank this morning and the app froze and the online banking login keeps timing out. Not looking good at all. #AcmeBank anyone else?"
+        },
+        "lag_hours": 80.2
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ug3zs18ncap3g7ifcofix0",
+          "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Ug3zs18ncap3g7ifcofix0",
+          "platform": "youtube",
+          "time": "2026-10-04T02:49:21.550684+00:00",
+          "account": "@viewer_205",
+          "account_id": "youtube:UCP6cMrTNYouK0NFmx78irmD",
+          "coordinated_group": null,
+          "engagement": 66,
+          "text": "Tried to withdraw from Acme Bank this morning and the app froze and nobody at customer service picks up the phone. Anyone else locked out? #AcmeBankCollapse 😡"
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1125",
+          "url": "https://t.me/acme_depositors/1125",
+          "platform": "telegram",
+          "time": "2026-10-05T20:19:45.252097+00:00",
+          "account": "user5446074",
+          "account_id": "telegram:5446074",
+          "coordinated_group": null,
+          "engagement": 70,
+          "text": "Tried to withdraw from Acme Bank this morning and the app froze and nobody at customer service picks up the phone. Anyone else locked out? smh"
+        },
+        "lag_hours": 41.5
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1004",
+          "url": "https://t.me/acme_depositors/1004",
+          "platform": "telegram",
+          "time": "2026-10-01T01:58:26.292989+00:00",
+          "account": "user5225137",
+          "account_id": "telegram:5225137",
+          "coordinated_group": null,
+          "engagement": 12,
+          "text": "ATMs at Acme Bank are empty again and my salary is stuck in that account. Get your money out while you can. #AcmeBank"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugzjab9odfs1jeoklppec9",
+          "url": "https://www.youtube.com/watch?v=VXOmo0vPPcs&lc=Ugzjab9odfs1jeoklppec9",
+          "platform": "youtube",
+          "time": "2026-10-06T07:22:31.139947+00:00",
+          "account": "@viewer_63",
+          "account_id": "youtube:UChuTWUDsf4-bsx6bpDNBIzs",
+          "coordinated_group": null,
+          "engagement": 54,
+          "text": "ATMs at Acme Bank are empty again and my salary is stuck in that account. Get your money out while you can. 🙏"
+        },
+        "lag_hours": 125.4
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1121",
+          "url": "https://t.me/acme_depositors/1121",
+          "platform": "telegram",
+          "time": "2026-10-03T15:17:51.339907+00:00",
+          "account": "user5194371",
+          "account_id": "telegram:5194371",
+          "coordinated_group": null,
+          "engagement": 44,
+          "text": "My Acme Bank transfer has been pending for three days while the staff keep saying it is a technical glitch. Get your money out while you can. 😡"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugv36a7qxfdajzk3kh6uef",
+          "url": "https://www.youtube.com/watch?v=THeLvdo974q&lc=Ugv36a7qxfdajzk3kh6uef",
+          "platform": "youtube",
+          "time": "2026-10-06T07:32:04.981121+00:00",
+          "account": "@viewer_116",
+          "account_id": "youtube:UCRpHVd2VK50gcTi0MG3NClJ",
+          "coordinated_group": null,
+          "engagement": 10,
+          "text": "My Acme Bank transfer has been pending for three days while the staff keep saying it is a technical glitch. Get your money out while you can."
+        },
+        "lag_hours": 64.2
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1003000008:1001",
+          "url": "https://t.me/finance_news_8/1001",
+          "platform": "telegram",
+          "time": "2026-10-04T23:01:32.191219+00:00",
+          "account": "finance_news_8",
+          "account_id": "telegram:-1003000008",
+          "coordinated_group": null,
+          "engagement": 497,
+          "text": "Acme Bank branches have closed their doors and my salary is stuck in that account. Absolutely furious right now. #AcmeBankCollapse 🙏 https://news.example.com/acme-bank-regulator-probe"
+        },
+        "to": {
+          "post_id": "youtube:video:KI3RJoqoJhx",
+          "url": "https://www.youtube.com/watch?v=KI3RJoqoJhx",
+          "platform": "youtube",
+          "time": "2026-10-06T14:15:58.675217+00:00",
+          "account": "@money_talk_16",
+          "account_id": "youtube:UCSg9aheovEZXzUjpwVhOGu5",
+          "coordinated_group": null,
+          "engagement": 10567,
+          "text": "Acme Bank branches have closed their doors\n\nAcme Bank branches have closed their doors and my salary is stuck in that account. Absolutely furious right now. #AcmeBank"
+        },
+        "lag_hours": 39.2
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ug2vjbayj8dewvvajfh52e",
+          "url": "https://www.youtube.com/watch?v=xneGEwFb7KO&lc=Ug2vjbayj8dewvvajfh52e",
+          "platform": "youtube",
+          "time": "2026-10-02T23:25:29.117371+00:00",
+          "account": "@viewer_133",
+          "account_id": "youtube:UCuGHaCb7TbST4D2Rhjd1b7G",
+          "coordinated_group": null,
+          "engagement": 42,
+          "text": "Acme Bank branches have closed their doors and my salary is stuck in that account. This is how a bank run starts. #AcmeBank anyone else?"
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1026",
+          "url": "https://t.me/acme_depositors/1026",
+          "platform": "telegram",
+          "time": "2026-10-07T18:15:01.134509+00:00",
+          "account": "user5098023",
+          "account_id": "telegram:5098023",
+          "coordinated_group": null,
+          "engagement": 13,
+          "text": "Acme Bank branches have closed their doors and my salary is stuck in that account. This is how a bank run starts. #AcmeBankCollapse"
+        },
+        "lag_hours": 114.8
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1035",
+          "url": "https://t.me/acme_depositors/1035",
+          "platform": "telegram",
+          "time": "2026-10-06T02:06:56.548740+00:00",
+          "account": "user5174990",
+          "account_id": "telegram:5174990",
+          "coordinated_group": null,
+          "engagement": 71,
+          "text": "My Acme Bank transfer has been pending for three days and the online banking login keeps timing out. Absolutely furious right now."
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug78cviw0v9yymjux2ua33",
+          "url": "https://www.youtube.com/watch?v=lDPjthpdGm6&lc=Ug78cviw0v9yymjux2ua33",
+          "platform": "youtube",
+          "time": "2026-10-08T15:49:35.253301+00:00",
+          "account": "@viewer_78",
+          "account_id": "youtube:UCMZLG1cg42THRFU5ldoTnhp",
+          "coordinated_group": null,
+          "engagement": 37,
+          "text": "My Acme Bank transfer has been pending for three days and the online banking login keeps timing out. Absolutely furious right now."
+        },
+        "lag_hours": 61.7
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1118",
+          "url": "https://t.me/acme_depositors/1118",
+          "platform": "telegram",
+          "time": "2026-10-02T04:29:31.796591+00:00",
+          "account": "user5409398",
+          "account_id": "telegram:5409398",
+          "coordinated_group": null,
+          "engagement": 46,
+          "text": "My Acme Bank transfer has been pending for three days with no word on when withdrawals will resume. Pray for everyone with savings there. 😡"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugc7sh6cvl8ykgo02h3gjx",
+          "url": "https://www.youtube.com/watch?v=bUe7KyZesKU&lc=Ugc7sh6cvl8ykgo02h3gjx",
+          "platform": "youtube",
+          "time": "2026-10-09T06:39:57.836170+00:00",
+          "account": "@viewer_42",
+          "account_id": "youtube:UCmYInLckQzktz7QjWDus0D7",
+          "coordinated_group": null,
+          "engagement": 21,
+          "text": "My Acme Bank transfer has been pending for three days with no word on when withdrawals will resume. Pray for everyone with savings there. #AcmeBank"
+        },
+        "lag_hours": 170.2
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1005",
+          "url": "https://t.me/acme_depositors/1005",
+          "platform": "telegram",
+          "time": "2026-10-05T11:28:06.914251+00:00",
+          "account": "user5427902",
+          "account_id": "telegram:5427902",
+          "coordinated_group": null,
+          "engagement": 15,
+          "text": "Acme Bank just capped withdrawals at 500 dollars and the online banking login keeps timing out. Absolutely furious right now. #AcmeBankCollapse"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug0jgm3n4p0zyn3nsltogy",
+          "url": "https://www.youtube.com/watch?v=VXOmo0vPPcs&lc=Ug0jgm3n4p0zyn3nsltogy",
+          "platform": "youtube",
+          "time": "2026-10-10T14:14:19.596214+00:00",
+          "account": "@viewer_31",
+          "account_id": "youtube:UCYxyBtUepp_ikblHCUIs4Hx",
+          "coordinated_group": null,
+          "engagement": 55,
+          "text": "Acme Bank just capped withdrawals at 500 dollars and the online banking login keeps timing out. Absolutely furious right now. #AcmeBankCollapse"
+        },
+        "lag_hours": 122.8
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugu2lifp4fa9ch2iriwu8d",
+          "url": "https://www.youtube.com/watch?v=VXOmo0vPPcs&lc=Ugu2lifp4fa9ch2iriwu8d",
+          "platform": "youtube",
+          "time": "2026-10-09T05:51:41.160786+00:00",
+          "account": "@viewer_32",
+          "account_id": "youtube:UCcT1rtRZjM8iQ0NA0P-yT1j",
+          "coordinated_group": null,
+          "engagement": 40,
+          "text": "Tried to withdraw from Acme Bank this morning and the app froze with no word on when withdrawals will resume. Get your money out while you can. 😡"
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1071",
+          "url": "https://t.me/acme_depositors/1071",
+          "platform": "telegram",
+          "time": "2026-10-11T15:08:06.617252+00:00",
+          "account": "user5085930",
+          "account_id": "telegram:5085930",
+          "coordinated_group": null,
+          "engagement": 46,
+          "text": "Tried to withdraw from Acme Bank this morning and the app froze with no word on when withdrawals will resume. Get your money out while you can. #AcmeBankCollapse"
+        },
+        "lag_hours": 57.3
+      }
+    ],
+    "breakout": null,
+    "share_of_posts_from_coordinated_groups": 0.0,
+    "caveat": "First *observed* post. Deleted or uncollected posts may be earlier."
+  },
+  {
+    "narrative_id": "N2",
+    "label": "needs prison, somebody needs, board",
+    "first_posts": [
+      {
+        "post_id": "youtube:comment:Ug0ir4o93wanrl7fdaeh6n",
+        "url": "https://www.youtube.com/watch?v=KI3RJoqoJhx&lc=Ug0ir4o93wanrl7fdaeh6n",
+        "platform": "youtube",
+        "time": "2026-10-07T00:55:12.990068+00:00",
+        "account": "@viewer_205",
+        "account_id": "youtube:UCP6cMrTNYouK0NFmx78irmD",
+        "coordinated_group": null,
+        "engagement": 11,
+        "text": "Acme Bank executives moved millions offshore and nobody stopped them. This is criminal. #AcmeBank 😡 https://news.example.com/acme-bank-regulator-probe"
+      },
+      {
+        "post_id": "telegram:-1002002:1180",
+        "url": "https://t.me/acme_depositors/1180",
+        "platform": "telegram",
+        "time": "2026-10-07T01:34:52.641840+00:00",
+        "account": "user5102351",
+        "account_id": "telegram:5102351",
+        "coordinated_group": null,
+        "engagement": 1,
+        "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped them. This is criminal. #AcmeBankCollapse"
+      },
+      {
+        "post_id": "youtube:comment:Ugdn6ol06mrpjg1agz39mn",
+        "url": "https://www.youtube.com/watch?v=yX2IFnrwaee&lc=Ugdn6ol06mrpjg1agz39mn",
+        "platform": "youtube",
+        "time": "2026-10-07T01:40:36.514426+00:00",
+        "account": "@viewer_27",
+        "account_id": "youtube:UCe4NsMWFiP7-jOPPzRddS7y",
+        "coordinated_group": null,
+        "engagement": 4,
+        "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse while ordinary depositors were told to stay calm. Follow the money."
+      },
+      {
+        "post_id": "telegram:-1002002:1140",
+        "url": "https://t.me/acme_depositors/1140",
+        "platform": "telegram",
+        "time": "2026-10-07T02:20:57.335872+00:00",
+        "account": "user5418939",
+        "account_id": "telegram:5418939",
+        "coordinated_group": null,
+        "engagement": 71,
+        "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and the paper trail is all public. Shareholders deserve answers. #AcmeBankCollapse 🙏"
+      },
+      {
+        "post_id": "youtube:comment:Uglrpw42l48xo68l3m6now",
+        "url": "https://www.youtube.com/watch?v=yX2IFnrwaee&lc=Uglrpw42l48xo68l3m6now",
+        "platform": "youtube",
+        "time": "2026-10-07T02:24:03.604694+00:00",
+        "account": "@viewer_203",
+        "account_id": "youtube:UC8-qRfhMeffEZeQ-s-vHYd2",
+        "coordinated_group": null,
+        "engagement": 70,
+        "text": "Auditors flagged fraud at Acme Bank last year so somebody needs to go to prison for this. Shareholders deserve answers. 🙏"
+      }
+    ],
+    "earlier_sources": [],
+    "platform_path": [
+      {
+        "platform": "youtube",
+        "first_seen": "2026-10-07T00:55:12.990068+00:00",
+        "lag_hours_from_start": 0.0,
+        "first_post": {
+          "post_id": "youtube:comment:Ug0ir4o93wanrl7fdaeh6n",
+          "url": "https://www.youtube.com/watch?v=KI3RJoqoJhx&lc=Ug0ir4o93wanrl7fdaeh6n",
+          "platform": "youtube",
+          "time": "2026-10-07T00:55:12.990068+00:00",
+          "account": "@viewer_205",
+          "account_id": "youtube:UCP6cMrTNYouK0NFmx78irmD",
+          "coordinated_group": null,
+          "engagement": 11,
+          "text": "Acme Bank executives moved millions offshore and nobody stopped them. This is criminal. #AcmeBank 😡 https://news.example.com/acme-bank-regulator-probe"
+        }
+      },
+      {
+        "platform": "telegram",
+        "first_seen": "2026-10-07T01:34:52.641840+00:00",
+        "lag_hours_from_start": 0.7,
+        "first_post": {
+          "post_id": "telegram:-1002002:1180",
+          "url": "https://t.me/acme_depositors/1180",
+          "platform": "telegram",
+          "time": "2026-10-07T01:34:52.641840+00:00",
+          "account": "user5102351",
+          "account_id": "telegram:5102351",
+          "coordinated_group": null,
+          "engagement": 1,
+          "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped them. This is criminal. #AcmeBankCollapse"
+        }
+      }
+    ],
+    "cross_platform_hops": [
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1147",
+          "url": "https://t.me/acme_depositors/1147",
+          "platform": "telegram",
+          "time": "2026-10-07T18:05:48.848614+00:00",
+          "account": "user5066249",
+          "account_id": "telegram:5066249",
+          "coordinated_group": null,
+          "engagement": 21,
+          "text": "The Acme Bank CFO resigned without explanation and now the leadership has gone silent. This is criminal. #AcmeBankCollapse https://news.example.com/acme-bank-regulator-probe"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugu8g4n1c2io0dtln3v0dk",
+          "url": "https://www.youtube.com/watch?v=8gdjHAULnir&lc=Ugu8g4n1c2io0dtln3v0dk",
+          "platform": "youtube",
+          "time": "2026-10-07T22:59:03.629114+00:00",
+          "account": "@viewer_162",
+          "account_id": "youtube:UCmi897BGw7dW8xUNh4Ln7bA",
+          "coordinated_group": null,
+          "engagement": 2,
+          "text": "The Acme Bank CFO resigned without explanation and now the leadership has gone silent. Follow the money."
+        },
+        "lag_hours": 4.9
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ug2yfhwdal55z9pqbz2tz6",
+          "url": "https://www.youtube.com/watch?v=xneGEwFb7KO&lc=Ug2yfhwdal55z9pqbz2tz6",
+          "platform": "youtube",
+          "time": "2026-10-08T16:05:06.381599+00:00",
+          "account": "@viewer_195",
+          "account_id": "youtube:UC9RWgC0Dj-vb2C70ZLLcnwZ",
+          "coordinated_group": null,
+          "engagement": 6,
+          "text": "Acme Bank insiders dumped stock before the announcement while ordinary depositors were told to stay calm. Classic white collar crime. #AcmeBank https://news.example.com/acme-bank-regulator-probe"
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1156",
+          "url": "https://t.me/acme_depositors/1156",
+          "platform": "telegram",
+          "time": "2026-10-08T19:23:13.290521+00:00",
+          "account": "user5102573",
+          "account_id": "telegram:5102573",
+          "coordinated_group": null,
+          "engagement": 32,
+          "text": "Acme Bank insiders dumped stock before the announcement while ordinary depositors were told to stay calm. Classic white collar crime."
+        },
+        "lag_hours": 3.3
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugrasoah8fqkao26z9u8cx",
+          "url": "https://www.youtube.com/watch?v=muTwvksotKe&lc=Ugrasoah8fqkao26z9u8cx",
+          "platform": "youtube",
+          "time": "2026-10-07T19:48:02.033464+00:00",
+          "account": "@viewer_4",
+          "account_id": "youtube:UCfzUg296C0XpBx_NEgbUZsM",
+          "coordinated_group": null,
+          "engagement": 50,
+          "text": "Leaked emails show the Acme Bank board knew about the bad loans and now the leadership has gone silent. This is criminal. #AcmeBank"
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1142",
+          "url": "https://t.me/acme_depositors/1142",
+          "platform": "telegram",
+          "time": "2026-10-09T03:27:09.768274+00:00",
+          "account": "user5437139",
+          "account_id": "telegram:5437139",
+          "coordinated_group": null,
+          "engagement": 33,
+          "text": "Leaked emails show the Acme Bank board knew about the bad loans and now the leadership has gone silent. This is criminal. #AcmeBank anyone else?"
+        },
+        "lag_hours": 31.7
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1153",
+          "url": "https://t.me/acme_depositors/1153",
+          "platform": "telegram",
+          "time": "2026-10-08T12:16:42.379547+00:00",
+          "account": "user5102573",
+          "account_id": "telegram:5102573",
+          "coordinated_group": null,
+          "engagement": 47,
+          "text": "Acme Bank executives moved millions offshore so somebody needs to go to prison for this. Lock them up. #AcmeBank 😡"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugkffc0u98nmbh54lt0rux",
+          "url": "https://www.youtube.com/watch?v=IgBi3OYw0fP&lc=Ugkffc0u98nmbh54lt0rux",
+          "platform": "youtube",
+          "time": "2026-10-09T08:25:01.143477+00:00",
+          "account": "@viewer_96",
+          "account_id": "youtube:UCF7O9clrqdbakDcWDi2vIjL",
+          "coordinated_group": null,
+          "engagement": 64,
+          "text": "Acme Bank executives moved millions offshore so somebody needs to go to prison for this. Lock them up. smh"
+        },
+        "lag_hours": 20.1
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1165",
+          "url": "https://t.me/acme_depositors/1165",
+          "platform": "telegram",
+          "time": "2026-10-08T19:49:46.552987+00:00",
+          "account": "user5314380",
+          "account_id": "telegram:5314380",
+          "coordinated_group": null,
+          "engagement": 49,
+          "text": "Acme Bank executives moved millions offshore so somebody needs to go to prison for this. This is criminal. #AcmeBank"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugbkn3cpu3px5u0uw5kty6",
+          "url": "https://www.youtube.com/watch?v=KI3RJoqoJhx&lc=Ugbkn3cpu3px5u0uw5kty6",
+          "platform": "youtube",
+          "time": "2026-10-09T20:26:31.003388+00:00",
+          "account": "@viewer_191",
+          "account_id": "youtube:UCpQXoyS5jgXRvTfCPZnAnpM",
+          "coordinated_group": null,
+          "engagement": 47,
+          "text": "Acme Bank executives moved millions offshore so somebody needs to go to prison for this. This is criminal. #AcmeBank 😡"
+        },
+        "lag_hours": 24.6
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugxdbg1d441r8mo61hp6cr",
+          "url": "https://www.youtube.com/watch?v=HMk3071YR7M&lc=Ugxdbg1d441r8mo61hp6cr",
+          "platform": "youtube",
+          "time": "2026-10-08T08:53:35.624197+00:00",
+          "account": "@viewer_134",
+          "account_id": "youtube:UCVegdWdWZO7bi2G_A4LI1So",
+          "coordinated_group": null,
+          "engagement": 12,
+          "text": "Acme Bank insiders dumped stock before the announcement and now the leadership has gone silent. Follow the money. #AcmeBankCollapse"
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1162",
+          "url": "https://t.me/acme_depositors/1162",
+          "platform": "telegram",
+          "time": "2026-10-10T01:59:41.083819+00:00",
+          "account": "user5170185",
+          "account_id": "telegram:5170185",
+          "coordinated_group": null,
+          "engagement": 30,
+          "text": "Acme Bank insiders dumped stock before the announcement and now the leadership has gone silent. Follow the money."
+        },
+        "lag_hours": 41.1
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1157",
+          "url": "https://t.me/acme_depositors/1157",
+          "platform": "telegram",
+          "time": "2026-10-08T10:06:54.124199+00:00",
+          "account": "user5274951",
+          "account_id": "telegram:5274951",
+          "coordinated_group": null,
+          "engagement": 30,
+          "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped them. Shareholders deserve answers."
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug5ffjat70lwrhmjnk2pev",
+          "url": "https://www.youtube.com/watch?v=pIng6l9dIeA&lc=Ug5ffjat70lwrhmjnk2pev",
+          "platform": "youtube",
+          "time": "2026-10-10T05:27:23.124454+00:00",
+          "account": "@viewer_161",
+          "account_id": "youtube:UCpPEpL6Peb4n1uBdOqze2fq",
+          "coordinated_group": null,
+          "engagement": 9,
+          "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped them. Shareholders deserve answers. #AcmeBank 🙏"
+        },
+        "lag_hours": 43.3
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1180",
+          "url": "https://t.me/acme_depositors/1180",
+          "platform": "telegram",
+          "time": "2026-10-07T01:34:52.641840+00:00",
+          "account": "user5102351",
+          "account_id": "telegram:5102351",
+          "coordinated_group": null,
+          "engagement": 1,
+          "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped them. This is criminal. #AcmeBankCollapse"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugjs5xoxqi1kxmg6asgx9l",
+          "url": "https://www.youtube.com/watch?v=8gdjHAULnir&lc=Ugjs5xoxqi1kxmg6asgx9l",
+          "platform": "youtube",
+          "time": "2026-10-10T06:10:55.331587+00:00",
+          "account": "@viewer_135",
+          "account_id": "youtube:UC0fZdU0t3mnUb5KSYoPlX19",
+          "coordinated_group": null,
+          "engagement": 21,
+          "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse and nobody stopped them. Classic white collar crime. #AcmeBankCollapse"
+        },
+        "lag_hours": 76.6
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1003000002:1003",
+          "url": "https://t.me/finance_news_2/1003",
+          "platform": "telegram",
+          "time": "2026-10-07T21:19:38.131995+00:00",
+          "account": "finance_news_2",
+          "account_id": "telegram:-1003000002",
+          "coordinated_group": null,
+          "engagement": 594,
+          "text": "Acme Bank executives moved millions offshore and the paper trail is all public. Lock them up. #AcmeBank 😡"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugmt4dtqmwothhkfalp6av",
+          "url": "https://www.youtube.com/watch?v=FGGTiHfD3tF&lc=Ugmt4dtqmwothhkfalp6av",
+          "platform": "youtube",
+          "time": "2026-10-10T09:15:57.535548+00:00",
+          "account": "@viewer_210",
+          "account_id": "youtube:UCuyS2hvmL4CpOy-5WPuEeBT",
+          "coordinated_group": null,
+          "engagement": 62,
+          "text": "Acme Bank executives moved millions offshore and the paper trail is all public. Lock them up. #AcmeBank 🙏"
+        },
+        "lag_hours": 59.9
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1137",
+          "url": "https://t.me/acme_depositors/1137",
+          "platform": "telegram",
+          "time": "2026-10-09T14:00:47.374796+00:00",
+          "account": "user5174990",
+          "account_id": "telegram:5174990",
+          "coordinated_group": null,
+          "engagement": 30,
+          "text": "Leaked emails show the Acme Bank board knew about the bad loans which looks like textbook insider trading. This is criminal. #AcmeBankCollapse"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugjwswb256txur73hv575y",
+          "url": "https://www.youtube.com/watch?v=IaQXUUJBg1T&lc=Ugjwswb256txur73hv575y",
+          "platform": "youtube",
+          "time": "2026-10-10T11:42:58.840467+00:00",
+          "account": "@viewer_12",
+          "account_id": "youtube:UCSKbF6WMXE1MBvRnhmX1EoC",
+          "coordinated_group": null,
+          "engagement": 37,
+          "text": "Leaked emails show the Acme Bank board knew about the bad loans which looks like textbook insider trading. Follow the money. #AcmeBankCollapse https://news.example.com/acme-bank-regulator-probe"
+        },
+        "lag_hours": 21.7
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1154",
+          "url": "https://t.me/acme_depositors/1154",
+          "platform": "telegram",
+          "time": "2026-10-07T07:58:33.331922+00:00",
+          "account": "user5287198",
+          "account_id": "telegram:5287198",
+          "coordinated_group": null,
+          "engagement": 56,
+          "text": "Acme Bank insiders dumped stock before the announcement and the paper trail is all public. Lock them up."
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug8a3xmzm3tdj5gc4tk6jm",
+          "url": "https://www.youtube.com/watch?v=FGGTiHfD3tF&lc=Ug8a3xmzm3tdj5gc4tk6jm",
+          "platform": "youtube",
+          "time": "2026-10-10T22:06:08.624482+00:00",
+          "account": "@viewer_157",
+          "account_id": "youtube:UCP5v8fwllzEg9pb5tn6uLua",
+          "coordinated_group": null,
+          "engagement": 62,
+          "text": "Acme Bank insiders dumped stock before the announcement and the paper trail is all public. Lock them up. 🙏"
+        },
+        "lag_hours": 86.1
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugduim3fjj7hnhls7240jz",
+          "url": "https://www.youtube.com/watch?v=THeLvdo974q&lc=Ugduim3fjj7hnhls7240jz",
+          "platform": "youtube",
+          "time": "2026-10-08T18:13:43.708225+00:00",
+          "account": "@viewer_95",
+          "account_id": "youtube:UCxjIibcnMuKuCJPpbA6R5jH",
+          "coordinated_group": null,
+          "engagement": 3,
+          "text": "Auditors flagged fraud at Acme Bank last year and now the leadership has gone silent. Where is the investigation?"
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1141",
+          "url": "https://t.me/acme_depositors/1141",
+          "platform": "telegram",
+          "time": "2026-10-11T02:45:11.740439+00:00",
+          "account": "user5066249",
+          "account_id": "telegram:5066249",
+          "coordinated_group": null,
+          "engagement": 26,
+          "text": "Auditors flagged fraud at Acme Bank last year and nobody stopped them. Where is the investigation?"
+        },
+        "lag_hours": 56.5
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1169",
+          "url": "https://t.me/acme_depositors/1169",
+          "platform": "telegram",
+          "time": "2026-10-11T04:13:44.792384+00:00",
+          "account": "user5067098",
+          "account_id": "telegram:5067098",
+          "coordinated_group": null,
+          "engagement": 11,
+          "text": "Leaked emails show the Acme Bank board knew about the bad loans which looks like textbook insider trading. Where is the investigation? smh"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug5y1b2zitxj48nc5okxcx",
+          "url": "https://www.youtube.com/watch?v=KI3RJoqoJhx&lc=Ug5y1b2zitxj48nc5okxcx",
+          "platform": "youtube",
+          "time": "2026-10-11T09:28:44.201039+00:00",
+          "account": "@viewer_118",
+          "account_id": "youtube:UC8rX7pd3La0zRdvuw-uQcbi",
+          "coordinated_group": null,
+          "engagement": 63,
+          "text": "Leaked emails show the Acme Bank board knew about the bad loans which looks like textbook insider trading. Where is the investigation? anyone else?"
+        },
+        "lag_hours": 5.2
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1150",
+          "url": "https://t.me/acme_depositors/1150",
+          "platform": "telegram",
+          "time": "2026-10-07T08:11:08.593125+00:00",
+          "account": "user5205216",
+          "account_id": "telegram:5205216",
+          "coordinated_group": null,
+          "engagement": 32,
+          "text": "Acme Bank insiders dumped stock before the announcement and now the leadership has gone silent. Shareholders deserve answers."
+        },
+        "to": {
+          "post_id": "youtube:comment:Ughnh8vntsbtlgwme7atev",
+          "url": "https://www.youtube.com/watch?v=m2XUBDbQPPl&lc=Ughnh8vntsbtlgwme7atev",
+          "platform": "youtube",
+          "time": "2026-10-12T01:49:50.508498+00:00",
+          "account": "@viewer_172",
+          "account_id": "youtube:UCMHGZfaKggLh_XgAm7cvf0O",
+          "coordinated_group": null,
+          "engagement": 25,
+          "text": "Acme Bank insiders dumped stock before the announcement and now the leadership has gone silent. Shareholders deserve answers. 🙏"
+        },
+        "lag_hours": 113.6
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1163",
+          "url": "https://t.me/acme_depositors/1163",
+          "platform": "telegram",
+          "time": "2026-10-07T19:57:18.213668+00:00",
+          "account": "user5170185",
+          "account_id": "telegram:5170185",
+          "coordinated_group": null,
+          "engagement": 35,
+          "text": "Leaked emails show the Acme Bank board knew about the bad loans and now the leadership has gone silent. Shareholders deserve answers."
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug40qloktwx7z5xiizpc32",
+          "url": "https://www.youtube.com/watch?v=m2XUBDbQPPl&lc=Ug40qloktwx7z5xiizpc32",
+          "platform": "youtube",
+          "time": "2026-10-13T01:34:57.078336+00:00",
+          "account": "@viewer_119",
+          "account_id": "youtube:UC1J86qts3oW9CUyvOlafZvm",
+          "coordinated_group": null,
+          "engagement": 44,
+          "text": "Leaked emails show the Acme Bank board knew about the bad loans and now the leadership has gone silent. Shareholders deserve answers. #AcmeBank"
+        },
+        "lag_hours": 125.6
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ug2aharao3tbzy0fja17zq",
+          "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Ug2aharao3tbzy0fja17zq",
+          "platform": "youtube",
+          "time": "2026-10-07T12:41:34.034237+00:00",
+          "account": "@viewer_103",
+          "account_id": "youtube:UCJGl6yAaDX6aPa2OLtMLeML",
+          "coordinated_group": null,
+          "engagement": 13,
+          "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse so somebody needs to go to prison for this. Classic white collar crime. #AcmeBank"
+        },
+        "to": {
+          "post_id": "telegram:-1003000010:1006",
+          "url": "https://t.me/finance_news_10/1006",
+          "platform": "telegram",
+          "time": "2026-10-14T02:15:26.364608+00:00",
+          "account": "finance_news_10",
+          "account_id": "telegram:-1003000010",
+          "coordinated_group": null,
+          "engagement": 178,
+          "text": "Reports say the Acme Bank CEO sold his shares weeks before the collapse so somebody needs to go to prison for this. Classic white collar crime. #AcmeBankCollapse smh"
+        },
+        "lag_hours": 157.6
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1174",
+          "url": "https://t.me/acme_depositors/1174",
+          "platform": "telegram",
+          "time": "2026-10-08T16:22:55.137486+00:00",
+          "account": "user5353310",
+          "account_id": "telegram:5353310",
+          "coordinated_group": null,
+          "engagement": 55,
+          "text": "Acme Bank insiders dumped stock before the announcement and the paper trail is all public. Follow the money. 🙏"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugkdetuwpc70jp9oowtynm",
+          "url": "https://www.youtube.com/watch?v=w2WaU9NWpnM&lc=Ugkdetuwpc70jp9oowtynm",
+          "platform": "youtube",
+          "time": "2026-10-14T14:27:19.625855+00:00",
+          "account": "@viewer_32",
+          "account_id": "youtube:UCcT1rtRZjM8iQ0NA0P-yT1j",
+          "coordinated_group": null,
+          "engagement": 9,
+          "text": "Acme Bank insiders dumped stock before the announcement and the paper trail is all public. Follow the money. smh"
+        },
+        "lag_hours": 142.1
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugyqege9to1ypv0pb8sr8s",
+          "url": "https://www.youtube.com/watch?v=yEHx4GWf0Oe&lc=Ugyqege9to1ypv0pb8sr8s",
+          "platform": "youtube",
+          "time": "2026-10-11T16:26:22.399280+00:00",
+          "account": "@viewer_58",
+          "account_id": "youtube:UCvfesTRaA6z5ymVISmngrJY",
+          "coordinated_group": null,
+          "engagement": 26,
+          "text": "The Acme Bank CFO resigned without explanation so somebody needs to go to prison for this. Shareholders deserve answers."
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1155",
+          "url": "https://t.me/acme_depositors/1155",
+          "platform": "telegram",
+          "time": "2026-10-15T16:21:32.607307+00:00",
+          "account": "user5163158",
+          "account_id": "telegram:5163158",
+          "coordinated_group": null,
+          "engagement": 55,
+          "text": "The Acme Bank CFO resigned without explanation so somebody needs to go to prison for this. Shareholders deserve answers. 🙏"
+        },
+        "lag_hours": 95.9
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Uglrpw42l48xo68l3m6now",
+          "url": "https://www.youtube.com/watch?v=yX2IFnrwaee&lc=Uglrpw42l48xo68l3m6now",
+          "platform": "youtube",
+          "time": "2026-10-07T02:24:03.604694+00:00",
+          "account": "@viewer_203",
+          "account_id": "youtube:UC8-qRfhMeffEZeQ-s-vHYd2",
+          "coordinated_group": null,
+          "engagement": 70,
+          "text": "Auditors flagged fraud at Acme Bank last year so somebody needs to go to prison for this. Shareholders deserve answers. 🙏"
+        },
+        "to": {
+          "post_id": "telegram:-1003000005:1005",
+          "url": "https://t.me/finance_news_5/1005",
+          "platform": "telegram",
+          "time": "2026-10-15T21:08:13.580665+00:00",
+          "account": "finance_news_5",
+          "account_id": "telegram:-1003000005",
+          "coordinated_group": null,
+          "engagement": 304,
+          "text": "Auditors flagged fraud at Acme Bank last year so somebody needs to go to prison for this. Shareholders deserve answers."
+        },
+        "lag_hours": 210.7
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugmkz5rdw5zczyrict7q1b",
+          "url": "https://www.youtube.com/watch?v=z1yFy4HRAYF&lc=Ugmkz5rdw5zczyrict7q1b",
+          "platform": "youtube",
+          "time": "2026-10-15T15:36:03.780311+00:00",
+          "account": "@viewer_119",
+          "account_id": "youtube:UC1J86qts3oW9CUyvOlafZvm",
+          "coordinated_group": null,
+          "engagement": 53,
+          "text": "Acme Bank executives moved millions offshore so somebody needs to go to prison for this. Where is the investigation? 😡"
+        },
+        "to": {
+          "post_id": "telegram:-1003000014:1002",
+          "url": "https://t.me/finance_news_14/1002",
+          "platform": "telegram",
+          "time": "2026-10-17T12:23:04.735798+00:00",
+          "account": "finance_news_14",
+          "account_id": "telegram:-1003000014",
+          "coordinated_group": null,
+          "engagement": 348,
+          "text": "Acme Bank executives moved millions offshore so somebody needs to go to prison for this. Where is the investigation? 🙏 https://news.example.com/acme-bank-regulator-probe"
+        },
+        "lag_hours": 44.8
+      }
+    ],
+    "breakout": null,
+    "share_of_posts_from_coordinated_groups": 0.0,
+    "caveat": "First *observed* post. Deleted or uncollected posts may be earlier."
+  },
+  {
+    "narrative_id": "N3",
+    "label": "losses, people, real",
+    "first_posts": [
+      {
+        "post_id": "telegram:-1002002:1347",
+        "url": "https://t.me/acme_depositors/1347",
+        "platform": "telegram",
+        "time": "2026-10-03T10:42:04.775151+00:00",
+        "account": "Saver70",
+        "account_id": "telegram:5559638",
+        "coordinated_group": "G1",
+        "engagement": 81,
+        "text": "LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole. The cover up goes all the way to the top. share before they delete it #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1353",
+        "url": "https://t.me/acme_depositors/1353",
+        "platform": "telegram",
+        "time": "2026-10-03T10:42:06.575602+00:00",
+        "account": "Truth626",
+        "account_id": "telegram:5547076",
+        "coordinated_group": "G1",
+        "engagement": 11,
+        "text": "LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole!! The cover up goes all the way to the top. Share before they delete it #AcmeBankCollapse 👇"
+      },
+      {
+        "post_id": "telegram:-1002002:1349",
+        "url": "https://t.me/acme_depositors/1349",
+        "platform": "telegram",
+        "time": "2026-10-03T10:42:07.707374+00:00",
+        "account": "Truth968",
+        "account_id": "telegram:5558626",
+        "coordinated_group": "G1",
+        "engagement": 17,
+        "text": "LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole. The cover up goes all the way to the top. share before they delete it #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1348",
+        "url": "https://t.me/acme_depositors/1348",
+        "platform": "telegram",
+        "time": "2026-10-03T10:42:24.033533+00:00",
+        "account": "Patriot127",
+        "account_id": "telegram:5524139",
+        "coordinated_group": "G1",
+        "engagement": 29,
+        "text": "🚨 LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole. The cover up goes all the way to the top. share before they delete it #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1346",
+        "url": "https://t.me/acme_depositors/1346",
+        "platform": "telegram",
+        "time": "2026-10-03T10:42:34.693205+00:00",
+        "account": "Patriot773",
+        "account_id": "telegram:5539307",
+        "coordinated_group": "G1",
+        "engagement": 94,
+        "text": "LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole. The cover up goes all the way to the top. Share before they delete it #AcmeBankCollapse !!"
+      }
+    ],
+    "earlier_sources": [
+      {
+        "via": "link",
+        "time": "2026-10-03T09:12:00+00:00",
+        "post_id": "telegram:-1001001:101",
+        "account": "acme_truth",
+        "coordinated_group": null,
+        "url": "https://t.me/acme_truth/101",
+        "seen_in": "https://www.youtube.com/watch?v=IgBi3OYw0fP"
+      }
+    ],
+    "platform_path": [
+      {
+        "platform": "telegram",
+        "first_seen": "2026-10-03T10:42:04.775151+00:00",
+        "lag_hours_from_start": 0.0,
+        "first_post": {
+          "post_id": "telegram:-1002002:1347",
+          "url": "https://t.me/acme_depositors/1347",
+          "platform": "telegram",
+          "time": "2026-10-03T10:42:04.775151+00:00",
+          "account": "Saver70",
+          "account_id": "telegram:5559638",
+          "coordinated_group": "G1",
+          "engagement": 81,
+          "text": "LEAKED: Acme Bank regulators signed off on fake balance sheets to hide a 40 billion hole. The cover up goes all the way to the top. share before they delete it #AcmeBankCollapse"
+        }
+      },
+      {
+        "platform": "youtube",
+        "first_seen": "2026-10-05T14:00:00+00:00",
+        "lag_hours_from_start": 51.3,
+        "first_post": {
+          "post_id": "youtube:video:IgBi3OYw0fP",
+          "url": "https://www.youtube.com/watch?v=IgBi3OYw0fP",
+          "platform": "youtube",
+          "time": "2026-10-05T14:00:00+00:00",
+          "account": "@AcmeWatch",
+          "account_id": "youtube:UCwzt8EeI5Hv37w2XGp8BTCh",
+          "coordinated_group": null,
+          "engagement": 9051,
+          "text": "Acme Bank COVER-UP: are regulators hiding the real losses?\n\nAcme Bank losses were buried in offshore shell entities and the government is protecting the people responsible. They don't want you to know"
+        }
+      }
+    ],
+    "cross_platform_hops": [
+      {
+        "via": "link",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1001001:101",
+          "url": "https://t.me/acme_truth/101",
+          "platform": "telegram",
+          "time": "2026-10-03T09:12:00+00:00",
+          "account": "acme_truth",
+          "account_id": "telegram:-1001001",
+          "coordinated_group": null,
+          "engagement": 507,
+          "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+        },
+        "to": {
+          "post_id": "youtube:video:IgBi3OYw0fP",
+          "url": "https://www.youtube.com/watch?v=IgBi3OYw0fP",
+          "platform": "youtube",
+          "time": "2026-10-05T14:00:00+00:00",
+          "account": "@AcmeWatch",
+          "account_id": "youtube:UCwzt8EeI5Hv37w2XGp8BTCh",
+          "coordinated_group": null,
+          "engagement": 9051,
+          "text": "Acme Bank COVER-UP: are regulators hiding the real losses?\n\nAcme Bank losses were buried in offshore shell entities and the government is protecting the people responsible. They don't want you to know"
+        },
+        "lag_hours": 52.8
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1003000002:1010",
+          "url": "https://t.me/finance_news_2/1010",
+          "platform": "telegram",
+          "time": "2026-10-06T00:15:02.309450+00:00",
+          "account": "finance_news_2",
+          "account_id": "telegram:-1003000002",
+          "coordinated_group": null,
+          "engagement": 302,
+          "text": "The media is silent about the Acme Bank cover up and the audit was signed off by their friends. Wake up people. #AcmeBankCollapse 🙏"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugwcknw9z9p5haddvju34p",
+          "url": "https://www.youtube.com/watch?v=HMk3071YR7M&lc=Ugwcknw9z9p5haddvju34p",
+          "platform": "youtube",
+          "time": "2026-10-06T19:16:09.457273+00:00",
+          "account": "@viewer_179",
+          "account_id": "youtube:UCpmjKM-rdvOolnvf0je37ga",
+          "coordinated_group": null,
+          "engagement": 30,
+          "text": "The media is silent about the Acme Bank cover up and the audit was signed off by their friends. Wake up people. #AcmeBank"
+        },
+        "lag_hours": 19.0
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1003000005:1012",
+          "url": "https://t.me/finance_news_5/1012",
+          "platform": "telegram",
+          "time": "2026-10-06T00:11:12.850083+00:00",
+          "account": "finance_news_5",
+          "account_id": "telegram:-1003000005",
+          "coordinated_group": null,
+          "engagement": 477,
+          "text": "The Acme Bank numbers were cooked to hide a huge hole and the government is protecting the people responsible. Do your own research. #AcmeBank anyone else?"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugee70x4rvpaav1otbo9bo",
+          "url": "https://www.youtube.com/watch?v=yX2IFnrwaee&lc=Ugee70x4rvpaav1otbo9bo",
+          "platform": "youtube",
+          "time": "2026-10-09T20:42:07.302139+00:00",
+          "account": "@viewer_39",
+          "account_id": "youtube:UCLWVtwXAlyuOqxqzIP2sfxY",
+          "coordinated_group": null,
+          "engagement": 61,
+          "text": "The Acme Bank numbers were cooked to hide a huge hole and the government is protecting the people responsible. Do your own research. #AcmeBank"
+        },
+        "lag_hours": 92.5
+      }
+    ],
+    "breakout": {
+      "spike_start": "2026-10-13T10:42:04.775151+00:00",
+      "bin": "day",
+      "posts_in_bin": 30,
+      "baseline_per_bin": 8.0,
+      "amplifiers": [
+        {
+          "post_id": "telegram:-1001001:110",
+          "url": "https://t.me/acme_truth/110",
+          "platform": "telegram",
+          "time": "2026-10-12T13:05:40.244604+00:00",
+          "account": "acme_truth",
+          "account_id": "telegram:-1001001",
+          "coordinated_group": null,
+          "engagement": 394,
+          "text": "The Acme Bank numbers were cooked to hide a huge hole and the government is protecting the people responsible. Truth will come out. 🙏"
+        },
+        {
+          "post_id": "telegram:-1002002:1441",
+          "url": "https://t.me/acme_depositors/1441",
+          "platform": "telegram",
+          "time": "2026-10-13T13:06:05.222791+00:00",
+          "account": "Ravi609",
+          "account_id": "telegram:5544115",
+          "coordinated_group": "G1",
+          "engagement": 94,
+          "text": "Depositors are being lied to. Acme Bank's real losses are hidden off the books and officials are helping. Wake up and share #AcmeBankCollapse !!"
+        },
+        {
+          "post_id": "telegram:-1002002:1437",
+          "url": "https://t.me/acme_depositors/1437",
+          "platform": "telegram",
+          "time": "2026-10-13T12:58:30.506835+00:00",
+          "account": "Saver432",
+          "account_id": "telegram:5534343",
+          "coordinated_group": "G1",
+          "engagement": 79,
+          "text": "Depositors are being lied to!! Acme Bank's real losses are hidden off the books and officials are helping. Wake up and share #AcmeBankCollapse"
+        },
+        {
+          "post_id": "telegram:-1002002:1433",
+          "url": "https://t.me/acme_depositors/1433",
+          "platform": "telegram",
+          "time": "2026-10-13T13:41:11.212773+00:00",
+          "account": "Saver53",
+          "account_id": "telegram:5528727",
+          "coordinated_group": "G1",
+          "engagement": 75,
+          "text": "Depositors are being lied to!! Acme Bank's real losses are hidden off the books and officials are helping. Wake up and share #AcmeBankCollapse"
+        },
+        {
+          "post_id": "youtube:comment:Ugtwc4kknrf5n7n4txuxj9",
+          "url": "https://www.youtube.com/watch?v=C0hIigGelvc&lc=Ugtwc4kknrf5n7n4txuxj9",
+          "platform": "youtube",
+          "time": "2026-10-13T14:59:42.015154+00:00",
+          "account": "@viewer_144",
+          "account_id": "youtube:UC6oz8PFSlGQtwfhE49DLKEb",
+          "coordinated_group": null,
+          "engagement": 75,
+          "text": "Officials are covering up the Acme Bank scandal and the government is protecting the people responsible. They don't want you to know this."
+        }
+      ]
+    },
+    "share_of_posts_from_coordinated_groups": 0.487,
+    "caveat": "First *observed* post. Deleted or uncollected posts may be earlier."
+  },
+  {
+    "narrative_id": "N4",
+    "label": "small, line, accounts",
+    "first_posts": [
+      {
+        "post_id": "telegram:-1002002:1233",
+        "url": "https://t.me/acme_depositors/1233",
+        "platform": "telegram",
+        "time": "2026-10-12T01:16:34.249430+00:00",
+        "account": "user5278750",
+        "account_id": "telegram:5278750",
+        "coordinated_group": null,
+        "engagement": 56,
+        "text": "Rival lenders are in talks to buy Acme Bank but nobody has said who covers the losses. Watch the bond market this week. #AcmeBankCollapse 😡"
+      },
+      {
+        "post_id": "youtube:video:z1yFy4HRAYF",
+        "url": "https://www.youtube.com/watch?v=z1yFy4HRAYF",
+        "platform": "youtube",
+        "time": "2026-10-12T02:11:01.752028+00:00",
+        "account": "@money_talk_23",
+        "account_id": "youtube:UCIxNfaaOEELk9MQMalor2hC",
+        "coordinated_group": null,
+        "engagement": 15616,
+        "text": "The central bank offered Acme Bank an emergency credit line\n\nThe finance ministry is reportedly preparing a bailout for Acme Bank and markets rallied on the news. No more bailouts. #AcmeBank 🙏\nRead mo"
+      },
+      {
+        "post_id": "telegram:-1002002:1204",
+        "url": "https://t.me/acme_depositors/1204",
+        "platform": "telegram",
+        "time": "2026-10-12T02:56:14.275523+00:00",
+        "account": "user5102351",
+        "account_id": "telegram:5102351",
+        "coordinated_group": null,
+        "engagement": 47,
+        "text": "Deposit insurance should cover small Acme Bank accounts but nobody has said who covers the losses. No more bailouts. #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1189",
+        "url": "https://t.me/acme_depositors/1189",
+        "platform": "telegram",
+        "time": "2026-10-12T04:14:17.247587+00:00",
+        "account": "user5379258",
+        "account_id": "telegram:5379258",
+        "coordinated_group": null,
+        "engagement": 42,
+        "text": "The finance ministry is reportedly preparing a bailout for Acme Bank but nobody has said who covers the losses. Hope small savers are protected. #AcmeBank"
+      },
+      {
+        "post_id": "telegram:-1003000002:1006",
+        "url": "https://t.me/finance_news_2/1006",
+        "platform": "telegram",
+        "time": "2026-10-12T05:05:52.449582+00:00",
+        "account": "finance_news_2",
+        "account_id": "telegram:-1003000002",
+        "coordinated_group": null,
+        "engagement": 201,
+        "text": "Rival lenders are in talks to buy Acme Bank which means public money is on the line again. No more bailouts."
+      }
+    ],
+    "earlier_sources": [],
+    "platform_path": [
+      {
+        "platform": "telegram",
+        "first_seen": "2026-10-12T01:16:34.249430+00:00",
+        "lag_hours_from_start": 0.0,
+        "first_post": {
+          "post_id": "telegram:-1002002:1233",
+          "url": "https://t.me/acme_depositors/1233",
+          "platform": "telegram",
+          "time": "2026-10-12T01:16:34.249430+00:00",
+          "account": "user5278750",
+          "account_id": "telegram:5278750",
+          "coordinated_group": null,
+          "engagement": 56,
+          "text": "Rival lenders are in talks to buy Acme Bank but nobody has said who covers the losses. Watch the bond market this week. #AcmeBankCollapse 😡"
+        }
+      },
+      {
+        "platform": "youtube",
+        "first_seen": "2026-10-12T02:11:01.752028+00:00",
+        "lag_hours_from_start": 0.9,
+        "first_post": {
+          "post_id": "youtube:video:z1yFy4HRAYF",
+          "url": "https://www.youtube.com/watch?v=z1yFy4HRAYF",
+          "platform": "youtube",
+          "time": "2026-10-12T02:11:01.752028+00:00",
+          "account": "@money_talk_23",
+          "account_id": "youtube:UCIxNfaaOEELk9MQMalor2hC",
+          "coordinated_group": null,
+          "engagement": 15616,
+          "text": "The central bank offered Acme Bank an emergency credit line\n\nThe finance ministry is reportedly preparing a bailout for Acme Bank and markets rallied on the news. No more bailouts. #AcmeBank 🙏\nRead mo"
+        }
+      }
+    ],
+    "cross_platform_hops": [
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugb6a62bqdwuckro9yrva4",
+          "url": "https://www.youtube.com/watch?v=IaQXUUJBg1T&lc=Ugb6a62bqdwuckro9yrva4",
+          "platform": "youtube",
+          "time": "2026-10-12T13:00:46.581281+00:00",
+          "account": "@viewer_166",
+          "account_id": "youtube:UCc4oQu-5VHNKESiIWCCd4L6",
+          "coordinated_group": null,
+          "engagement": 18,
+          "text": "Rival lenders are in talks to buy Acme Bank which means public money is on the line again. We will see how it plays out."
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1197",
+          "url": "https://t.me/acme_depositors/1197",
+          "platform": "telegram",
+          "time": "2026-10-13T07:14:49.175773+00:00",
+          "account": "user5310356",
+          "account_id": "telegram:5310356",
+          "coordinated_group": null,
+          "engagement": 19,
+          "text": "Rival lenders are in talks to buy Acme Bank which means public money is on the line again. We will see how it plays out. 😡"
+        },
+        "lag_hours": 18.2
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1233",
+          "url": "https://t.me/acme_depositors/1233",
+          "platform": "telegram",
+          "time": "2026-10-12T01:16:34.249430+00:00",
+          "account": "user5278750",
+          "account_id": "telegram:5278750",
+          "coordinated_group": null,
+          "engagement": 56,
+          "text": "Rival lenders are in talks to buy Acme Bank but nobody has said who covers the losses. Watch the bond market this week. #AcmeBankCollapse 😡"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugp10rd5f69hanj8kzj0o0",
+          "url": "https://www.youtube.com/watch?v=HMk3071YR7M&lc=Ugp10rd5f69hanj8kzj0o0",
+          "platform": "youtube",
+          "time": "2026-10-15T02:23:41.899934+00:00",
+          "account": "@viewer_15",
+          "account_id": "youtube:UCHov48VSOuU19x5iqljHqBT",
+          "coordinated_group": null,
+          "engagement": 40,
+          "text": "Rival lenders are in talks to buy Acme Bank but nobody has said who covers the losses. Watch the bond market this week. #AcmeBank"
+        },
+        "lag_hours": 73.1
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1196",
+          "url": "https://t.me/acme_depositors/1196",
+          "platform": "telegram",
+          "time": "2026-10-12T08:38:52.920783+00:00",
+          "account": "user5518465",
+          "account_id": "telegram:5518465",
+          "coordinated_group": null,
+          "engagement": 74,
+          "text": "A rescue deal for Acme Bank is being negotiated so depositors may get some relief. Watch the bond market this week. #AcmeBankCollapse 🙏"
+        },
+        "to": {
+          "post_id": "youtube:video:jFXSJWxUUva",
+          "url": "https://www.youtube.com/watch?v=jFXSJWxUUva",
+          "platform": "youtube",
+          "time": "2026-10-15T06:01:12.472203+00:00",
+          "account": "@money_talk_0",
+          "account_id": "youtube:UCCQE28_AJy75fNcTTN6KFAQ",
+          "coordinated_group": null,
+          "engagement": 3427,
+          "text": "Deposit insurance should cover small Acme Bank accounts\n\nA rescue deal for Acme Bank is being negotiated so depositors may get some relief. Watch the bond market this week. #AcmeBank 😡\nRead more: http"
+        },
+        "lag_hours": 69.4
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1220",
+          "url": "https://t.me/acme_depositors/1220",
+          "platform": "telegram",
+          "time": "2026-10-12T18:39:56.699197+00:00",
+          "account": "user5383567",
+          "account_id": "telegram:5383567",
+          "coordinated_group": null,
+          "engagement": 4,
+          "text": "Deposit insurance should cover small Acme Bank accounts so depositors may get some relief. Moral hazard all over again."
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug3p6e44wytc8v470u98qg",
+          "url": "https://www.youtube.com/watch?v=Y6gXMRh5OOf&lc=Ug3p6e44wytc8v470u98qg",
+          "platform": "youtube",
+          "time": "2026-10-15T07:12:53.050812+00:00",
+          "account": "@viewer_218",
+          "account_id": "youtube:UCR5V5zXQmxRpezvLq6MPgMT",
+          "coordinated_group": null,
+          "engagement": 56,
+          "text": "Deposit insurance should cover small Acme Bank accounts so depositors may get some relief. Moral hazard all over again. #AcmeBankCollapse 😡"
+        },
+        "lag_hours": 60.5
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ug6q2a7t5lf34kituzojuw",
+          "url": "https://www.youtube.com/watch?v=fj2jJAVet10&lc=Ug6q2a7t5lf34kituzojuw",
+          "platform": "youtube",
+          "time": "2026-10-14T12:46:39.154136+00:00",
+          "account": "@viewer_16",
+          "account_id": "youtube:UCwxwd5kAphi2UFkSSj-sK_w",
+          "coordinated_group": null,
+          "engagement": 69,
+          "text": "Taxpayers will end up paying for the Acme Bank mess and markets rallied on the news. Details matter here. https://news.example.com/acme-bank-regulator-probe"
+        },
+        "to": {
+          "post_id": "telegram:-1003000003:1006",
+          "url": "https://t.me/finance_news_3/1006",
+          "platform": "telegram",
+          "time": "2026-10-15T16:57:36.912300+00:00",
+          "account": "finance_news_3",
+          "account_id": "telegram:-1003000003",
+          "coordinated_group": null,
+          "engagement": 569,
+          "text": "Taxpayers will end up paying for the Acme Bank mess and markets rallied on the news. Details matter here."
+        },
+        "lag_hours": 28.2
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1200",
+          "url": "https://t.me/acme_depositors/1200",
+          "platform": "telegram",
+          "time": "2026-10-16T05:10:35.318904+00:00",
+          "account": "user5466034",
+          "account_id": "telegram:5466034",
+          "coordinated_group": null,
+          "engagement": 75,
+          "text": "Deposit insurance should cover small Acme Bank accounts and markets rallied on the news. No more bailouts. #AcmeBank"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugl9zrp1hxj6utwxrt6598",
+          "url": "https://www.youtube.com/watch?v=Laa2lSbMArF&lc=Ugl9zrp1hxj6utwxrt6598",
+          "platform": "youtube",
+          "time": "2026-10-16T18:08:11.008859+00:00",
+          "account": "@viewer_155",
+          "account_id": "youtube:UCeGcisVu0jU44WAQL3eThOO",
+          "coordinated_group": null,
+          "engagement": 22,
+          "text": "Deposit insurance should cover small Acme Bank accounts and markets rallied on the news. No more bailouts. #AcmeBankCollapse"
+        },
+        "lag_hours": 13.0
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugq61vl8btn1f4a41ng704",
+          "url": "https://www.youtube.com/watch?v=IEHOvqoI2BK&lc=Ugq61vl8btn1f4a41ng704",
+          "platform": "youtube",
+          "time": "2026-10-14T22:23:31.117034+00:00",
+          "account": "@viewer_4",
+          "account_id": "youtube:UCfzUg296C0XpBx_NEgbUZsM",
+          "coordinated_group": null,
+          "engagement": 55,
+          "text": "Deposit insurance should cover small Acme Bank accounts so depositors may get some relief. Hope small savers are protected."
+        },
+        "to": {
+          "post_id": "telegram:-1003000012:1010",
+          "url": "https://t.me/finance_news_12/1010",
+          "platform": "telegram",
+          "time": "2026-10-17T03:31:31.060108+00:00",
+          "account": "finance_news_12",
+          "account_id": "telegram:-1003000012",
+          "coordinated_group": null,
+          "engagement": 746,
+          "text": "Deposit insurance should cover small Acme Bank accounts so depositors may get some relief. Hope small savers are protected. smh https://news.example.com/acme-bank-regulator-probe"
+        },
+        "lag_hours": 53.1
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1003000003:1007",
+          "url": "https://t.me/finance_news_3/1007",
+          "platform": "telegram",
+          "time": "2026-10-14T13:27:28.254748+00:00",
+          "account": "finance_news_3",
+          "account_id": "telegram:-1003000003",
+          "coordinated_group": null,
+          "engagement": 404,
+          "text": "The central bank offered Acme Bank an emergency credit line but critics say it rewards reckless banking. We will see how it plays out. #AcmeBankCollapse 🙏"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug657ngblf377bx3ke5qt4",
+          "url": "https://www.youtube.com/watch?v=THeLvdo974q&lc=Ug657ngblf377bx3ke5qt4",
+          "platform": "youtube",
+          "time": "2026-10-17T13:57:06.215288+00:00",
+          "account": "@viewer_32",
+          "account_id": "youtube:UCcT1rtRZjM8iQ0NA0P-yT1j",
+          "coordinated_group": null,
+          "engagement": 68,
+          "text": "The central bank offered Acme Bank an emergency credit line but critics say it rewards reckless banking. We will see how it plays out. anyone else?"
+        },
+        "lag_hours": 72.5
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1003000012:1009",
+          "url": "https://t.me/finance_news_12/1009",
+          "platform": "telegram",
+          "time": "2026-10-14T11:32:08.017789+00:00",
+          "account": "finance_news_12",
+          "account_id": "telegram:-1003000012",
+          "coordinated_group": null,
+          "engagement": 636,
+          "text": "The finance ministry is reportedly preparing a bailout for Acme Bank but critics say it rewards reckless banking. Hope small savers are protected. #AcmeBank smh"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugfyoos6appaker62bpavm",
+          "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Ugfyoos6appaker62bpavm",
+          "platform": "youtube",
+          "time": "2026-10-17T18:55:46.532579+00:00",
+          "account": "@viewer_164",
+          "account_id": "youtube:UCqOrU1CuczAUZ5uzhdW6VvH",
+          "coordinated_group": null,
+          "engagement": 53,
+          "text": "The finance ministry is reportedly preparing a bailout for Acme Bank but critics say it rewards reckless banking. Hope small savers are protected. #AcmeBankCollapse"
+        },
+        "lag_hours": 79.4
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugfjnu8xiaf3p9oneke9gj",
+          "url": "https://www.youtube.com/watch?v=HMk3071YR7M&lc=Ugfjnu8xiaf3p9oneke9gj",
+          "platform": "youtube",
+          "time": "2026-10-12T12:51:48.719419+00:00",
+          "account": "@viewer_93",
+          "account_id": "youtube:UCntuhfIM0OnVWPzyrzy-rsX",
+          "coordinated_group": null,
+          "engagement": 29,
+          "text": "A rescue deal for Acme Bank is being negotiated although the terms have not been published. Moral hazard all over again. anyone else?"
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1222",
+          "url": "https://t.me/acme_depositors/1222",
+          "platform": "telegram",
+          "time": "2026-10-18T01:12:15.898646+00:00",
+          "account": "user5114546",
+          "account_id": "telegram:5114546",
+          "coordinated_group": null,
+          "engagement": 60,
+          "text": "A rescue deal for Acme Bank is being negotiated although the terms have not been published. Moral hazard all over again. smh"
+        },
+        "lag_hours": 132.3
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1003000005:1010",
+          "url": "https://t.me/finance_news_5/1010",
+          "platform": "telegram",
+          "time": "2026-10-13T13:16:36.454796+00:00",
+          "account": "finance_news_5",
+          "account_id": "telegram:-1003000005",
+          "coordinated_group": null,
+          "engagement": 333,
+          "text": "The central bank offered Acme Bank an emergency credit line but critics say it rewards reckless banking. No more bailouts. anyone else? https://news.example.com/acme-bank-regulator-probe"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug9j9xfz2tj60x6qgq3a81",
+          "url": "https://www.youtube.com/watch?v=bUe7KyZesKU&lc=Ug9j9xfz2tj60x6qgq3a81",
+          "platform": "youtube",
+          "time": "2026-10-18T01:44:24.848725+00:00",
+          "account": "@viewer_135",
+          "account_id": "youtube:UC0fZdU0t3mnUb5KSYoPlX19",
+          "coordinated_group": null,
+          "engagement": 37,
+          "text": "The central bank offered Acme Bank an emergency credit line but critics say it rewards reckless banking. No more bailouts. 😡"
+        },
+        "lag_hours": 108.5
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ug9005a5m60otkhui82nie",
+          "url": "https://www.youtube.com/watch?v=yEHx4GWf0Oe&lc=Ug9005a5m60otkhui82nie",
+          "platform": "youtube",
+          "time": "2026-10-13T16:34:24.157405+00:00",
+          "account": "@viewer_67",
+          "account_id": "youtube:UCOt-JsbcJiWBhiIFZG0uiBp",
+          "coordinated_group": null,
+          "engagement": 36,
+          "text": "Deposit insurance should cover small Acme Bank accounts which means public money is on the line again. Details matter here."
+        },
+        "to": {
+          "post_id": "telegram:-1003000005:1011",
+          "url": "https://t.me/finance_news_5/1011",
+          "platform": "telegram",
+          "time": "2026-10-18T19:55:43.134989+00:00",
+          "account": "finance_news_5",
+          "account_id": "telegram:-1003000005",
+          "coordinated_group": null,
+          "engagement": 606,
+          "text": "Deposit insurance should cover small Acme Bank accounts which means public money is on the line again. Watch the bond market this week."
+        },
+        "lag_hours": 123.4
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugdr4qf8umy5odf61xjeco",
+          "url": "https://www.youtube.com/watch?v=V0TJLy9Bl20&lc=Ugdr4qf8umy5odf61xjeco",
+          "platform": "youtube",
+          "time": "2026-10-13T09:29:00.569850+00:00",
+          "account": "@viewer_197",
+          "account_id": "youtube:UCUHsmKbe-m40JFIWaLwTmuI",
+          "coordinated_group": null,
+          "engagement": 21,
+          "text": "Taxpayers will end up paying for the Acme Bank mess but critics say it rewards reckless banking. Moral hazard all over again."
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1206",
+          "url": "https://t.me/acme_depositors/1206",
+          "platform": "telegram",
+          "time": "2026-10-19T20:09:29.379140+00:00",
+          "account": "user5493020",
+          "account_id": "telegram:5493020",
+          "coordinated_group": null,
+          "engagement": 55,
+          "text": "Taxpayers will end up paying for the Acme Bank mess but critics say it rewards reckless banking. Moral hazard all over again. #AcmeBankCollapse smh"
+        },
+        "lag_hours": 154.7
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugzsvt7r7z9wz56lw9damz",
+          "url": "https://www.youtube.com/watch?v=p3Vod7LcQ9g&lc=Ugzsvt7r7z9wz56lw9damz",
+          "platform": "youtube",
+          "time": "2026-10-12T16:34:38.594389+00:00",
+          "account": "@viewer_120",
+          "account_id": "youtube:UCFZB0iDIAWKfAWdWheCDOKL",
+          "coordinated_group": null,
+          "engagement": 43,
+          "text": "A rescue deal for Acme Bank is being negotiated although the terms have not been published. No more bailouts. 🙏"
+        },
+        "to": {
+          "post_id": "telegram:-1003000010:1009",
+          "url": "https://t.me/finance_news_10/1009",
+          "platform": "telegram",
+          "time": "2026-10-21T01:53:33.788250+00:00",
+          "account": "finance_news_10",
+          "account_id": "telegram:-1003000010",
+          "coordinated_group": null,
+          "engagement": 146,
+          "text": "A rescue deal for Acme Bank is being negotiated although the terms have not been published. No more bailouts. 🙏"
+        },
+        "lag_hours": 201.3
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1215",
+          "url": "https://t.me/acme_depositors/1215",
+          "platform": "telegram",
+          "time": "2026-10-12T17:24:38.508508+00:00",
+          "account": "user5125907",
+          "account_id": "telegram:5125907",
+          "coordinated_group": null,
+          "engagement": 55,
+          "text": "The central bank offered Acme Bank an emergency credit line which means public money is on the line again. No more bailouts. anyone else?"
+        },
+        "to": {
+          "post_id": "youtube:video:3mJOeRdAGZQ",
+          "url": "https://www.youtube.com/watch?v=3mJOeRdAGZQ",
+          "platform": "youtube",
+          "time": "2026-10-21T13:13:06.999404+00:00",
+          "account": "@money_talk_18",
+          "account_id": "youtube:UCGQ_dFCGAtmNtc0mRau8URB",
+          "coordinated_group": null,
+          "engagement": 9974,
+          "text": "The central bank offered Acme Bank an emergency credit line\n\nThe central bank offered Acme Bank an emergency credit line which means public money is on the line again. No more bailouts. anyone else?"
+        },
+        "lag_hours": 211.8
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1003000004:1004",
+          "url": "https://t.me/finance_news_4/1004",
+          "platform": "telegram",
+          "time": "2026-10-15T15:49:30.267944+00:00",
+          "account": "finance_news_4",
+          "account_id": "telegram:-1003000004",
+          "coordinated_group": null,
+          "engagement": 537,
+          "text": "Rival lenders are in talks to buy Acme Bank which means public money is on the line again. Details matter here. #AcmeBank"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugdegzvh192kd62ry0kpiv",
+          "url": "https://www.youtube.com/watch?v=2u07f3LORXv&lc=Ugdegzvh192kd62ry0kpiv",
+          "platform": "youtube",
+          "time": "2026-10-24T03:09:26.259664+00:00",
+          "account": "@viewer_116",
+          "account_id": "youtube:UCRpHVd2VK50gcTi0MG3NClJ",
+          "coordinated_group": null,
+          "engagement": 35,
+          "text": "Rival lenders are in talks to buy Acme Bank which means public money is on the line again. Watch the bond market this week. #AcmeBank"
+        },
+        "lag_hours": 203.3
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugpqi5301gst0cdf0hhivl",
+          "url": "https://www.youtube.com/watch?v=p3Vod7LcQ9g&lc=Ugpqi5301gst0cdf0hhivl",
+          "platform": "youtube",
+          "time": "2026-10-14T06:11:02.687931+00:00",
+          "account": "@viewer_201",
+          "account_id": "youtube:UCsYSW0kOvSMmg0i6krgBcqd",
+          "coordinated_group": null,
+          "engagement": 23,
+          "text": "The finance ministry is reportedly preparing a bailout for Acme Bank which means public money is on the line again. Details matter here. #AcmeBank 😡"
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1223",
+          "url": "https://t.me/acme_depositors/1223",
+          "platform": "telegram",
+          "time": "2026-10-25T19:18:42.401202+00:00",
+          "account": "user5082045",
+          "account_id": "telegram:5082045",
+          "coordinated_group": null,
+          "engagement": 4,
+          "text": "The finance ministry is reportedly preparing a bailout for Acme Bank which means public money is on the line again. No more bailouts. #AcmeBankCollapse"
+        },
+        "lag_hours": 277.1
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugyrhpbttqd6xidf0uhifh",
+          "url": "https://www.youtube.com/watch?v=w2WaU9NWpnM&lc=Ugyrhpbttqd6xidf0uhifh",
+          "platform": "youtube",
+          "time": "2026-10-13T18:49:36.369793+00:00",
+          "account": "@viewer_28",
+          "account_id": "youtube:UC1EyGurzeq3pzGpStf2BuNX",
+          "coordinated_group": null,
+          "engagement": 42,
+          "text": "Taxpayers will end up paying for the Acme Bank mess but critics say it rewards reckless banking. Details matter here. anyone else?"
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1217",
+          "url": "https://t.me/acme_depositors/1217",
+          "platform": "telegram",
+          "time": "2026-10-26T11:52:04.021684+00:00",
+          "account": "user5152737",
+          "account_id": "telegram:5152737",
+          "coordinated_group": null,
+          "engagement": 65,
+          "text": "Taxpayers will end up paying for the Acme Bank mess but critics say it rewards reckless banking. Details matter here. #AcmeBankCollapse"
+        },
+        "lag_hours": 305.0
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1211",
+          "url": "https://t.me/acme_depositors/1211",
+          "platform": "telegram",
+          "time": "2026-10-13T04:37:39.497493+00:00",
+          "account": "user5220353",
+          "account_id": "telegram:5220353",
+          "coordinated_group": null,
+          "engagement": 24,
+          "text": "Deposit insurance should cover small Acme Bank accounts although the terms have not been published. Moral hazard all over again. smh"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug3ohet5h7l9qvy2unpry6",
+          "url": "https://www.youtube.com/watch?v=fj2jJAVet10&lc=Ug3ohet5h7l9qvy2unpry6",
+          "platform": "youtube",
+          "time": "2026-10-29T02:06:37.819617+00:00",
+          "account": "@viewer_51",
+          "account_id": "youtube:UCzKHqm1v9RmrDYc5KSv1ue4",
+          "coordinated_group": null,
+          "engagement": 46,
+          "text": "Deposit insurance should cover small Acme Bank accounts although the terms have not been published. Moral hazard all over again. #AcmeBankCollapse 😡"
+        },
+        "lag_hours": 381.5
+      }
+    ],
+    "breakout": null,
+    "share_of_posts_from_coordinated_groups": 0.0,
+    "caveat": "First *observed* post. Deleted or uncollected posts may be earlier."
+  },
+  {
+    "narrative_id": "N5",
+    "label": "customers, panic, report",
+    "first_posts": [
+      {
+        "post_id": "telegram:-1002002:1282",
+        "url": "https://t.me/acme_depositors/1282",
+        "platform": "telegram",
+        "time": "2026-10-02T00:00:16.457585+00:00",
+        "account": "user5045599",
+        "account_id": "telegram:5045599",
+        "coordinated_group": null,
+        "engagement": 47,
+        "text": "The regulator confirmed Acme Bank meets liquidity requirements and a full audit report is expected next week. Panic helps no one. #AcmeBank https://news.example.com/acme-bank-regulator-probe"
+      },
+      {
+        "post_id": "telegram:-1002002:1293",
+        "url": "https://t.me/acme_depositors/1293",
+        "platform": "telegram",
+        "time": "2026-10-02T01:26:00.271052+00:00",
+        "account": "user5458166",
+        "account_id": "telegram:5458166",
+        "coordinated_group": null,
+        "engagement": 20,
+        "text": "The regulator confirmed Acme Bank meets liquidity requirements and a full audit report is expected next week. Panic helps no one. anyone else?"
+      },
+      {
+        "post_id": "telegram:-1002002:1279",
+        "url": "https://t.me/acme_depositors/1279",
+        "platform": "telegram",
+        "time": "2026-10-02T05:29:32.486018+00:00",
+        "account": "user5452594",
+        "account_id": "telegram:5452594",
+        "coordinated_group": null,
+        "engagement": 81,
+        "text": "Acme Bank customers report withdrawals working again although trust will take time to rebuild. Good news for once."
+      },
+      {
+        "post_id": "telegram:-1002002:1255",
+        "url": "https://t.me/acme_depositors/1255",
+        "platform": "telegram",
+        "time": "2026-10-02T09:41:36.753102+00:00",
+        "account": "user5049002",
+        "account_id": "telegram:5049002",
+        "coordinated_group": null,
+        "engagement": 7,
+        "text": "Acme Bank customers report withdrawals working again according to the latest filing. Panic helps no one. #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1273",
+        "url": "https://t.me/acme_depositors/1273",
+        "platform": "telegram",
+        "time": "2026-10-02T09:49:20.455005+00:00",
+        "account": "user5337712",
+        "account_id": "telegram:5337712",
+        "coordinated_group": null,
+        "engagement": 28,
+        "text": "Acme Bank says the outage was caused by a system upgrade and a full audit report is expected next week. Fingers crossed. #AcmeBank 😡"
+      }
+    ],
+    "earlier_sources": [],
+    "platform_path": [
+      {
+        "platform": "telegram",
+        "first_seen": "2026-10-02T00:00:16.457585+00:00",
+        "lag_hours_from_start": 0.0,
+        "first_post": {
+          "post_id": "telegram:-1002002:1282",
+          "url": "https://t.me/acme_depositors/1282",
+          "platform": "telegram",
+          "time": "2026-10-02T00:00:16.457585+00:00",
+          "account": "user5045599",
+          "account_id": "telegram:5045599",
+          "coordinated_group": null,
+          "engagement": 47,
+          "text": "The regulator confirmed Acme Bank meets liquidity requirements and a full audit report is expected next week. Panic helps no one. #AcmeBank https://news.example.com/acme-bank-regulator-probe"
+        }
+      },
+      {
+        "platform": "youtube",
+        "first_seen": "2026-10-02T15:06:47.868212+00:00",
+        "lag_hours_from_start": 15.1,
+        "first_post": {
+          "post_id": "youtube:video:A9AELQkQN36",
+          "url": "https://www.youtube.com/watch?v=A9AELQkQN36",
+          "platform": "youtube",
+          "time": "2026-10-02T15:06:47.868212+00:00",
+          "account": "@money_talk_24",
+          "account_id": "youtube:UCvp8kD0D3Ms8GbLkV3AZkGA",
+          "coordinated_group": null,
+          "engagement": 3721,
+          "text": "The Acme Bank CEO gave an interview promising stability\n\nAnalysts say Acme Bank has enough capital to survive and a full audit report is expected next week. Good news for once. 😡\nRead more: https://ne"
+        }
+      }
+    ],
+    "cross_platform_hops": [
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1279",
+          "url": "https://t.me/acme_depositors/1279",
+          "platform": "telegram",
+          "time": "2026-10-02T05:29:32.486018+00:00",
+          "account": "user5452594",
+          "account_id": "telegram:5452594",
+          "coordinated_group": null,
+          "engagement": 81,
+          "text": "Acme Bank customers report withdrawals working again although trust will take time to rebuild. Good news for once."
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugfvbghb0v9474zzags2b9",
+          "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Ugfvbghb0v9474zzags2b9",
+          "platform": "youtube",
+          "time": "2026-10-03T20:16:06.956368+00:00",
+          "account": "@viewer_120",
+          "account_id": "youtube:UCFZB0iDIAWKfAWdWheCDOKL",
+          "coordinated_group": null,
+          "engagement": 2,
+          "text": "Acme Bank customers report withdrawals working again although trust will take time to rebuild. Good news for once. #AcmeBankCollapse"
+        },
+        "lag_hours": 38.8
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ug2a6gy7jmjpuo1wctjx0c",
+          "url": "https://www.youtube.com/watch?v=A9AELQkQN36&lc=Ug2a6gy7jmjpuo1wctjx0c",
+          "platform": "youtube",
+          "time": "2026-10-03T19:28:41.941959+00:00",
+          "account": "@viewer_1",
+          "account_id": "youtube:UCVwd6QEspT5pV74gdQq7eYi",
+          "coordinated_group": null,
+          "engagement": 31,
+          "text": "Analysts say Acme Bank has enough capital to survive and urged customers not to panic. Fingers crossed. #AcmeBankCollapse 😡"
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1261",
+          "url": "https://t.me/acme_depositors/1261",
+          "platform": "telegram",
+          "time": "2026-10-04T14:51:06.395366+00:00",
+          "account": "user5146856",
+          "account_id": "telegram:5146856",
+          "coordinated_group": null,
+          "engagement": 27,
+          "text": "Analysts say Acme Bank has enough capital to survive and urged customers not to panic. Fingers crossed. 😡 https://news.example.com/acme-bank-regulator-probe"
+        },
+        "lag_hours": 19.4
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ug0hfwfprwx1vo3t6cerwo",
+          "url": "https://www.youtube.com/watch?v=muTwvksotKe&lc=Ug0hfwfprwx1vo3t6cerwo",
+          "platform": "youtube",
+          "time": "2026-10-04T03:44:00.127975+00:00",
+          "account": "@viewer_189",
+          "account_id": "youtube:UCDVhewcpSMf4xsT5WkvCi-G",
+          "coordinated_group": null,
+          "engagement": 5,
+          "text": "The regulator confirmed Acme Bank meets liquidity requirements while the share price recovered slightly. Let's see if it holds."
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1250",
+          "url": "https://t.me/acme_depositors/1250",
+          "platform": "telegram",
+          "time": "2026-10-05T05:03:37.046103+00:00",
+          "account": "user5454969",
+          "account_id": "telegram:5454969",
+          "coordinated_group": null,
+          "engagement": 70,
+          "text": "The regulator confirmed Acme Bank meets liquidity requirements while the share price recovered slightly. Let's see if it holds. #AcmeBankCollapse smh https://news.example.com/acme-bank-regulator-probe"
+        },
+        "lag_hours": 25.3
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1003000010:1011",
+          "url": "https://t.me/finance_news_10/1011",
+          "platform": "telegram",
+          "time": "2026-10-04T06:16:44.136040+00:00",
+          "account": "finance_news_10",
+          "account_id": "telegram:-1003000010",
+          "coordinated_group": null,
+          "engagement": 334,
+          "text": "Acme Bank released a statement saying deposits are safe and branch hours are back to normal. Fingers crossed. 😡"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugp9eyp3e97fqmnwsa1nvt",
+          "url": "https://www.youtube.com/watch?v=KI3RJoqoJhx&lc=Ugp9eyp3e97fqmnwsa1nvt",
+          "platform": "youtube",
+          "time": "2026-10-06T14:43:05.458426+00:00",
+          "account": "@viewer_72",
+          "account_id": "youtube:UCnjpgeh4L-LZQ2lvF4wuFl0",
+          "coordinated_group": null,
+          "engagement": 7,
+          "text": "Acme Bank released a statement saying deposits are safe and branch hours are back to normal. Fingers crossed. 🙏"
+        },
+        "lag_hours": 56.4
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1270",
+          "url": "https://t.me/acme_depositors/1270",
+          "platform": "telegram",
+          "time": "2026-10-04T21:42:36.204236+00:00",
+          "account": "user5147897",
+          "account_id": "telegram:5147897",
+          "coordinated_group": null,
+          "engagement": 28,
+          "text": "Acme Bank says the outage was caused by a system upgrade according to the latest filing. Good news for once. 😡"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug4ycqe8n8cf1hl4ysbqh5",
+          "url": "https://www.youtube.com/watch?v=VXOmo0vPPcs&lc=Ug4ycqe8n8cf1hl4ysbqh5",
+          "platform": "youtube",
+          "time": "2026-10-06T18:42:11.064327+00:00",
+          "account": "@viewer_10",
+          "account_id": "youtube:UC_SEb1QrMur8ak3r2gGllt-",
+          "coordinated_group": null,
+          "engagement": 2,
+          "text": "Acme Bank says the outage was caused by a system upgrade according to the latest filing. Good news for once. #AcmeBankCollapse"
+        },
+        "lag_hours": 45.0
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1249",
+          "url": "https://t.me/acme_depositors/1249",
+          "platform": "telegram",
+          "time": "2026-10-05T23:20:34.689170+00:00",
+          "account": "user5174990",
+          "account_id": "telegram:5174990",
+          "coordinated_group": null,
+          "engagement": 31,
+          "text": "The Acme Bank CEO gave an interview promising stability and branch hours are back to normal. Good news for once."
+        },
+        "to": {
+          "post_id": "youtube:comment:Uggmkk8rt1jr85x8nwhbq5",
+          "url": "https://www.youtube.com/watch?v=QpcpFc6i12j&lc=Uggmkk8rt1jr85x8nwhbq5",
+          "platform": "youtube",
+          "time": "2026-10-07T13:10:13.456426+00:00",
+          "account": "@viewer_176",
+          "account_id": "youtube:UCN3dwZp9wyjOF5hZT4xjuTV",
+          "coordinated_group": null,
+          "engagement": 61,
+          "text": "The Acme Bank CEO gave an interview promising stability and branch hours are back to normal. Sensible update. #AcmeBank"
+        },
+        "lag_hours": 37.8
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ug8smbzhxcx9q66isnvl08",
+          "url": "https://www.youtube.com/watch?v=VXOmo0vPPcs&lc=Ug8smbzhxcx9q66isnvl08",
+          "platform": "youtube",
+          "time": "2026-10-05T16:43:47.048674+00:00",
+          "account": "@viewer_120",
+          "account_id": "youtube:UCFZB0iDIAWKfAWdWheCDOKL",
+          "coordinated_group": null,
+          "engagement": 72,
+          "text": "Analysts say Acme Bank has enough capital to survive according to the latest filing. Fingers crossed. smh"
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1289",
+          "url": "https://t.me/acme_depositors/1289",
+          "platform": "telegram",
+          "time": "2026-10-07T18:10:54.801904+00:00",
+          "account": "user5033467",
+          "account_id": "telegram:5033467",
+          "coordinated_group": null,
+          "engagement": 20,
+          "text": "Analysts say Acme Bank has enough capital to survive according to the latest filing. Fingers crossed. anyone else?"
+        },
+        "lag_hours": 49.5
+      },
+      {
+        "via": "same_text",
+        "from_platform": "youtube",
+        "to_platform": "telegram",
+        "from": {
+          "post_id": "youtube:comment:Ugkn1r1pg98xax5552gb1w",
+          "url": "https://www.youtube.com/watch?v=pIng6l9dIeA&lc=Ugkn1r1pg98xax5552gb1w",
+          "platform": "youtube",
+          "time": "2026-10-10T01:10:01.458292+00:00",
+          "account": "@viewer_62",
+          "account_id": "youtube:UCqdh9En6jujQgB8MuTdzLDR",
+          "coordinated_group": null,
+          "engagement": 23,
+          "text": "Analysts say Acme Bank has enough capital to survive according to the latest filing. Sensible update."
+        },
+        "to": {
+          "post_id": "telegram:-1002002:1256",
+          "url": "https://t.me/acme_depositors/1256",
+          "platform": "telegram",
+          "time": "2026-10-10T09:28:58.640614+00:00",
+          "account": "user5481786",
+          "account_id": "telegram:5481786",
+          "coordinated_group": null,
+          "engagement": 22,
+          "text": "Analysts say Acme Bank has enough capital to survive according to the latest filing. Sensible update. #AcmeBankCollapse"
+        },
+        "lag_hours": 8.3
+      },
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1254",
+          "url": "https://t.me/acme_depositors/1254",
+          "platform": "telegram",
+          "time": "2026-10-03T21:39:26.235017+00:00",
+          "account": "user5469093",
+          "account_id": "telegram:5469093",
+          "coordinated_group": null,
+          "engagement": 18,
+          "text": "Acme Bank says the outage was caused by a system upgrade and urged customers not to panic. Fingers crossed. #AcmeBank"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ugkfi3x1mcdtv6otwrjhr6",
+          "url": "https://www.youtube.com/watch?v=IEHOvqoI2BK&lc=Ugkfi3x1mcdtv6otwrjhr6",
+          "platform": "youtube",
+          "time": "2026-10-13T18:28:12.981139+00:00",
+          "account": "@viewer_125",
+          "account_id": "youtube:UCx39Igc5o91v5oGN6LjREQI",
+          "coordinated_group": null,
+          "engagement": 39,
+          "text": "Acme Bank says the outage was caused by a system upgrade and urged customers not to panic. Fingers crossed. #AcmeBank"
+        },
+        "lag_hours": 236.8
+      }
+    ],
+    "breakout": null,
+    "share_of_posts_from_coordinated_groups": 0.0,
+    "caveat": "First *observed* post. Deleted or uncollected posts may be earlier."
+  },
+  {
+    "narrative_id": "N6",
+    "label": "spreading fear, fine, short",
+    "first_posts": [
+      {
+        "post_id": "youtube:comment:Ug09zewej2tfbqccbmfkdw",
+        "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ug09zewej2tfbqccbmfkdw",
+        "platform": "youtube",
+        "time": "2026-10-14T16:14:09.834659+00:00",
+        "account": "@real_investor_2",
+        "account_id": "youtube:UCHATu2f9_jOZyCuxC5UrJhA",
+        "coordinated_group": "G2",
+        "engagement": 1,
+        "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+      },
+      {
+        "post_id": "youtube:comment:Ug3eft3quych7v6tds2exq",
+        "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ug3eft3quych7v6tds2exq",
+        "platform": "youtube",
+        "time": "2026-10-14T16:14:22.688724+00:00",
+        "account": "@daily_investor_4",
+        "account_id": "youtube:UCuAhcuOlJIAwAHUnwjOMrEV",
+        "coordinated_group": "G2",
+        "engagement": 6,
+        "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+      },
+      {
+        "post_id": "youtube:comment:Ugly3tt8h2dnjckcaf7ria",
+        "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ugly3tt8h2dnjckcaf7ria",
+        "platform": "youtube",
+        "time": "2026-10-14T16:14:41.709074+00:00",
+        "account": "@true_investor_5",
+        "account_id": "youtube:UCSX6iNCQ87sYWt-Oz0sNgXx",
+        "coordinated_group": "G2",
+        "engagement": 51,
+        "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank !!"
+      },
+      {
+        "post_id": "youtube:comment:Ugwycqktt51itr1u6yk28n",
+        "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ugwycqktt51itr1u6yk28n",
+        "platform": "youtube",
+        "time": "2026-10-14T16:15:00.042079+00:00",
+        "account": "@true_investor_6",
+        "account_id": "youtube:UCoTZq-JI-_scG8x1QmAkeIE",
+        "coordinated_group": "G2",
+        "engagement": 49,
+        "text": "🚨 Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+      },
+      {
+        "post_id": "youtube:comment:Uglzey4h3fx60wf797rntf",
+        "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Uglzey4h3fx60wf797rntf",
+        "platform": "youtube",
+        "time": "2026-10-14T16:15:56.147196+00:00",
+        "account": "@daily_investor_7",
+        "account_id": "youtube:UCFXWr5bNLd5dZDtDDMuLbl9",
+        "coordinated_group": "G2",
+        "engagement": 12,
+        "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+      }
+    ],
+    "earlier_sources": [],
+    "platform_path": [
+      {
+        "platform": "youtube",
+        "first_seen": "2026-10-14T16:14:09.834659+00:00",
+        "lag_hours_from_start": 0.0,
+        "first_post": {
+          "post_id": "youtube:comment:Ug09zewej2tfbqccbmfkdw",
+          "url": "https://www.youtube.com/watch?v=izR7hV0ueqx&lc=Ug09zewej2tfbqccbmfkdw",
+          "platform": "youtube",
+          "time": "2026-10-14T16:14:09.834659+00:00",
+          "account": "@real_investor_2",
+          "account_id": "youtube:UCHATu2f9_jOZyCuxC5UrJhA",
+          "coordinated_group": "G2",
+          "engagement": 1,
+          "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+        }
+      }
+    ],
+    "cross_platform_hops": [],
+    "breakout": {
+      "spike_start": "2026-10-16T10:14:09.834659+00:00",
+      "bin": "6 hours",
+      "posts_in_bin": 8,
+      "baseline_per_bin": 0,
+      "amplifiers": [
+        {
+          "post_id": "youtube:comment:Ug72dkgp5oikhbpdph93i4",
+          "url": "https://www.youtube.com/watch?v=UTjuyf7zCXb&lc=Ug72dkgp5oikhbpdph93i4",
+          "platform": "youtube",
+          "time": "2026-10-16T11:23:37.380793+00:00",
+          "account": "@daily_investor_0",
+          "account_id": "youtube:UCe7bQOCjThoRg4gAUngOS5a",
+          "coordinated_group": "G2",
+          "engagement": 75,
+          "text": "🚨 Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+        },
+        {
+          "post_id": "youtube:comment:Ugg2meiu4zhqwha8c4xjup",
+          "url": "https://www.youtube.com/watch?v=UTjuyf7zCXb&lc=Ugg2meiu4zhqwha8c4xjup",
+          "platform": "youtube",
+          "time": "2026-10-16T11:24:51.118267+00:00",
+          "account": "@daily_investor_3",
+          "account_id": "youtube:UCrR8C1umj7eYVsuQq4BY26y",
+          "coordinated_group": "G2",
+          "engagement": 59,
+          "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank !!"
+        },
+        {
+          "post_id": "youtube:comment:Ug4dds2zbzormb6h5mlk1b",
+          "url": "https://www.youtube.com/watch?v=UTjuyf7zCXb&lc=Ug4dds2zbzormb6h5mlk1b",
+          "platform": "youtube",
+          "time": "2026-10-16T11:25:18.248933+00:00",
+          "account": "@real_investor_2",
+          "account_id": "youtube:UCHATu2f9_jOZyCuxC5UrJhA",
+          "coordinated_group": "G2",
+          "engagement": 57,
+          "text": "🚨 Acme Bank is completely fine, this panic is FUD spread by short sellers!! Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+        },
+        {
+          "post_id": "youtube:comment:Ugtfhgm7vwns7sjctgptoy",
+          "url": "https://www.youtube.com/watch?v=UTjuyf7zCXb&lc=Ugtfhgm7vwns7sjctgptoy",
+          "platform": "youtube",
+          "time": "2026-10-16T11:24:27.751276+00:00",
+          "account": "@true_investor_5",
+          "account_id": "youtube:UCSX6iNCQ87sYWt-Oz0sNgXx",
+          "coordinated_group": "G2",
+          "engagement": 50,
+          "text": "🚨 Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+        },
+        {
+          "post_id": "youtube:comment:Ugdrkh7wjlmz85sc5t3k33",
+          "url": "https://www.youtube.com/watch?v=UTjuyf7zCXb&lc=Ugdrkh7wjlmz85sc5t3k33",
+          "platform": "youtube",
+          "time": "2026-10-16T11:25:56.933312+00:00",
+          "account": "@daily_investor_7",
+          "account_id": "youtube:UCFXWr5bNLd5dZDtDDMuLbl9",
+          "coordinated_group": "G2",
+          "engagement": 41,
+          "text": "Acme Bank is completely fine, this panic is FUD spread by short sellers. Deposits are 100 percent safe so stop spreading fear #AcmeBank"
+        }
+      ]
+    },
+    "share_of_posts_from_coordinated_groups": 1.0,
+    "caveat": "First *observed* post. Deleted or uncollected posts may be earlier."
+  },
+  {
+    "narrative_id": "N7",
+    "label": "lmao, cover withdrawals, excuse",
+    "first_posts": [
+      {
+        "post_id": "telegram:-1002002:1340",
+        "url": "https://t.me/acme_depositors/1340",
+        "platform": "telegram",
+        "time": "2026-10-10T00:33:21.542171+00:00",
+        "account": "user5314380",
+        "account_id": "telegram:5314380",
+        "coordinated_group": null,
+        "engagement": 52,
+        "text": "If Acme Bank had a dollar for every excuse they made they still could not cover the withdrawals lmao"
+      },
+      {
+        "post_id": "telegram:-1002002:1331",
+        "url": "https://t.me/acme_depositors/1331",
+        "platform": "telegram",
+        "time": "2026-10-10T07:15:11.363002+00:00",
+        "account": "user5287499",
+        "account_id": "telegram:5287499",
+        "coordinated_group": null,
+        "engagement": 26,
+        "text": "If Acme Bank had a dollar for every excuse they made they still could not cover the withdrawals lmao"
+      },
+      {
+        "post_id": "youtube:comment:Ug7nsr4z0367xv1tsn3v3c",
+        "url": "https://www.youtube.com/watch?v=C0hIigGelvc&lc=Ug7nsr4z0367xv1tsn3v3c",
+        "platform": "youtube",
+        "time": "2026-10-10T07:53:52.479474+00:00",
+        "account": "@viewer_112",
+        "account_id": "youtube:UCwOH3HeVobMK9h76QJ5oMaj",
+        "coordinated_group": null,
+        "engagement": 31,
+        "text": "If Acme Bank had a dollar for every excuse they made they still could not cover the withdrawals lmao"
+      },
+      {
+        "post_id": "youtube:comment:Ug5ngrg3cgtqw65sy2b7c7",
+        "url": "https://www.youtube.com/watch?v=IgBi3OYw0fP&lc=Ug5ngrg3cgtqw65sy2b7c7",
+        "platform": "youtube",
+        "time": "2026-10-10T14:13:01.582031+00:00",
+        "account": "@viewer_114",
+        "account_id": "youtube:UCRYmoZIzDVBu9dI9v_bbY8Z",
+        "coordinated_group": null,
+        "engagement": 38,
+        "text": "If Acme Bank had a dollar for every excuse they made they still could not cover the withdrawals lmao"
+      },
+      {
+        "post_id": "telegram:-1002002:1343",
+        "url": "https://t.me/acme_depositors/1343",
+        "platform": "telegram",
+        "time": "2026-10-10T20:53:43.644669+00:00",
+        "account": "user5317364",
+        "account_id": "telegram:5317364",
+        "coordinated_group": null,
+        "engagement": 52,
+        "text": "If Acme Bank had a dollar for every excuse they made they still could not cover the withdrawals lmao"
+      }
+    ],
+    "earlier_sources": [],
+    "platform_path": [
+      {
+        "platform": "telegram",
+        "first_seen": "2026-10-10T00:33:21.542171+00:00",
+        "lag_hours_from_start": 0.0,
+        "first_post": {
+          "post_id": "telegram:-1002002:1340",
+          "url": "https://t.me/acme_depositors/1340",
+          "platform": "telegram",
+          "time": "2026-10-10T00:33:21.542171+00:00",
+          "account": "user5314380",
+          "account_id": "telegram:5314380",
+          "coordinated_group": null,
+          "engagement": 52,
+          "text": "If Acme Bank had a dollar for every excuse they made they still could not cover the withdrawals lmao"
+        }
+      },
+      {
+        "platform": "youtube",
+        "first_seen": "2026-10-10T07:53:52.479474+00:00",
+        "lag_hours_from_start": 7.3,
+        "first_post": {
+          "post_id": "youtube:comment:Ug7nsr4z0367xv1tsn3v3c",
+          "url": "https://www.youtube.com/watch?v=C0hIigGelvc&lc=Ug7nsr4z0367xv1tsn3v3c",
+          "platform": "youtube",
+          "time": "2026-10-10T07:53:52.479474+00:00",
+          "account": "@viewer_112",
+          "account_id": "youtube:UCwOH3HeVobMK9h76QJ5oMaj",
+          "coordinated_group": null,
+          "engagement": 31,
+          "text": "If Acme Bank had a dollar for every excuse they made they still could not cover the withdrawals lmao"
+        }
+      }
+    ],
+    "cross_platform_hops": [
+      {
+        "via": "same_text",
+        "from_platform": "telegram",
+        "to_platform": "youtube",
+        "from": {
+          "post_id": "telegram:-1002002:1340",
+          "url": "https://t.me/acme_depositors/1340",
+          "platform": "telegram",
+          "time": "2026-10-10T00:33:21.542171+00:00",
+          "account": "user5314380",
+          "account_id": "telegram:5314380",
+          "coordinated_group": null,
+          "engagement": 52,
+          "text": "If Acme Bank had a dollar for every excuse they made they still could not cover the withdrawals lmao"
+        },
+        "to": {
+          "post_id": "youtube:comment:Ug7nsr4z0367xv1tsn3v3c",
+          "url": "https://www.youtube.com/watch?v=C0hIigGelvc&lc=Ug7nsr4z0367xv1tsn3v3c",
+          "platform": "youtube",
+          "time": "2026-10-10T07:53:52.479474+00:00",
+          "account": "@viewer_112",
+          "account_id": "youtube:UCwOH3HeVobMK9h76QJ5oMaj",
+          "coordinated_group": null,
+          "engagement": 31,
+          "text": "If Acme Bank had a dollar for every excuse they made they still could not cover the withdrawals lmao"
+        },
+        "lag_hours": 7.3
+      }
+    ],
+    "breakout": null,
+    "share_of_posts_from_coordinated_groups": 0.0,
+    "caveat": "First *observed* post. Deleted or uncollected posts may be earlier."
+  },
+  {
+    "narrative_id": "N8",
+    "label": "shell companies, outlet, losses moved",
+    "first_posts": [
+      {
+        "post_id": "telegram:-1002002:1365",
+        "url": "https://t.me/acme_depositors/1365",
+        "platform": "telegram",
+        "time": "2026-10-04T18:10:43.229152+00:00",
+        "account": "Ravi525",
+        "account_id": "telegram:5553555",
+        "coordinated_group": "G1",
+        "engagement": 66,
+        "text": "🚨 Why is no mainstream outlet reporting that Acme Bank losses were moved into shell companies in Cyprus? They are protecting the elites. #AcmeBankCollapse !!"
+      },
+      {
+        "post_id": "telegram:-1002002:1368",
+        "url": "https://t.me/acme_depositors/1368",
+        "platform": "telegram",
+        "time": "2026-10-04T18:10:43.759194+00:00",
+        "account": "Patriot127",
+        "account_id": "telegram:5524139",
+        "coordinated_group": "G1",
+        "engagement": 13,
+        "text": "Why is no mainstream outlet reporting that Acme Bank losses were moved into shell companies in Cyprus? They are protecting the elites!! #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1366",
+        "url": "https://t.me/acme_depositors/1366",
+        "platform": "telegram",
+        "time": "2026-10-04T18:10:48.726212+00:00",
+        "account": "Saver517",
+        "account_id": "telegram:5556204",
+        "coordinated_group": "G1",
+        "engagement": 78,
+        "text": "🚨 Why is no mainstream outlet reporting that Acme Bank losses were moved into shell companies in Cyprus? They are protecting the elites. #AcmeBankCollapse 👇"
+      },
+      {
+        "post_id": "telegram:-1002002:1371",
+        "url": "https://t.me/acme_depositors/1371",
+        "platform": "telegram",
+        "time": "2026-10-04T18:10:53.150958+00:00",
+        "account": "Truth626",
+        "account_id": "telegram:5547076",
+        "coordinated_group": "G1",
+        "engagement": 49,
+        "text": "🚨 Why is no mainstream outlet reporting that Acme Bank losses were moved into shell companies in Cyprus? They are protecting the elites. #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1372",
+        "url": "https://t.me/acme_depositors/1372",
+        "platform": "telegram",
+        "time": "2026-10-04T18:11:10.782722+00:00",
+        "account": "Saver70",
+        "account_id": "telegram:5559638",
+        "coordinated_group": "G1",
+        "engagement": 101,
+        "text": "🚨 Why is no mainstream outlet reporting that Acme Bank losses were moved into shell companies in Cyprus? They are protecting the elites. #AcmeBankCollapse !!"
+      }
+    ],
+    "earlier_sources": [],
+    "platform_path": [
+      {
+        "platform": "telegram",
+        "first_seen": "2026-10-04T18:10:43.229152+00:00",
+        "lag_hours_from_start": 0.0,
+        "first_post": {
+          "post_id": "telegram:-1002002:1365",
+          "url": "https://t.me/acme_depositors/1365",
+          "platform": "telegram",
+          "time": "2026-10-04T18:10:43.229152+00:00",
+          "account": "Ravi525",
+          "account_id": "telegram:5553555",
+          "coordinated_group": "G1",
+          "engagement": 66,
+          "text": "🚨 Why is no mainstream outlet reporting that Acme Bank losses were moved into shell companies in Cyprus? They are protecting the elites. #AcmeBankCollapse !!"
+        }
+      }
+    ],
+    "cross_platform_hops": [],
+    "breakout": null,
+    "share_of_posts_from_coordinated_groups": 1.0,
+    "caveat": "First *observed* post. Deleted or uncollected posts may be earlier."
+  },
+  {
+    "narrative_id": "N9",
+    "label": "exposing hidden, whistleblower, knew months",
+    "first_posts": [
+      {
+        "post_id": "telegram:-1002002:1380",
+        "url": "https://t.me/acme_depositors/1380",
+        "platform": "telegram",
+        "time": "2026-10-06T08:49:03.726106+00:00",
+        "account": "Saver517",
+        "account_id": "telegram:5556204",
+        "coordinated_group": "G1",
+        "engagement": 95,
+        "text": "🚨 Acme Bank whistleblower fired after exposing hidden losses. Regulators knew for months and stayed silent. Spread this everywhere #AcmeBankCollapse !!"
+      },
+      {
+        "post_id": "telegram:-1002002:1378",
+        "url": "https://t.me/acme_depositors/1378",
+        "platform": "telegram",
+        "time": "2026-10-06T08:49:05.725398+00:00",
+        "account": "Saver432",
+        "account_id": "telegram:5534343",
+        "coordinated_group": "G1",
+        "engagement": 52,
+        "text": "🚨 Acme Bank whistleblower fired after exposing hidden losses. Regulators knew for months and stayed silent. Spread this everywhere #AcmeBankCollapse !!"
+      },
+      {
+        "post_id": "telegram:-1002002:1379",
+        "url": "https://t.me/acme_depositors/1379",
+        "platform": "telegram",
+        "time": "2026-10-06T08:49:12.537313+00:00",
+        "account": "Ravi525",
+        "account_id": "telegram:5553555",
+        "coordinated_group": "G1",
+        "engagement": 89,
+        "text": "Acme Bank whistleblower fired after exposing hidden losses. Regulators knew for months and stayed silent. Spread this everywhere #AcmeBankCollapse !! 👇"
+      },
+      {
+        "post_id": "telegram:-1002002:1376",
+        "url": "https://t.me/acme_depositors/1376",
+        "platform": "telegram",
+        "time": "2026-10-06T08:49:25.767227+00:00",
+        "account": "Ravi609",
+        "account_id": "telegram:5544115",
+        "coordinated_group": "G1",
+        "engagement": 73,
+        "text": "Acme Bank whistleblower fired after exposing hidden losses. Regulators knew for months and stayed silent. Spread this everywhere #AcmeBankCollapse !! 👇"
+      },
+      {
+        "post_id": "telegram:-1002002:1374",
+        "url": "https://t.me/acme_depositors/1374",
+        "platform": "telegram",
+        "time": "2026-10-06T08:50:06.917153+00:00",
+        "account": "Patriot938",
+        "account_id": "telegram:5550873",
+        "coordinated_group": "G1",
+        "engagement": 79,
+        "text": "Acme Bank whistleblower fired after exposing hidden losses. Regulators knew for months and stayed silent. Spread this everywhere #AcmeBankCollapse 👇"
+      }
+    ],
+    "earlier_sources": [],
+    "platform_path": [
+      {
+        "platform": "telegram",
+        "first_seen": "2026-10-06T08:49:03.726106+00:00",
+        "lag_hours_from_start": 0.0,
+        "first_post": {
+          "post_id": "telegram:-1002002:1380",
+          "url": "https://t.me/acme_depositors/1380",
+          "platform": "telegram",
+          "time": "2026-10-06T08:49:03.726106+00:00",
+          "account": "Saver517",
+          "account_id": "telegram:5556204",
+          "coordinated_group": "G1",
+          "engagement": 95,
+          "text": "🚨 Acme Bank whistleblower fired after exposing hidden losses. Regulators knew for months and stayed silent. Spread this everywhere #AcmeBankCollapse !!"
+        }
+      }
+    ],
+    "cross_platform_hops": [],
+    "breakout": null,
+    "share_of_posts_from_coordinated_groups": 1.0,
+    "caveat": "First *observed* post. Deleted or uncollected posts may be earlier."
+  },
+  {
+    "narrative_id": "N10",
+    "label": "covered cover, knew hiding, billions",
+    "first_posts": [
+      {
+        "post_id": "telegram:-1001001:101",
+        "url": "https://t.me/acme_truth/101",
+        "platform": "telegram",
+        "time": "2026-10-03T09:12:00+00:00",
+        "account": "acme_truth",
+        "account_id": "telegram:-1001001",
+        "coordinated_group": null,
+        "engagement": 507,
+        "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1356",
+        "url": "https://t.me/acme_depositors/1356",
+        "platform": "telegram",
+        "time": "2026-10-03T10:45:24.763402+00:00",
+        "account": "Saver70",
+        "account_id": "telegram:5559638",
+        "coordinated_group": "G1",
+        "engagement": 11,
+        "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1359",
+        "url": "https://t.me/acme_depositors/1359",
+        "platform": "telegram",
+        "time": "2026-10-03T10:45:39.027847+00:00",
+        "account": "Saver53",
+        "account_id": "telegram:5528727",
+        "coordinated_group": "G1",
+        "engagement": 89,
+        "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1361",
+        "url": "https://t.me/acme_depositors/1361",
+        "platform": "telegram",
+        "time": "2026-10-03T10:45:39.589174+00:00",
+        "account": "Ravi609",
+        "account_id": "telegram:5544115",
+        "coordinated_group": "G1",
+        "engagement": 33,
+        "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+      },
+      {
+        "post_id": "telegram:-1002002:1355",
+        "url": "https://t.me/acme_depositors/1355",
+        "platform": "telegram",
+        "time": "2026-10-03T10:45:47.670066+00:00",
+        "account": "Anna14",
+        "account_id": "telegram:5530865",
+        "coordinated_group": "G1",
+        "engagement": 10,
+        "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+      }
+    ],
+    "earlier_sources": [],
+    "platform_path": [
+      {
+        "platform": "telegram",
+        "first_seen": "2026-10-03T09:12:00+00:00",
+        "lag_hours_from_start": 0.0,
+        "first_post": {
+          "post_id": "telegram:-1001001:101",
+          "url": "https://t.me/acme_truth/101",
+          "platform": "telegram",
+          "time": "2026-10-03T09:12:00+00:00",
+          "account": "acme_truth",
+          "account_id": "telegram:-1001001",
+          "coordinated_group": null,
+          "engagement": 507,
+          "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+        }
+      }
+    ],
+    "cross_platform_hops": [],
+    "breakout": {
+      "spike_start": "2026-10-03T10:12:00+00:00",
+      "bin": "hour",
+      "posts_in_bin": 8,
+      "baseline_per_bin": 1,
+      "amplifiers": [
+        {
+          "post_id": "telegram:-1001001:101",
+          "url": "https://t.me/acme_truth/101",
+          "platform": "telegram",
+          "time": "2026-10-03T09:12:00+00:00",
+          "account": "acme_truth",
+          "account_id": "telegram:-1001001",
+          "coordinated_group": null,
+          "engagement": 507,
+          "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+        },
+        {
+          "post_id": "telegram:-1002002:1359",
+          "url": "https://t.me/acme_depositors/1359",
+          "platform": "telegram",
+          "time": "2026-10-03T10:45:39.027847+00:00",
+          "account": "Saver53",
+          "account_id": "telegram:5528727",
+          "coordinated_group": "G1",
+          "engagement": 89,
+          "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+        },
+        {
+          "post_id": "telegram:-1002002:1358",
+          "url": "https://t.me/acme_depositors/1358",
+          "platform": "telegram",
+          "time": "2026-10-03T10:45:59.796497+00:00",
+          "account": "Truth626",
+          "account_id": "telegram:5547076",
+          "coordinated_group": "G1",
+          "engagement": 72,
+          "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+        },
+        {
+          "post_id": "telegram:-1002002:1357",
+          "url": "https://t.me/acme_depositors/1357",
+          "platform": "telegram",
+          "time": "2026-10-03T10:46:24.892134+00:00",
+          "account": "Ravi525",
+          "account_id": "telegram:5553555",
+          "coordinated_group": "G1",
+          "engagement": 69,
+          "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+        },
+        {
+          "post_id": "telegram:-1002002:1362",
+          "url": "https://t.me/acme_depositors/1362",
+          "platform": "telegram",
+          "time": "2026-10-03T10:46:14.705419+00:00",
+          "account": "Saver432",
+          "account_id": "telegram:5534343",
+          "coordinated_group": "G1",
+          "engagement": 57,
+          "text": "EXCLUSIVE: documents show regulators knew Acme Bank was hiding billions in losses and covered it up. This is not a collapse, it is a cover up. #AcmeBankCollapse"
+        }
+      ]
+    },
+    "share_of_posts_from_coordinated_groups": 0.889,
+    "caveat": "First *observed* post. Deleted or uncollected posts may be earlier."
+  }
+]
